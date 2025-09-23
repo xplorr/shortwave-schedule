@@ -1,3 +1,5 @@
+// A25 Shortwave Frequency List  September 16  2025, 1100 UTC   Day 1 = Sunday (converted by XPloRR at 2025-09-23 11:34 UTC)
+
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
   {"freq": "60", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Haganeyama", "days": "1-7"},
