@@ -12,7 +12,7 @@ lines = text.splitlines()
 # First line for comment header
 first_line = lines[0].strip()
 timestamp = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
-header_comment = f"// {first_line} (converted by XPloRR at {timestamp})"
+header_comment = f"// {first_line} (AOKI Database converted by XPloRR at {timestamp})"
 
 # Skip first 4 header lines
 lines = lines[4:]
