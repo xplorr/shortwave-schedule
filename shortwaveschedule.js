@@ -1,4 +1,4 @@
-// A25 Shortwave Frequency List  September 16  2025, 1100 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2025-09-25 03:27 UTC)
+// A25 Shortwave Frequency List  September 26  2025, 0100 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2025-09-26 03:25 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -1973,11 +1973,11 @@ var shortWaveSchedule = [
   {"freq": "6105", "startTime": "1230", "endTime": "1300", "ITU": "TWN", "station": "R.TAIWAN INT.", "language": "Hak", "location": "Kouhu", "days": "1-7"},
   {"freq": "6105", "startTime": "2300", "endTime": "2330", "ITU": "TWN", "station": "* R.TAIWAN INT.", "language": "Chi", "location": "Kouhu", "days": "1-7"},
   {"freq": "6110", "startTime": "1900", "endTime": "1957", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Rus", "location": "Xianyang 59", "days": "1-7"},
-  {"freq": "6110", "startTime": "1600", "endTime": "1630", "ITU": "TWN", "station": "Furusato no kaze", "language": "Jpn", "location": "Tamsui Dist", "days": "1-7"},
-  {"freq": "6110", "startTime": "1700", "endTime": "1730", "ITU": "TWN", "station": "Furusato no kaze", "language": "Jpn", "location": "Tamsui Dist", "days": "1-7"},
   {"freq": "6110", "startTime": "1500", "endTime": "1530", "ITU": "TWN", "station": "Nippon no Kaze\"il bon ue", "language": "Kor", "location": "Tamsui Dist", "days": "1-7"},
   {"freq": "6110", "startTime": "1530", "endTime": "1600", "ITU": "TWN", "station": "Nippon no Kaze\"il bon ue", "language": "Kor", "location": "Tamsui Dist", "days": "1-7"},
+  {"freq": "6110", "startTime": "1600", "endTime": "1630", "ITU": "TWN", "station": "Furusato no kaze", "language": "Jpn", "location": "Tamsui Dist", "days": "1-7"},
   {"freq": "6110", "startTime": "1630", "endTime": "1700", "ITU": "TWN", "station": "Nippon no Kaze\"il bon ue", "language": "Kor", "location": "Tamsui Dist", "days": "1-7"},
+  {"freq": "6110", "startTime": "1700", "endTime": "1730", "ITU": "TWN", "station": "Furusato no kaze", "language": "Jpn", "location": "Tamsui Dist", "days": "1-7"},
   {"freq": "6110", "startTime": "0000", "endTime": "0300", "ITU": "TIB", "station": "PBS Xizang", "language": "Tib", "location": "Lhasa-Baidi", "days": "1-7"},
   {"freq": "6110", "startTime": "1100", "endTime": "1600", "ITU": "TIB", "station": "PBS Xizang", "language": "Tib", "location": "Lhasa-Baidi", "days": "1-7"},
   {"freq": "6110", "startTime": "1600", "endTime": "1700", "ITU": "TIB", "station": "PBS Xizang", "language": "Eng", "location": "Lhasa-Baidi", "days": "1-7"},
@@ -3101,7 +3101,7 @@ var shortWaveSchedule = [
   {"freq": "9685", "startTime": "0000", "endTime": "0600", "ITU": "CHN", "station": "CNR 5", "language": "Chi", "location": "Beijing 491", "days": "1-7"},
   {"freq": "9685", "startTime": "0600", "endTime": "0900", "ITU": "CHN", "station": "CNR 5", "language": "Chi", "location": "Beijing 491", "days": "5-3"},
   {"freq": "9685", "startTime": "0900", "endTime": "1000", "ITU": "CHN", "station": "CNR 5", "language": "Chi", "location": "Beijing 491", "days": "1-7"},
-  {"freq": "9685", "startTime": "1430", "endTime": "1458", "ITU": "TWN", "station": "Furusato no kaze", "language": "Jpn", "location": "Paochung", "days": "1-7"},
+  {"freq": "9685", "startTime": "1430", "endTime": "1500", "ITU": "TWN", "station": "Furusato no kaze", "language": "Jpn", "location": "Paochung", "days": "1-7"},
   {"freq": "9685", "startTime": "1500", "endTime": "1530", "ITU": "TWN", "station": "Nippon no Kaze\"il bon ue", "language": "Kor", "location": "Paochung", "days": "1-7"},
   {"freq": "9685", "startTime": "1530", "endTime": "1558", "ITU": "TWN", "station": "Nippon no Kaze\"il bon ue", "language": "Kor", "location": "Paochung", "days": "1-7"},
   {"freq": "9685", "startTime": "1000", "endTime": "1100", "ITU": "ALS", "station": "World Christian Broadc.K", "language": "Chi", "location": "Anchor Poin", "days": "1-7"},
