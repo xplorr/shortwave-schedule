@@ -1,4 +1,4 @@
-// A25 Shortwave Frequency List  September 26  2025, 0100 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2025-10-01 03:37 UTC)
+// A25 Shortwave Frequency List  September 26  2025, 0100 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2025-10-02 03:22 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
