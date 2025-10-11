@@ -1,9 +1,9 @@
-name: Update shortwave schedule
+name: Update AOKI shortwave schedule
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # Runs every day at 03:00 UTC
-  workflow_dispatch:       # Allow manual trigger
+    - cron: "0 3 * * *"    # Every day at 03:00 UTC
+  workflow_dispatch:        # Manual trigger
 
 jobs:
   build:
@@ -11,28 +11,25 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run conversion
-        run: python convert.py
-
-      - name: List generated files
-        run: ls -l
+      - name: Run AOKI conversion
+        run: python convert_aoki.py
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add shortwaveschedule.js kiwiservers.js
-          git commit -m "Update schedule and KiwiSDR servers" || echo "No changes to commit"
+          git add shortwaveschedule.js
+          git commit -m "Update shortwave schedule (AOKI)" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
