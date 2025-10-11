@@ -2,24 +2,41 @@ import requests
 import json
 from datetime import datetime
 
-URL = "https://www1.s2.starcat.ne.jp/ndxc/pc/ns/userlist1.txt"
-OUTPUT_FILE = "shortwaveschedule.js"
+# === CONFIGURATION ===
+AOKI_URL = "https://www1.s2.starcat.ne.jp/ndxc/pc/ns/userlist1.txt"
+AOKI_OUTPUT_FILE = "shortwaveschedule.js"
 
-# Fetch the file
-text = requests.get(URL).text
-lines = text.splitlines()
+KIWI_URL = "http://rx.linkfanel.net/kiwisdr_com.js"
+KIWI_OUTPUT_FILE = "kiwiservers.js"
 
-# First line for comment header
-first_line = lines[0].strip()
-timestamp = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+
+# === COMMON UTILITIES ===
+def utc_timestamp():
+    """Return current UTC time formatted for header."""
+    return datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+
+
+def write_with_header(filename, header_text, content):
+    """Write content to file with header line."""
+    with open(filename, "w", encoding="utf-8") as f:
+        f.write(header_text + "\n\n")
+        f.write(content)
+
+
+# === PART 1: AOKI shortwave schedule ===
+print("Fetching AOKI shortwave schedule...")
+aoki_text = requests.get(AOKI_URL).text
+aoki_lines = aoki_text.splitlines()
+
+first_line = aoki_lines[0].strip()
+timestamp = utc_timestamp()
 header_comment = f"// {first_line} (AOKI Database converted by XPloRR at {timestamp})"
 
 # Skip first 4 header lines
-lines = lines[4:]
+aoki_lines = aoki_lines[4:]
 
 data = []
-
-for line in lines:
+for line in aoki_lines:
     if not line.strip():
         continue
 
@@ -45,10 +62,20 @@ for line in lines:
     }
     data.append(entry)
 
-# Write as nicely formatted JS file with comment header
-with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-    f.write(header_comment + "\n\n")
-    f.write("var shortWaveSchedule = [\n")
-    for entry in data:
-        f.write("  " + json.dumps(entry, ensure_ascii=False) + ",\n")
-    f.write("];\n")
+# Build JS content
+aoki_js = "var shortWaveSchedule = [\n"
+for entry in data:
+    aoki_js += "  " + json.dumps(entry, ensure_ascii=False) + ",\n"
+aoki_js += "];\n"
+
+write_with_header(AOKI_OUTPUT_FILE, header_comment, aoki_js)
+print(f"Wrote {AOKI_OUTPUT_FILE}")
+
+
+# === PART 2: KiwiSDR server list ===
+print("Fetching KiwiSDR server list...")
+kiwi_text = requests.get(KIWI_URL).text
+kiwi_header = f"// Updated by XPloRR at {timestamp}"
+
+write_with_header(KIWI_OUTPUT_FILE, kiwi_header, kiwi_text)
+print(f"Wrote {KIWI_OUTPUT_FILE}")
