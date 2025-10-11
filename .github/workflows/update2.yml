@@ -1,0 +1,35 @@
+name: Update KiwiSDR server list
+
+on:
+  schedule:
+    - cron: "5,25,45 * * * *"  # Every 20 minutes at :05, :25, :45
+  workflow_dispatch:            # Manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Kiwi copy
+        run: python copy_kiwi.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add kiwiservers.js
+          git commit -m "Update KiwiSDR servers" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
