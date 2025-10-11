@@ -22,7 +22,7 @@ jobs:
         run: pip install requests
 
       - name: Run Kiwi copy
-        run: python copy_kiwi.py
+        run: python create-kiwiservers.py
 
       - name: Commit and push changes
         run: |
