@@ -5,6 +5,10 @@ on:
     - cron: "5,25,45 * * * *"  # Every 20 minutes at :05, :25, :45
   workflow_dispatch:            # Manual trigger
 
+concurrency:
+  group: shortwave-schedule-update
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
