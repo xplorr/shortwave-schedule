@@ -22,7 +22,7 @@ jobs:
         run: pip install requests
 
       - name: Run AOKI conversion
-        run: python convert_aoki.py
+        run: python create-shortwaveschedule.py
 
       - name: Commit and push changes
         run: |
