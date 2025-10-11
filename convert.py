@@ -2,31 +2,34 @@ import requests
 import json
 from datetime import datetime
 
-# === CONFIGURATION ===
 AOKI_URL = "https://www1.s2.starcat.ne.jp/ndxc/pc/ns/userlist1.txt"
 AOKI_OUTPUT_FILE = "shortwaveschedule.js"
 
-KIWI_URL = "http://rx.linkfanel.net/kiwisdr_com.js"
-KIWI_OUTPUT_FILE = "kiwiservers.js"
-
-
-# === COMMON UTILITIES ===
 def utc_timestamp():
-    """Return current UTC time formatted for header."""
     return datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 
-
 def write_with_header(filename, header_text, content):
-    """Write content to file with header line."""
     with open(filename, "w", encoding="utf-8") as f:
         f.write(header_text + "\n\n")
         f.write(content)
 
-
-# === PART 1: AOKI shortwave schedule ===
 print("Fetching AOKI shortwave schedule...")
-aoki_text = requests.get(AOKI_URL).text
+
+try:
+    response = requests.get(AOKI_URL, timeout=30)
+    if response.status_code != 200 or not response.text.strip():
+        raise ValueError("Source unavailable or empty.")
+    aoki_text = response.text
+except Exception as e:
+    print(f"❌ AOKI source unavailable: {e}")
+    print("Skipping conversion to avoid overwriting local file.")
+    exit(0)
+
 aoki_lines = aoki_text.splitlines()
+if len(aoki_lines) < 5:
+    print("❌ AOKI data too short or invalid.")
+    print("Skipping conversion to avoid overwriting local file.")
+    exit(0)
 
 first_line = aoki_lines[0].strip()
 timestamp = utc_timestamp()
@@ -40,7 +43,6 @@ for line in aoki_lines:
     if not line.strip():
         continue
 
-    # Fixed-width parsing
     freq     = line[0:14].strip()
     start    = line[14:18].strip()
     end      = line[19:23].strip()
@@ -62,20 +64,10 @@ for line in aoki_lines:
     }
     data.append(entry)
 
-# Build JS content
 aoki_js = "var shortWaveSchedule = [\n"
 for entry in data:
     aoki_js += "  " + json.dumps(entry, ensure_ascii=False) + ",\n"
 aoki_js += "];\n"
 
 write_with_header(AOKI_OUTPUT_FILE, header_comment, aoki_js)
-print(f"Wrote {AOKI_OUTPUT_FILE}")
-
-
-# === PART 2: KiwiSDR server list ===
-print("Fetching KiwiSDR server list...")
-kiwi_text = requests.get(KIWI_URL).text
-kiwi_header = f"// Updated by XPloRR at {timestamp}"
-
-write_with_header(KIWI_OUTPUT_FILE, kiwi_header, kiwi_text)
-print(f"Wrote {KIWI_OUTPUT_FILE}")
+print(f"✅ Wrote {AOKI_OUTPUT_FILE}")
