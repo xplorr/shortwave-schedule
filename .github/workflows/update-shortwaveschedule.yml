@@ -33,3 +33,9 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Purge jsDelivr cache
+        run: |
+          echo "Purging jsDelivr cache for shortwaveschedule.js..."
+          curl -s -w "\nStatus: %{http_code}\n" "https://purge.jsdelivr.net/gh/xplorr/shortwave-schedule/shortwaveschedule.js"
+          echo "✅ jsDelivr cache purge request sent."
