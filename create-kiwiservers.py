@@ -8,7 +8,7 @@ def utc_timestamp():
     return datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 
 def write_with_header(filename, header_text, content):
-    with open(filename, "w", encoding="utf-8") as f:
+    with open(filename, "w", encoding="utf-8-sig") as f:  # UTF-8 with BOM
         f.write(header_text + "\n\n")
         f.write(content)
 
@@ -16,6 +16,7 @@ print("Fetching KiwiSDR server list...")
 
 try:
     response = requests.get(KIWI_URL, timeout=30)
+    response.encoding = "utf-8"  # Force correct decoding
     if response.status_code != 200 or not response.text.strip():
         raise ValueError("Source unavailable or empty.")
     kiwi_text = response.text
