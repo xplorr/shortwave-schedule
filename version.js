@@ -1,3 +1,3 @@
 // Version Created by XPloRR
-var latestVersionName = "2.05.44";
-var latestVersionCode = 20544;
+var latestVersionName = "2.05.52";
+var latestVersionCode = 20552;
