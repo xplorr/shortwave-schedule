@@ -1,4 +1,4 @@
-﻿// Updated by XPloRR at 2025-10-31 04:00 UTC
+﻿// Updated by XPloRR at 2025-10-31 04:33 UTC
 
 // KiwiSDR.com receiver list for dyatlov map maker
 // Automatically generated from http://kiwisdr.com/public/
