@@ -2,7 +2,7 @@ import requests
 import json
 from datetime import datetime
 
-AOKI_URL = "https://www1.s2.starcat.ne.jp/ndxc/pc/ns/userlist1.txt"
+AOKI_URL = "https://www1.m2.mediacat.ne.jp/binews/us/nz/userlist1.txt"
 AOKI_OUTPUT_FILE = "shortwaveschedule.js"
 
 def utc_timestamp():
