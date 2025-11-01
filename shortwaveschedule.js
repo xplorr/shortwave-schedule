@@ -1,4 +1,4 @@
-// B25 Shortwave Frequency List  October 31  2025, 0600 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2025-10-31 11:22 UTC)
+// B25 Shortwave Frequency List  October 31  2025, 1200 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2025-11-01 03:38 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -2027,7 +2027,6 @@ var shortWaveSchedule = [
   {"freq": "6115", "startTime": "2030", "endTime": "2227", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Fre", "location": "Beijing 572", "days": "1-7"},
   {"freq": "6115", "startTime": "0000", "endTime": "0745", "ITU": "J", "station": "RADIO NIKKEI 2", "language": "Jpn", "location": "Chiba-Nagar", "days": "17"},
   {"freq": "6115", "startTime": "2300", "endTime": "1000", "ITU": "J", "station": "RADIO NIKKEI 2", "language": "Jpn", "location": "Chiba-Nagar", "days": "23456"},
-  {"freq": "6115", "startTime": "1100", "endTime": "1300", "ITU": "TWN", "station": "National Unity Radio", "language": "Kor", "location": "Tamsui Dist", "days": "1-7"},
   {"freq": "6120", "startTime": "1600", "endTime": "1700", "ITU": "D", "station": "PABC Tony Alamo Ministri", "language": "Eng", "location": "Nauen", "days": "1"},
   {"freq": "6120", "startTime": "1202", "endTime": "1400", "ITU": "TKS", "station": "PBS Xinjiang", "language": "Uyg", "location": "Urumqi", "days": "1-7"},
   {"freq": "6120", "startTime": "1430", "endTime": "1800", "ITU": "TKS", "station": "PBS Xinjiang", "language": "Uyg", "location": "Urumqi", "days": "1-7"},
@@ -2320,6 +2319,7 @@ var shortWaveSchedule = [
   {"freq": "7230", "startTime": "0700", "endTime": "0800", "ITU": "TKS", "station": "PBS Xinjiang (CNR8)", "language": "Mon", "location": "Urumqi", "days": "1-7"},
   {"freq": "7230", "startTime": "2330", "endTime": "0030", "ITU": "TKS", "station": "PBS Xinjiang (CNR8)", "language": "Mon", "location": "Urumqi", "days": "1-7"},
   {"freq": "7230", "startTime": "1623", "endTime": "1720", "ITU": "IRN", "station": "VO ISLAMIC REP.IRAN", "language": "Arm", "location": "Sirjan", "days": "1-7"},
+  {"freq": "7235", "startTime": "1100", "endTime": "1300", "ITU": "TWN", "station": "National Unity Radio", "language": "Kor", "location": "Tamsui Dist", "days": "1-7"},
   {"freq": "7235", "startTime": "1400", "endTime": "1600", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Chi", "location": "Kashi-Saiba", "days": "1-7"},
   {"freq": "7235", "startTime": "1600", "endTime": "1757", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Eng", "location": "Kashi-Saiba", "days": "1-7"},
   {"freq": "7235", "startTime": "2100", "endTime": "2157", "ITU": "KRE", "station": "Voice of Korea", "language": "Chi", "location": "Kujang", "days": "1-7"},
@@ -2912,7 +2912,7 @@ var shortWaveSchedule = [
   {"freq": "9350", "startTime": "2100", "endTime": "2300", "ITU": "USA", "station": "WWCR NASHVILLE", "language": "Eng", "location": "Nashville", "days": "1-7"},
   {"freq": "9380", "startTime": "1745", "endTime": "1800", "ITU": "SWZ", "station": "TWR Africa", "language": "Tur", "location": "Manzini", "days": "7"},
   {"freq": "9380", "startTime": "1330", "endTime": "1400", "ITU": "UZB", "station": "Voice of Martyrs", "language": "Kor", "location": "Tashkent", "days": "1-7"},
-  {"freq": "9380", "startTime": "1200", "endTime": "1230", "ITU": "UZB", "station": "Voice of Martyrs", "language": "Kor", "location": "Tashkent", "days": "1-7"},
+  {"freq": "9385", "startTime": "1200", "endTime": "1230", "ITU": "UZB", "station": "Voice of Martyrs", "language": "Kor", "location": "Tashkent", "days": "1-7"},
   {"freq": "9395", "startTime": "0000", "endTime": "0030", "ITU": "USA", "station": "WRMI Blues Radio Intl", "language": "Eng", "location": "Okeechobee6", "days": "4"},
   {"freq": "9395", "startTime": "0000", "endTime": "0030", "ITU": "USA", "station": "WRMI Walking in Power", "language": "Eng", "location": "Okeechobee6", "days": "57"},
   {"freq": "9395", "startTime": "0000", "endTime": "0100", "ITU": "USA", "station": "WRMI Apostalic Assembly", "language": "Eng", "location": "Okeechobee6", "days": "5"},
@@ -4084,6 +4084,7 @@ var shortWaveSchedule = [
   {"freq": "11810", "startTime": "2200", "endTime": "2300", "ITU": "KOR", "station": "KBS WORLD RADIO", "language": "Eng", "location": "Kimjae", "days": "1-7"},
   {"freq": "11815", "startTime": "0400", "endTime": "0600", "ITU": "CHN", "station": "CNR 1 Jamming", "language": "Chi", "location": "Baoji-Sifan", "days": "1-7"},
   {"freq": "11815", "startTime": "0700", "endTime": "0900", "ITU": "CHN", "station": "CNR 1 Jamming", "language": "Chi", "location": "Baoji-Sifan", "days": "1-7"},
+  {"freq": "11815", "startTime": "1000", "endTime": "1400", "ITU": "J", "station": "NHK WORLD RADIO JAPAN", "language": "Jpn", "location": "Ibaragi-Kog", "days": "1-7"},
   {"freq": "11815", "startTime": "1400", "endTime": "1428", "ITU": "J", "station": "NHK WORLD RADIO JAPAN", "language": "Eng", "location": "Ibaragi-Kog", "days": "23456"},
   {"freq": "11815", "startTime": "1400", "endTime": "1430", "ITU": "J", "station": "NHK WORLD RADIO JAPAN", "language": "Eng", "location": "Ibaragi-Kog", "days": "17"},
   {"freq": "11815", "startTime": "1430", "endTime": "1450", "ITU": "J", "station": "NHK WORLD RADIO JAPAN", "language": "Bur", "location": "Ibaragi-Kog", "days": "23456"},
