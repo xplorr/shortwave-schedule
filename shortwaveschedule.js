@@ -1,4 +1,4 @@
-// B25 Shortwave Frequency List  October 31  2025, 1200 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2025-11-03 03:45 UTC)
+// B25 Shortwave Frequency List  November 3  2025, 1400 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2025-11-04 03:38 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -1884,7 +1884,7 @@ var shortWaveSchedule = [
   {"freq": "6055", "startTime": "2215", "endTime": "1530", "ITU": "J", "station": "RADIO NIKKEI 1", "language": "Jpn", "location": "Chiba-Nagar", "days": "6"},
   {"freq": "6055", "startTime": "2345", "endTime": "1000", "ITU": "J", "station": "RADIO NIKKEI 1", "language": "Jpn", "location": "Chiba-Nagar", "days": "7"},
   {"freq": "6055", "startTime": "2345", "endTime": "1030", "ITU": "J", "station": "RADIO NIKKEI 1", "language": "Jpn", "location": "Chiba-Nagar", "days": "1"},
-  {"freq": "6055", "startTime": "1100", "endTime": "1300", "ITU": "DNK", "station": "Radio OZ-Viola", "language": "Dan", "location": "Hilleroed", "days": "17"},
+  {"freq": "6055", "startTime": "1200", "endTime": "1400", "ITU": "DNK", "station": "Radio OZ-Viola", "language": "Dan", "location": "Hilleroed", "days": "17"},
   {"freq": "6060", "startTime": "1600", "endTime": "1657", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Eng", "location": "Kunming-Ann", "days": "1-7"},
   {"freq": "6060", "startTime": "0000", "endTime": "0030", "ITU": "CHN", "station": "PBS Sichuan 2", "language": "Tib", "location": "Chengdu", "days": "1-7"},
   {"freq": "6060", "startTime": "0030", "endTime": "0100", "ITU": "CHN", "station": "PBS Sichuan 2", "language": "Tib", "location": "Chengdu", "days": "1-7"},
@@ -1909,23 +1909,7 @@ var shortWaveSchedule = [
   {"freq": "6070", "startTime": "0000", "endTime": "2400", "ITU": "CAN", "station": "CFRX Toronto", "language": "Eng", "location": "Toronto", "days": "1-7"},
   {"freq": "6070", "startTime": "1700", "endTime": "1757", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Rus", "location": "Xianyang 59", "days": "1-7"},
   {"freq": "6070", "startTime": "1800", "endTime": "1900", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Rus", "location": "Beijing 572", "days": "1-7"},
-  {"freq": "6070", "startTime": "1100", "endTime": "1200", "ITU": "D", "station": "Encore Classical Music", "language": "Ger", "location": "Rohrbach Wa", "days": "7"},
-  {"freq": "6070", "startTime": "1300", "endTime": "1400", "ITU": "D", "station": "From the Isle of Music", "language": "Eng", "location": "Rohrbach Wa", "days": "7"},
-  {"freq": "6070", "startTime": "0600", "endTime": "1900", "ITU": "D", "station": "Jammin Oldies", "language": "Ger", "location": "Rohrbach Wa", "days": "5"},
-  {"freq": "6070", "startTime": "1900", "endTime": "2000", "ITU": "D", "station": "Just Right", "language": "Eng", "location": "Rohrbach Wa", "days": "5"},
   {"freq": "6070", "startTime": "0000", "endTime": "2400", "ITU": "D", "station": "Radio Channel 292/TOM", "language": "Ger", "location": "Rohrbach Wa", "days": "1-7"},
-  {"freq": "6070", "startTime": "1000", "endTime": "1100", "ITU": "D", "station": "Radio City", "language": "Eng", "location": "Rohrbach Wa", "days": "7"},
-  {"freq": "6070", "startTime": "1300", "endTime": "1400", "ITU": "D", "station": "Radio Ohne Namen", "language": "Ger", "location": "Rohrbach Wa", "days": "6"},
-  {"freq": "6070", "startTime": "1500", "endTime": "1600", "ITU": "D", "station": "Radio Ohne Namen", "language": "Ger", "location": "Rohrbach Wa", "days": "2"},
-  {"freq": "6070", "startTime": "1600", "endTime": "1700", "ITU": "D", "station": "Radio Ohne Namen", "language": "Ger", "location": "Rohrbach Wa", "days": "4"},
-  {"freq": "6070", "startTime": "1800", "endTime": "1900", "ITU": "D", "station": "Radio Ohne Namen", "language": "Ger", "location": "Rohrbach Wa", "days": "3"},
-  {"freq": "6070", "startTime": "1800", "endTime": "1900", "ITU": "D", "station": "Radio Pravda dlja Rossii", "language": "Rus", "location": "Rohrbach Wa", "days": "1"},
-  {"freq": "6070", "startTime": "1600", "endTime": "1700", "ITU": "D", "station": "Radio Tumbril", "language": "Ger", "location": "Rohrbach Wa", "days": "2"},
-  {"freq": "6070", "startTime": "0800", "endTime": "0900", "ITU": "D", "station": "Radio Waves Internationa", "language": "Fre", "location": "Rohrbach Wa", "days": "7"},
-  {"freq": "6070", "startTime": "0900", "endTime": "1000", "ITU": "D", "station": "RNI Goldrausch 6070", "language": "Ger", "location": "Rohrbach Wa", "days": "1"},
-  {"freq": "6070", "startTime": "0800", "endTime": "0900", "ITU": "D", "station": "SuperClan Radio", "language": "Eng", "location": "Rohrbach Wa", "days": "1"},
-  {"freq": "6070", "startTime": "0600", "endTime": "1800", "ITU": "D", "station": "TOP50", "language": "Ger", "location": "Rohrbach Wa", "days": "3"},
-  {"freq": "6070", "startTime": "2000", "endTime": "2100", "ITU": "D", "station": "Uncle Bill's Melting Pot", "language": "Eng", "location": "Rohrbach Wa", "days": "3"},
   {"freq": "6070", "startTime": "0900", "endTime": "0957", "ITU": "KRE", "station": "Voice of Korea", "language": "Jpn", "location": "Kanggye", "days": "1-7"},
   {"freq": "6070", "startTime": "1000", "endTime": "1050", "ITU": "KRE", "station": "Voice of Korea", "language": "Jpn", "location": "Kanggye", "days": "1-7"},
   {"freq": "6070", "startTime": "1100", "endTime": "1157", "ITU": "KRE", "station": "Voice of Korea", "language": "Jpn", "location": "Kanggye", "days": "1-7"},
