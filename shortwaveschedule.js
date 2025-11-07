@@ -1,4 +1,4 @@
-// B25 Shortwave Frequency List  November 5  2025, 1500 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2025-11-06 03:42 UTC)
+// B25 Shortwave Frequency List  November 6  2025, 1200 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2025-11-07 03:39 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -1790,8 +1790,7 @@ var shortWaveSchedule = [
   {"freq": "6015", "startTime": "1400", "endTime": "1500", "ITU": "TKS", "station": "PBS Xinjiang (CNR17)", "language": "Kaz", "location": "Urumqi", "days": "1-7"},
   {"freq": "6015", "startTime": "1400", "endTime": "1600", "ITU": "D", "station": "", "language": "Eng", "location": "Nauen", "days": "1-7"},
   {"freq": "6020", "startTime": "0100", "endTime": "0257", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Urd", "location": "Kashi-Saiba", "days": "1-7"},
-  {"freq": "6020", "startTime": "1830", "endTime": "1900", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Bul", "location": "Shijiazhuan", "days": "1-7"},
-  {"freq": "6020", "startTime": "1900", "endTime": "1957", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Alb", "location": "Shijiazhuan", "days": "1-7"},
+  {"freq": "6020", "startTime": "1857", "endTime": "1957", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Alb", "location": "Shijiazhuan", "days": "1-7"},
   {"freq": "6020", "startTime": "2000", "endTime": "2100", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Pol", "location": "Shijiazhuan", "days": "1-7"},
   {"freq": "6020", "startTime": "2100", "endTime": "2257", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Spa", "location": "Shijiazhuan", "days": "1-7"},
   {"freq": "6020", "startTime": "0900", "endTime": "0400", "ITU": "B", "station": "R.Gaucha", "language": "Por", "location": "Porto Alegr", "days": "1-7"},
@@ -2661,7 +2660,7 @@ var shortWaveSchedule = [
   {"freq": "7430", "startTime": "1300", "endTime": "1400", "ITU": "CHN", "station": "CNR 1 Jamming", "language": "Chi", "location": "Baoji-Sifan", "days": "1-7"},
   {"freq": "7430", "startTime": "1030", "endTime": "1050", "ITU": "J", "station": "NHK WORLD RADIO JAPAN", "language": "Rus", "location": "Ibaragi-Kog", "days": "1-7"},
   {"freq": "7430", "startTime": "1300", "endTime": "1400", "ITU": "TWN", "station": "* R.TAIWAN INT.", "language": "Chi", "location": "Kouhu", "days": "1-7"},
-  {"freq": "7435", "startTime": "1100", "endTime": "1157", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Chi", "location": "Beijing 572", "days": "1-7"},
+  {"freq": "7435", "startTime": "1057", "endTime": "1157", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Chi", "location": "Beijing 572", "days": "1-7"},
   {"freq": "7435", "startTime": "1400", "endTime": "1457", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Nep", "location": "Kunming-Ann", "days": "1-7"},
   {"freq": "7435", "startTime": "1400", "endTime": "1500", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Rus", "location": "Shijiazhuan", "days": "1-7"},
   {"freq": "7435", "startTime": "1500", "endTime": "1557", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Pas", "location": "Kunming-Ann", "days": "1-7"},
@@ -2671,7 +2670,7 @@ var shortWaveSchedule = [
   {"freq": "7435", "startTime": "1930", "endTime": "1957", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Rom", "location": "Xianyang 59", "days": "1-7"},
   {"freq": "7435", "startTime": "2145", "endTime": "1600", "ITU": "VTN", "station": "Voice of Vietnam 1", "language": "Vie", "location": "Hanoi-Sonta", "days": "1-7"},
   {"freq": "7440", "startTime": "1200", "endTime": "1400", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Chi", "location": "Nanning 954", "days": "1-7"},
-  {"freq": "7440", "startTime": "2000", "endTime": "2100", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Chi", "location": "Beijing 572", "days": "1-7"},
+  {"freq": "7440", "startTime": "1957", "endTime": "2100", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Chi", "location": "Beijing 572", "days": "1-7"},
   {"freq": "7440", "startTime": "2200", "endTime": "2257", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Chi", "location": "Jinhua 831", "days": "1-7"},
   {"freq": "7440", "startTime": "1600", "endTime": "1627", "ITU": "ROU", "station": "R.ROMANIA INT.", "language": "Rus", "location": "SNR Tiganes", "days": "1-7"},
   {"freq": "7445", "startTime": "0030", "endTime": "0100", "ITU": "G", "station": "BBC", "language": "Dar", "location": "Woofferton", "days": "1-7"},
