@@ -1,4 +1,4 @@
-// B25 Shortwave Frequency List  December 3  2025, 2100 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2025-12-09 03:46 UTC)
+// B25 Shortwave Frequency List  December 9  2025, 0800 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2025-12-10 03:52 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -4649,6 +4649,8 @@ var shortWaveSchedule = [
   {"freq": "15140", "startTime": "1830", "endTime": "1900", "ITU": "CUB", "station": "R.HABANA CUBA", "language": "Cre", "location": "Bauta", "days": "1-7"},
   {"freq": "15140", "startTime": "1900", "endTime": "2000", "ITU": "CUB", "station": "R.HABANA CUBA", "language": "Eng", "location": "Bauta", "days": "1-7"},
   {"freq": "15140", "startTime": "2000", "endTime": "2030", "ITU": "CUB", "station": "R.HABANA CUBA", "language": "Fre", "location": "Bauta", "days": "1-7"},
+  {"freq": "15140", "startTime": "0700", "endTime": "0800", "ITU": "ALG", "station": "Ifrikya FM", "language": "Ara", "location": "Ourgla", "days": "1-7"},
+  {"freq": "15140", "startTime": "0800", "endTime": "1900", "ITU": "ALG", "station": "Ifrikya FM", "language": "Ara", "location": "Ourgla", "days": "1-7"},
   {"freq": "15145", "startTime": "0600", "endTime": "0657", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Eng", "location": "Kashi-Saiba", "days": "1-7"},
   {"freq": "15145", "startTime": "0700", "endTime": "0757", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Cha", "location": "Xianyang 59", "days": "1-7"},
   {"freq": "15150", "startTime": "0400", "endTime": "0900", "ITU": "USA", "station": "Assemblies of Yahweh(WML", "language": "Eng", "location": "Bethel, PA", "days": "1-6"},
@@ -4656,8 +4658,6 @@ var shortWaveSchedule = [
   {"freq": "15160", "startTime": "0400", "endTime": "0600", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Can", "location": "Jinhua 831", "days": "1-7"},
   {"freq": "15160", "startTime": "0600", "endTime": "0657", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Chi", "location": "Jinhua 831", "days": "1-7"},
   {"freq": "15160", "startTime": "1030", "endTime": "1127", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Khm", "location": "Nanning 954", "days": "1-7"},
-  {"freq": "15160", "startTime": "0600", "endTime": "0800", "ITU": "ALG", "station": "Ifrikya FM", "language": "Ara", "location": "Ourgla", "days": "1-7"},
-  {"freq": "15160", "startTime": "0800", "endTime": "1900", "ITU": "ALG", "station": "Ifrikya FM", "language": "Ara", "location": "Ourgla", "days": "1-7"},
   {"freq": "15160", "startTime": "0900", "endTime": "1000", "ITU": "KOR", "station": "KBS WORLD RADIO", "language": "Kor", "location": "Kimjae", "days": "1-7"},
   {"freq": "15160", "startTime": "1630", "endTime": "1657", "ITU": "ROU", "station": "R.ROMANIA INT.", "language": "Ara", "location": "Tiganesti", "days": "1-7"},
   {"freq": "15170", "startTime": "0400", "endTime": "0457", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Chi", "location": "Kashi-Saiba", "days": "1-7"},
@@ -5090,6 +5090,7 @@ var shortWaveSchedule = [
   {"freq": "15920", "startTime": "2100", "endTime": "1400", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
   {"freq": "15940", "startTime": "2200", "endTime": "1400", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
   {"freq": "15970", "startTime": "2110", "endTime": "1630", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
+  {"freq": "16050", "startTime": "0300", "endTime": "1000", "ITU": "TWN", "station": "Carriers only", "language": "Car", "location": "Kuanyin", "days": "1-7"},
   {"freq": "16050", "startTime": "1000", "endTime": "1100", "ITU": "TWN", "station": "XingXing guangbo diantai", "language": "Chi", "location": "Kuanyin", "days": "1-7"},
   {"freq": "16100", "startTime": "2115", "endTime": "1420", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
   {"freq": "16160", "startTime": "2130", "endTime": "1430", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
@@ -5099,6 +5100,7 @@ var shortWaveSchedule = [
   {"freq": "16600", "startTime": "2200", "endTime": "1430", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
   {"freq": "16680", "startTime": "2100", "endTime": "1500", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
   {"freq": "16790", "startTime": "2110", "endTime": "1500", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
+  {"freq": "17000", "startTime": "0300", "endTime": "1000", "ITU": "TWN", "station": "Carriers only", "language": "Car", "location": "Kuanyin", "days": "1-7"},
   {"freq": "17000", "startTime": "1000", "endTime": "1100", "ITU": "TWN", "station": "XingXing guangbo diantai", "language": "Chi", "location": "Kuanyin", "days": "1-7"},
   {"freq": "17150", "startTime": "2110", "endTime": "1500", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
   {"freq": "17170", "startTime": "2330", "endTime": "1405", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
@@ -5147,8 +5149,8 @@ var shortWaveSchedule = [
   {"freq": "17580", "startTime": "0200", "endTime": "0600", "ITU": "CHN", "station": "CNR 1 Voice of China", "language": "Chi", "location": "Lingshi 725", "days": "1-7"},
   {"freq": "17580", "startTime": "0600", "endTime": "0900", "ITU": "CHN", "station": "CNR 1 Voice of China", "language": "Chi", "location": "Lingshi 725", "days": "124-7"},
   {"freq": "17580", "startTime": "0900", "endTime": "1000", "ITU": "CHN", "station": "CNR 1 Voice of China", "language": "Chi", "location": "Lingshi 725", "days": "1-7"},
-  {"freq": "17600", "startTime": "0600", "endTime": "1900", "ITU": "ALG", "station": "Ifrikya FM", "language": "Ara", "location": "Bechar", "days": "1-7"},
-  {"freq": "17600", "startTime": "1900", "endTime": "2200", "ITU": "ALG", "station": "Ifrikya FM", "language": "Ara", "location": "Bechar", "days": "1-7"},
+  {"freq": "17600", "startTime": "0700", "endTime": "1900", "ITU": "ALG", "station": "Ifrikya FM", "language": "Ara", "location": "Bechar", "days": "1-7"},
+  {"freq": "17600", "startTime": "1900", "endTime": "0100", "ITU": "ALG", "station": "Ifrikya FM", "language": "Ara", "location": "Bechar", "days": "1-7"},
   {"freq": "17615", "startTime": "0600", "endTime": "0757", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Ger", "location": "Urumqi Hutu", "days": "1-7"},
   {"freq": "17620", "startTime": "0900", "endTime": "1100", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Chi", "location": "Kashi-Saiba", "days": "1-7"},
   {"freq": "17620", "startTime": "2300", "endTime": "2400", "ITU": "GUM", "station": "KSDA-Adventist World R.G", "language": "Chi", "location": "Agat", "days": "1-7"},
