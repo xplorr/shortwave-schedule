@@ -1,4 +1,4 @@
-// B25 Shortwave Frequency List  December 16  2025, 1200 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2025-12-19 03:53 UTC)
+// B25 Shortwave Frequency List  December 20 2025, 0300 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2025-12-20 03:44 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -1360,10 +1360,10 @@ var shortWaveSchedule = [
   {"freq": "3985", "startTime": "1600", "endTime": "1700", "ITU": "D", "station": "Schweizer Radio SRF", "language": "Ger", "location": "Kall-Krekel", "days": "1-7"},
   {"freq": "3990", "startTime": "1020", "endTime": "1230", "ITU": "CHN", "station": "PBS Gannan", "language": "Tib", "location": "Hezuo", "days": "1-7"},
   {"freq": "3990", "startTime": "1230", "endTime": "1410", "ITU": "CHN", "station": "PBS Gannan", "language": "Chi", "location": "Hezuo", "days": "1-7"},
+  {"freq": "3990", "startTime": "1300", "endTime": "1400", "ITU": "CHN", "station": "PBS Gannan (CNR11)", "language": "Tib", "location": "Hezuo", "days": "1-7"},
   {"freq": "3990", "startTime": "2250", "endTime": "2300", "ITU": "CHN", "station": "PBS Gannan", "language": "Tib", "location": "Hezuo", "days": "1-7"},
   {"freq": "3990", "startTime": "2300", "endTime": "2330", "ITU": "CHN", "station": "PBS Gannan", "language": "Tib", "location": "Hezuo", "days": "1-7"},
   {"freq": "3990", "startTime": "2330", "endTime": "0100", "ITU": "CHN", "station": "PBS Gannan", "language": "Chi", "location": "Hezuo", "days": "1-7"},
-  {"freq": "3990", "startTime": "1300", "endTime": "1400", "ITU": "CHN", "station": "PBS Gannan (CNR11)", "language": "Tib", "location": "Hezuo", "days": "1-7"},
   {"freq": "3990", "startTime": "1225", "endTime": "1400", "ITU": "TKS", "station": "PBS Xinjiang", "language": "Uyg", "location": "Urumqi", "days": "1-7"},
   {"freq": "3990", "startTime": "1400", "endTime": "1430", "ITU": "TKS", "station": "PBS Xinjiang (CNR13)", "language": "Uyg", "location": "Urumqi", "days": "1-7"},
   {"freq": "3990", "startTime": "1430", "endTime": "1800", "ITU": "TKS", "station": "PBS Xinjiang", "language": "Uyg", "location": "Urumqi", "days": "1-7"},
