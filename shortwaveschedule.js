@@ -1,4 +1,4 @@
-// B25 Shortwave Frequency List  December 22 2025, 1000 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2025-12-24 03:54 UTC)
+// B25 Shortwave Frequency List  December 24 2025, 1500 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2025-12-25 03:56 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -2905,6 +2905,7 @@ var shortWaveSchedule = [
   {"freq": "9276", "startTime": "0300", "endTime": "0400", "ITU": "TWN", "station": "XingXing guangbo diantai", "language": "Chi", "location": "Kuanyin", "days": "1-7"},
   {"freq": "9280", "startTime": "0000", "endTime": "2400", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
   {"freq": "9300", "startTime": "2130", "endTime": "1630", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
+  {"freq": "9310", "startTime": "1530", "endTime": "1545", "ITU": "PHL", "station": "VOICE OF AMERICA", "language": "Kor", "location": "Tinang", "days": "23456"},
   {"freq": "9320", "startTime": "1400", "endTime": "1500", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Can", "location": "Pingtung", "days": "1-7"},
   {"freq": "9320", "startTime": "2357", "endTime": "1646", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Pingtung", "days": "1-7"},
   {"freq": "9330", "startTime": "0655", "endTime": "0750", "ITU": "CUB", "station": "Cuban Spy Numers", "language": "Spa", "location": "Bejucal", "days": "1246"},
