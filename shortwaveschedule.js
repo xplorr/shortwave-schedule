@@ -1,4 +1,4 @@
-// B25 Shortwave Frequency List  December 24 2025, 1500 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2025-12-25 03:56 UTC)
+// B25 Shortwave Frequency List  December 25 2025, 1400 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2025-12-26 03:54 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -1813,7 +1813,6 @@ var shortWaveSchedule = [
   {"freq": "6010", "startTime": "1700", "endTime": "1757", "ITU": "ROU", "station": "R.ROMANIA INT.", "language": "Rom", "location": "Galbeni-Bac", "days": "2-7"},
   {"freq": "6015", "startTime": "0350", "endTime": "0002", "ITU": "KOR", "station": "KBS Hanminjok Bangsong 1", "language": "Kor", "location": "Hwaseong", "days": "1-7"},
   {"freq": "6015", "startTime": "0250", "endTime": "0005", "ITU": "KRE", "station": "North Korean Jamming", "language": "Noi", "location": "Kujang", "days": "1-7"},
-  {"freq": "6015", "startTime": "1400", "endTime": "1600", "ITU": "D", "station": "", "language": "Eng", "location": "Nauen", "days": "1-7"},
   {"freq": "6015", "startTime": "2345", "endTime": "0348", "ITU": "TKS", "station": "PBS Xinjiang", "language": "Kaz", "location": "Urumqi", "days": "1-7"},
   {"freq": "6015", "startTime": "1153", "endTime": "1400", "ITU": "TKS", "station": "PBS Xinjiang", "language": "Kaz", "location": "Urumqi", "days": "1-7"},
   {"freq": "6015", "startTime": "1400", "endTime": "1430", "ITU": "TKS", "station": "PBS Xinjiang (CNR17)", "language": "Kaz", "location": "Urumqi", "days": "1-7"},
@@ -2211,6 +2210,7 @@ var shortWaveSchedule = [
   {"freq": "6190", "startTime": "1207", "endTime": "1800", "ITU": "TKS", "station": "PBS Xinjiang", "language": "Mon", "location": "Urumqi", "days": "1-7"},
   {"freq": "6190", "startTime": "2315", "endTime": "0330", "ITU": "TKS", "station": "PBS Xinjiang", "language": "Mon", "location": "Urumqi", "days": "1-7"},
   {"freq": "6190", "startTime": "0000", "endTime": "0030", "ITU": "TKS", "station": "PBS Xinjiang (CNR8)", "language": "Mon", "location": "Urumqi", "days": "1-7"},
+  {"freq": "6195", "startTime": "0900", "endTime": "1400", "ITU": "D", "station": "SE-TA2", "language": "Ger", "location": "Waldheim", "days": "1-7"},
   {"freq": "6195", "startTime": "0030", "endTime": "0100", "ITU": "CVA", "station": "BBC", "language": "Dar", "location": "Santa Maria", "days": "1-7"},
   {"freq": "6195", "startTime": "0100", "endTime": "0130", "ITU": "OMA", "station": "BBC", "language": "Pas", "location": "Al Seela", "days": "1-7"},
   {"freq": "6195", "startTime": "0130", "endTime": "0200", "ITU": "OMA", "station": "BBC", "language": "Dar", "location": "Al Seela", "days": "1-7"},
