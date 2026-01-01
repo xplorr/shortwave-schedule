@@ -1,4 +1,4 @@
-// B25 Shortwave Frequency List  December 25 2025, 1400 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2025-12-31 03:56 UTC)
+// B25 Shortwave Frequency List  December 31 2025, 1300 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-01-01 04:05 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -4037,7 +4037,7 @@ var shortWaveSchedule = [
   {"freq": "11755", "startTime": "1700", "endTime": "1715", "ITU": "CVA", "station": "VATICAN RADIO", "language": "Fre", "location": "Santa Maria", "days": "1-7"},
   {"freq": "11755", "startTime": "1715", "endTime": "1730", "ITU": "CVA", "station": "VATICAN RADIO", "language": "Eng", "location": "Santa Maria", "days": "1-7"},
   {"freq": "11755", "startTime": "1940", "endTime": "2000", "ITU": "CVA", "station": "VATICAN RADIO", "language": "Lat", "location": "Santa Maria", "days": "1-7"},
-  {"freq": "11760", "startTime": "1200", "endTime": "1357", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Eng", "location": "Kunming-Ann", "days": "1-7"},
+  {"freq": "11760", "startTime": "1158", "endTime": "1357", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Eng", "location": "Kunming-Ann", "days": "1-7"},
   {"freq": "11760", "startTime": "0000", "endTime": "0600", "ITU": "CHN", "station": "CNR 1 Voice of China", "language": "Chi", "location": "Shijiazhuan", "days": "1-7"},
   {"freq": "11760", "startTime": "0600", "endTime": "0900", "ITU": "CHN", "station": "CNR 1 Voice of China", "language": "Chi", "location": "Shijiazhuan", "days": "124-7"},
   {"freq": "11760", "startTime": "0900", "endTime": "1000", "ITU": "CHN", "station": "CNR 1 Voice of China", "language": "Chi", "location": "Shijiazhuan", "days": "1-7"},
