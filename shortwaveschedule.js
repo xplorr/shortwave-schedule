@@ -1,4 +1,4 @@
-// B25 Shortwave Frequency List  December 31 2025, 1300 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-01-01 04:05 UTC)
+// B25 Shortwave Frequency List  January 2 2026, 0300 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-01-02 04:00 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -392,6 +392,10 @@ var shortWaveSchedule = [
   {"freq": "963", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "NHK 1 Matsuyama", "language": "Jpn", "location": "Ehime-Matsu", "days": "1-7"},
   {"freq": "963", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "NHK 1 Saga", "language": "Jpn", "location": "Saga", "days": "1-7"},
   {"freq": "963", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "NHK 1 Yonago", "language": "Jpn", "location": "Tottori-Yon", "days": "1-7"},
+  {"freq": "963", "startTime": "0500", "endTime": "0800", "ITU": "KWT", "station": "R.KUWAIT", "language": "Eng", "location": "Madinat al-", "days": "1-7"},
+  {"freq": "963", "startTime": "1800", "endTime": "2100", "ITU": "KWT", "station": "R.KUWAIT", "language": "Eng", "location": "Madinat al-", "days": "1-7"},
+  {"freq": "963", "startTime": "1200", "endTime": "1600", "ITU": "KWT", "station": "R.KUWAIT", "language": "Ara", "location": "Madinat al-", "days": "1-7"},
+  {"freq": "963", "startTime": "2100", "endTime": "0500", "ITU": "KWT", "station": "R.KUWAIT", "language": "Ara", "location": "Madinat al-", "days": "1-7"},
   {"freq": "972", "startTime": "0350", "endTime": "2400", "ITU": "KOR", "station": "KBS Hanminjok Bangsong 1", "language": "Kor", "location": "Dangjin", "days": "1-7"},
   {"freq": "972", "startTime": "0000", "endTime": "0030", "ITU": "TJK", "station": "VOA RADIO ASHNA", "language": "Dar", "location": "Dushanbe-Or", "days": "1-7"},
   {"freq": "972", "startTime": "0030", "endTime": "0100", "ITU": "TJK", "station": "VOA RADIO ASHNA", "language": "Pas", "location": "Dushanbe-Or", "days": "1-7"},
@@ -2103,10 +2107,10 @@ var shortWaveSchedule = [
   {"freq": "6155", "startTime": "0000", "endTime": "0100", "ITU": "OMA", "station": "BBC", "language": "Eng", "location": "Al Seela", "days": "1-7"},
   {"freq": "6155", "startTime": "1430", "endTime": "1500", "ITU": "TJK", "station": "BBC", "language": "Kor", "location": "Dushanbe-Or", "days": "23456"},
   {"freq": "6155", "startTime": "1530", "endTime": "1600", "ITU": "TJK", "station": "BBC", "language": "Kor", "location": "Dushanbe-Or", "days": "23456"},
-  {"freq": "6155", "startTime": "2000", "endTime": "2057", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Rus", "location": "Beijing 572", "days": "1-7"},
-  {"freq": "6155", "startTime": "1700", "endTime": "1730", "ITU": "TWN", "station": "Furusato no kaze", "language": "Jpn", "location": "Tamsui Dist", "days": "1-7"},
   {"freq": "6155", "startTime": "0800", "endTime": "1000", "ITU": "KOR", "station": "KBS WORLD RADIO", "language": "Jpn", "location": "Kimjae", "days": "1-7"},
   {"freq": "6155", "startTime": "1630", "endTime": "1700", "ITU": "TWN", "station": "Nippon no Kaze\"il bon ue", "language": "Kor", "location": "Tamsui Dist", "days": "1-7"},
+  {"freq": "6155", "startTime": "1700", "endTime": "1730", "ITU": "TWN", "station": "Furusato no kaze", "language": "Jpn", "location": "Tamsui Dist", "days": "1-7"},
+  {"freq": "6155", "startTime": "1958", "endTime": "2057", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Rus", "location": "Beijing 572", "days": "1-7"},
   {"freq": "6160", "startTime": "1800", "endTime": "1957", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Ger", "location": "Xianyang 59", "days": "1-7"},
   {"freq": "6160", "startTime": "1000", "endTime": "2300", "ITU": "B", "station": "R.Boa Ventade", "language": "Por", "location": "Porto Alegr", "days": "1-7"},
   {"freq": "6160", "startTime": "0700", "endTime": "1700", "ITU": "D", "station": "Shortwave Radio Gold", "language": "Eng", "location": "Winsen", "days": "1-7"},
@@ -2371,7 +2375,6 @@ var shortWaveSchedule = [
   {"freq": "7250", "startTime": "0100", "endTime": "0157", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Chi", "location": "Urumqi Hutu", "days": "1-7"},
   {"freq": "7250", "startTime": "1100", "endTime": "1257", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Eng", "location": "Kashi-Saiba", "days": "1-7"},
   {"freq": "7250", "startTime": "2200", "endTime": "2400", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Spa", "location": "Urumqi Hutu", "days": "1-7"},
-  {"freq": "7250", "startTime": "0700", "endTime": "1000", "ITU": "KWT", "station": "R.KUWAIT", "language": "Per", "location": "Sulaibiyah", "days": "1-7"},
   {"freq": "7250", "startTime": "0810", "endTime": "0925", "ITU": "CVA", "station": "VATICAN RADIO", "language": "Rom", "location": "Santa Maria", "days": "1"},
   {"freq": "7250", "startTime": "0100", "endTime": "0257", "ITU": "ROU", "station": "R.ROMANIA INT.", "language": "Rom", "location": "Tiganesti", "days": "1-7"},
   {"freq": "7250", "startTime": "2130", "endTime": "2157", "ITU": "ROU", "station": "R.ROMANIA INT.", "language": "Eng", "location": "Tiganesti", "days": "1-7"},
@@ -2922,6 +2925,7 @@ var shortWaveSchedule = [
   {"freq": "9345", "startTime": "1315", "endTime": "1330", "ITU": "UZB", "station": "BVBN Voice of Truth", "language": "Eng", "location": "Tashkent", "days": "2"},
   {"freq": "9345", "startTime": "1300", "endTime": "1330", "ITU": "UZB", "station": "BVBN Zion Teacher", "language": "Eng", "location": "Tashkent", "days": "4"},
   {"freq": "9350", "startTime": "2100", "endTime": "2300", "ITU": "USA", "station": "WWCR NASHVILLE", "language": "Eng", "location": "Nashville", "days": "1-7"},
+  {"freq": "9355", "startTime": "1630", "endTime": "1700", "ITU": "KWT", "station": "VOA Ashna Radio", "language": "Pas", "location": "Kuwait", "days": "23456"},
   {"freq": "9370", "startTime": "1730", "endTime": "2030", "ITU": "PHL", "station": "R.PILIPINAS", "language": "Fil", "location": "Tinang", "days": "1-7"},
   {"freq": "9380", "startTime": "1745", "endTime": "1800", "ITU": "SWZ", "station": "Trans World Radio", "language": "Tur", "location": "Manzini", "days": "7"},
   {"freq": "9385", "startTime": "1330", "endTime": "1400", "ITU": "UZB", "station": "Voice of Martyrs", "language": "Kor", "location": "Tashkent", "days": "1-7"},
@@ -3871,7 +3875,6 @@ var shortWaveSchedule = [
   {"freq": "11550", "startTime": "2100", "endTime": "1500", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
   {"freq": "11550", "startTime": "1000", "endTime": "2200", "ITU": "UZB", "station": "Radyo Denge Gel", "language": "Kur", "location": "Tashkent", "days": "1-7"},
   {"freq": "11550", "startTime": "1330", "endTime": "1415", "ITU": "PHL", "station": "Trans World Radio", "language": "Vie", "location": "Iba", "days": "7"},
-  {"freq": "11570", "startTime": "1630", "endTime": "1700", "ITU": "KWT", "station": "VOA Ashna Radio", "language": "Pas", "location": "Kuwait", "days": "1-7"},
   {"freq": "11580", "startTime": "1500", "endTime": "1600", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Can", "location": "Miaoli", "days": "1-7"},
   {"freq": "11580", "startTime": "2100", "endTime": "1500", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
   {"freq": "11600", "startTime": "1545", "endTime": "1600", "ITU": "BUL", "station": "BIBLE VOICE BCN Radio Da", "language": "Ara", "location": "Kostinbrod(", "days": "1-7"},
