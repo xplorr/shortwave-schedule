@@ -1,4 +1,4 @@
-// B25 Shortwave Frequency List  January 17 2026, 0100 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-01-22 04:04 UTC)
+// B25 Shortwave Frequency List  January 22 2026, 1400 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-01-23 04:01 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -4737,10 +4737,14 @@ var shortWaveSchedule = [
   {"freq": "15300", "startTime": "1900", "endTime": "2000", "ITU": "F", "station": "R.FRANCE INT.", "language": "Fre", "location": "Issoudun", "days": "1-7"},
   {"freq": "15310", "startTime": "0430", "endTime": "0500", "ITU": "OMA", "station": "BBC", "language": "Dar", "location": "Al Seela", "days": "1-7"},
   {"freq": "15310", "startTime": "0500", "endTime": "0530", "ITU": "OMA", "station": "BBC", "language": "Pas", "location": "Al Seela", "days": "1-7"},
-  {"freq": "15310", "startTime": "0830", "endTime": "0930", "ITU": "OMA", "station": "BBC", "language": "Dar", "location": "Al Seela", "days": "1-7"},
-  {"freq": "15310", "startTime": "0930", "endTime": "1030", "ITU": "OMA", "station": "BBC", "language": "Pas", "location": "Al Seela", "days": "1-7"},
-  {"freq": "15310", "startTime": "1030", "endTime": "1100", "ITU": "OMA", "station": "BBC", "language": "Dar", "location": "Al Seela", "days": "1-7"},
-  {"freq": "15310", "startTime": "1100", "endTime": "1130", "ITU": "OMA", "station": "BBC", "language": "Pas", "location": "Al Seela", "days": "1-7"},
+  {"freq": "15310", "startTime": "0830", "endTime": "0930", "ITU": "OMA", "station": "BBC", "language": "Dar", "location": "Al Seela", "days": "12567"},
+  {"freq": "15310", "startTime": "0830", "endTime": "0930", "ITU": "UAE", "station": "BBC", "language": "Dar", "location": "Al-Dhabbiya", "days": "34"},
+  {"freq": "15310", "startTime": "0930", "endTime": "1030", "ITU": "OMA", "station": "BBC", "language": "Pas", "location": "Al Seela", "days": "12567"},
+  {"freq": "15310", "startTime": "0930", "endTime": "1030", "ITU": "UAE", "station": "BBC", "language": "Pas", "location": "Al-Dhabbiya", "days": "34"},
+  {"freq": "15310", "startTime": "1030", "endTime": "1100", "ITU": "OMA", "station": "BBC", "language": "Dar", "location": "Al Seela", "days": "12567"},
+  {"freq": "15310", "startTime": "1030", "endTime": "1100", "ITU": "UAE", "station": "BBC", "language": "Dar", "location": "Al-Dhabbiya", "days": "34"},
+  {"freq": "15310", "startTime": "1100", "endTime": "1130", "ITU": "OMA", "station": "BBC", "language": "Pas", "location": "Al Seela", "days": "12567"},
+  {"freq": "15310", "startTime": "1100", "endTime": "1130", "ITU": "UAE", "station": "BBC", "language": "Dar", "location": "Al-Dhabbiya", "days": "34"},
   {"freq": "15310", "startTime": "1600", "endTime": "1630", "ITU": "D", "station": "BIBLE VOICE BCN", "language": "Oro", "location": "Nauen", "days": "123"},
   {"freq": "15310", "startTime": "1600", "endTime": "1630", "ITU": "D", "station": "BIBLE VOICE BCN", "language": "Tig", "location": "Nauen", "days": "56"},
   {"freq": "15310", "startTime": "1630", "endTime": "1700", "ITU": "D", "station": "BIBLE VOICE BCN", "language": "Som", "location": "Nauen", "days": "17"},
@@ -4817,7 +4821,9 @@ var shortWaveSchedule = [
   {"freq": "15435", "startTime": "0000", "endTime": "0045", "ITU": "PHL", "station": "FEBC RADIO", "language": "Sha", "location": "Bocaue", "days": "1-7"},
   {"freq": "15435", "startTime": "0045", "endTime": "0100", "ITU": "PHL", "station": "FEBC RADIO", "language": "Tai", "location": "Bocaue", "days": "1-7"},
   {"freq": "15435", "startTime": "0100", "endTime": "0130", "ITU": "PHL", "station": "FEBC RADIO", "language": "ksw", "location": "Bocaue", "days": "23456"},
+  {"freq": "15440", "startTime": "1630", "endTime": "2300", "ITU": "ASC", "station": "BBC", "language": "Hau", "location": "Ascension", "days": "4"},
   {"freq": "15440", "startTime": "1700", "endTime": "2000", "ITU": "ASC", "station": "BBC", "language": "Hau", "location": "Ascension", "days": "17"},
+  {"freq": "15440", "startTime": "1830", "endTime": "2200", "ITU": "ASC", "station": "BBC", "language": "Hau", "location": "Ascension", "days": "6"},
   {"freq": "15440", "startTime": "0900", "endTime": "1000", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Chi", "location": "Kunming-Ann", "days": "1-7"},
   {"freq": "15440", "startTime": "1000", "endTime": "1100", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Can", "location": "Kunming-Ann", "days": "1-7"},
   {"freq": "15440", "startTime": "1100", "endTime": "1157", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Chi", "location": "Kunming-Ann", "days": "1-7"},
