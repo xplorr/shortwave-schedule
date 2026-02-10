@@ -1,4 +1,4 @@
-// B25 Shortwave Frequency List  February 5 2026,  0300 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-02-09 04:53 UTC)
+// B25 Shortwave Frequency List  February 9 2026,  1200 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-02-10 04:57 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -233,19 +233,19 @@ var shortWaveSchedule = [
   {"freq": "792", "startTime": "0000", "endTime": "2400", "ITU": "CZE", "station": "Radio Dechovka", "language": "Cze", "location": "Hradec Kral", "days": "1-7"},
   {"freq": "792", "startTime": "0000", "endTime": "2400", "ITU": "KOR", "station": "s SBS", "language": "Kor", "location": "Goyang", "days": "1-7"},
   {"freq": "792", "startTime": "0000", "endTime": "2400", "ITU": "E", "station": "SER Radio Sevilla", "language": "Spa", "location": "Sevilla", "days": "1-7"},
+  {"freq": "801", "startTime": "0000", "endTime": "2400", "ITU": "BHR", "station": "Radio Bahrain", "language": "Eng", "location": "Abu Hayan", "days": "1-7"},
+  {"freq": "801", "startTime": "0000", "endTime": "2400", "ITU": "HOL", "station": "Radio 7000", "language": "Dut", "location": "Beilen", "days": "1-7"},
+  {"freq": "801", "startTime": "0000", "endTime": "2400", "ITU": "HOL", "station": "Radio Europe Netherlands", "language": "Eng", "location": "Alphen aan", "days": "1-7"},
   {"freq": "801", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Akita Hoso (ABS)", "language": "Jpn", "location": "Akita-Kazun", "days": "1-7"},
   {"freq": "801", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Chubu Nippon Hoso (CBC)", "language": "Jpn", "location": "Mie-Owase", "days": "1-7"},
   {"freq": "801", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Hokkaido Hoso (HBC)", "language": "Jpn", "location": "Engaru", "days": "1-7"},
   {"freq": "801", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Hokkaido Hoso (HBC)", "language": "Jpn", "location": "Nemuro", "days": "1-7"},
   {"freq": "801", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Hokkaido Hoso (HBC)", "language": "Jpn", "location": "Tomakomai", "days": "1-7"},
   {"freq": "801", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Hokkaido Hoso (HBC)", "language": "Jpn", "location": "Kitami", "days": "1-7"},
-  {"freq": "801", "startTime": "2000", "endTime": "1800", "ITU": "KRE", "station": "KCBS", "language": "Kor", "location": "Kimchaek", "days": "1-7"},
-  {"freq": "801", "startTime": "0000", "endTime": "2400", "ITU": "HOL", "station": "Radio 7000", "language": "Dut", "location": "Beilen", "days": "1-7"},
-  {"freq": "801", "startTime": "0000", "endTime": "2400", "ITU": "BHR", "station": "Radio Bahrain", "language": "Eng", "location": "Abu Hayan", "days": "1-7"},
-  {"freq": "801", "startTime": "0000", "endTime": "2400", "ITU": "HOL", "station": "Radio Europe Netherlands", "language": "Eng", "location": "Alphen aan", "days": "1-7"},
   {"freq": "801", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Radio Fukushima (RFC)", "language": "Jpn", "location": "Fukushima-H", "days": "1-7"},
   {"freq": "801", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Tohoku Hoso (TBC)", "language": "Jpn", "location": "Miyagi-Kese", "days": "1-7"},
   {"freq": "801", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "x Tokai Radio Hoso", "language": "Jpn", "location": "Gifu-Ena", "days": "1-7"},
+  {"freq": "801", "startTime": "2000", "endTime": "1800", "ITU": "KRE", "station": "KCBS", "language": "Kor", "location": "Kimchaek", "days": "1-7"},
   {"freq": "810", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "AFN Tokyo", "language": "Eng", "location": "Tokyo", "days": "1-7"},
   {"freq": "810", "startTime": "0000", "endTime": "2400", "ITU": "IND", "station": "AIR Delhi A (DRM)F250001", "language": "Hin", "location": "Delhi", "days": "1-7"},
   {"freq": "810", "startTime": "2000", "endTime": "1800", "ITU": "KRE", "station": "KCBS", "language": "Kor", "location": "Kaesong", "days": "1-7"},
