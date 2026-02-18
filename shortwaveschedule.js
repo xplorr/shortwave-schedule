@@ -1,4 +1,4 @@
-// B25 Shortwave Frequency List  February 15 2026,  1000 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-02-17 04:47 UTC)
+// B25 Shortwave Frequency List  February 17 2026,  0700 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-02-18 04:48 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -1816,6 +1816,7 @@ var shortWaveSchedule = [
   {"freq": "6010", "startTime": "0000", "endTime": "2400", "ITU": "B", "station": "R.Inconfidencia", "language": "Por", "location": "Belo Horizo", "days": "1-7"},
   {"freq": "6010", "startTime": "2200", "endTime": "0500", "ITU": "MEX", "station": "XEOI Nucleo Radio Mil", "language": "Spa", "location": "Mexico City", "days": "1-7"},
   {"freq": "6010", "startTime": "1700", "endTime": "1757", "ITU": "ROU", "station": "R.ROMANIA INT.", "language": "Rom", "location": "Galbeni-Bac", "days": "2-7"},
+  {"freq": "6015", "startTime": "0400", "endTime": "0500", "ITU": "F", "station": "R.FRANCE INT. DRM 1000", "language": "Fre", "location": "Issoudun", "days": "1-7"},
   {"freq": "6015", "startTime": "0350", "endTime": "0002", "ITU": "KOR", "station": "KBS Hanminjok Bangsong 1", "language": "Kor", "location": "Hwaseong", "days": "1-7"},
   {"freq": "6015", "startTime": "0250", "endTime": "0005", "ITU": "KRE", "station": "North Korean Jamming", "language": "Noi", "location": "Kujang", "days": "1-7"},
   {"freq": "6015", "startTime": "2345", "endTime": "0348", "ITU": "TKS", "station": "PBS Xinjiang", "language": "Kaz", "location": "Urumqi", "days": "1-7"},
@@ -1873,9 +1874,10 @@ var shortWaveSchedule = [
   {"freq": "6040", "startTime": "1800", "endTime": "1900", "ITU": "G", "station": "KBS WORLD RADIO", "language": "Rus", "location": "Woofferton", "days": "1-7"},
   {"freq": "6040", "startTime": "0800", "endTime": "1600", "ITU": "HOL", "station": "Radio Delta Internationa", "language": "Dut", "location": "Elburg", "days": "1-7"},
   {"freq": "6040", "startTime": "0500", "endTime": "0600", "ITU": "ALG", "station": "Ifrikya FM", "language": "Ara", "location": "Ourgla", "days": "1-7"},
-  {"freq": "6045", "startTime": "1600", "endTime": "1630", "ITU": "TWN", "station": "Furusato no kaze", "language": "Jpn", "location": "Tamsui Dist", "days": "1-7"},
+  {"freq": "6045", "startTime": "1600", "endTime": "1628", "ITU": "TWN", "station": "Furusato no kaze", "language": "Jpn", "location": "Tamsui Dist", "days": "1-7"},
   {"freq": "6045", "startTime": "1100", "endTime": "1400", "ITU": "D", "station": "Radio 60!", "language": "Eng", "location": "Nauen", "days": "1-7"},
   {"freq": "6045", "startTime": "1000", "endTime": "1400", "ITU": "D", "station": "Telstar Radio", "language": "Eng", "location": "Nauen", "days": "1-7"},
+  {"freq": "6048", "startTime": "0250", "endTime": "0005", "ITU": "KRE", "station": "North Korean Jamming", "language": "Noi", "location": "Kujang", "days": "1-7"},
   {"freq": "6050", "startTime": "1200", "endTime": "1300", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Mon", "location": "Huhhot 694", "days": "1-7"},
   {"freq": "6050", "startTime": "1300", "endTime": "1400", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Rus", "location": "Huhhot 694", "days": "1-7"},
   {"freq": "6050", "startTime": "0000", "endTime": "0030", "ITU": "EQA", "station": "HCJB QUITO", "language": "Cof", "location": "Pico Pichin", "days": "1-7"},
