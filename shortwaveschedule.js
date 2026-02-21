@@ -1,4 +1,4 @@
-// B25 Shortwave Frequency List  February 17 2026,  0700 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-02-20 04:42 UTC)
+// B25 Shortwave Frequency List  February 17 2026,  0700 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-02-21 04:22 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
