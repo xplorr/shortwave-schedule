@@ -1,4 +1,4 @@
-// B25 Shortwave Frequency List  February 21 2026,  1500 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-02-22 04:44 UTC)
+// B25 Shortwave Frequency List  February 23 2026,  0300 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-02-23 04:52 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -1661,7 +1661,7 @@ var shortWaveSchedule = [
   {"freq": "5940", "startTime": "1300", "endTime": "1500", "ITU": "ETH", "station": "R.Deegaanka Soomaalida", "language": "Som", "location": "Jijiga", "days": "1-7"},
   {"freq": "5940", "startTime": "1800", "endTime": "2000", "ITU": "ETH", "station": "R.Deegaanka Soomaalida", "language": "Som", "location": "Jijiga", "days": "1-7"},
   {"freq": "5940", "startTime": "0000", "endTime": "2400", "ITU": "B", "station": "R.Voz Missionaria", "language": "Por", "location": "Camboriu SC", "days": "1-7"},
-  {"freq": "5940", "startTime": "0700", "endTime": "1400", "ITU": "HOL", "station": "Radio Piepzender", "language": "Dut", "location": "Zwolle", "days": "17"},
+  {"freq": "5940", "startTime": "0000", "endTime": "2400", "ITU": "HOL", "station": "Radio Europe 2", "language": "Eng", "location": "Alphen aan", "days": "1-7"},
   {"freq": "5945", "startTime": "1000", "endTime": "1805", "ITU": "CHN", "station": "CNR 1 Voice of China", "language": "Chi", "location": "Beijing 572", "days": "1-7"},
   {"freq": "5945", "startTime": "2025", "endTime": "0100", "ITU": "CHN", "station": "CNR 1 Voice of China", "language": "Chi", "location": "Beijing 572", "days": "1-7"},
   {"freq": "5945", "startTime": "1830", "endTime": "1926", "ITU": "TUR", "station": "VOICE OF TURKEY", "language": "Ger", "location": "Emirler", "days": "1-7"},
@@ -1936,6 +1936,7 @@ var shortWaveSchedule = [
   {"freq": "6060", "startTime": "2210", "endTime": "2400", "ITU": "CHN", "station": "PBS Sichuan 2", "language": "Chi", "location": "Chengdu", "days": "1-7"},
   {"freq": "6060", "startTime": "1700", "endTime": "2300", "ITU": "HOL", "station": "Radio Casanova", "language": "Dut", "location": "Winterswijk", "days": "167"},
   {"freq": "6060", "startTime": "0500", "endTime": "0600", "ITU": "F", "station": "R.FRANCE INT. DRM 1000", "language": "Fre", "location": "Issoudun", "days": "1-7"},
+  {"freq": "6060", "startTime": "0600", "endTime": "0700", "ITU": "F", "station": "R.FRANCE INT. DRM 1000", "language": "Fre", "location": "Issoudun", "days": "1-7"},
   {"freq": "6065", "startTime": "0230", "endTime": "0330", "ITU": "MDG", "station": "Adventist World Radio", "language": "Mal", "location": "Talata-Volo", "days": "1-7"},
   {"freq": "6065", "startTime": "1500", "endTime": "1600", "ITU": "MDG", "station": "Adventist World Radio", "language": "Mal", "location": "Talata-Volo", "days": "1-7"},
   {"freq": "6065", "startTime": "0200", "endTime": "0227", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Pas", "location": "Kashi-Saiba", "days": "1-7"},
@@ -4995,7 +4996,6 @@ var shortWaveSchedule = [
   {"freq": "15710", "startTime": "0600", "endTime": "0900", "ITU": "CHN", "station": "CNR 6", "language": "Hak", "location": "Beijing 491", "days": "5-3"},
   {"freq": "15710", "startTime": "1400", "endTime": "1500", "ITU": "GUM", "station": "KSDA-Adventist World R.G", "language": "Chi", "location": "Agat", "days": "1-7"},
   {"freq": "15710", "startTime": "1600", "endTime": "1630", "ITU": "F", "station": "Moresh VO.Amhara Int.R.", "language": "Amh", "location": "Issoudun", "days": "7"},
-  {"freq": "15720", "startTime": "0057", "endTime": "0157", "ITU": "CHN", "station": "CHINA R.INT. (DRM) 3F2 x", "language": "Chi", "location": "Kunming-Ann", "days": "1-7"},
   {"freq": "15720", "startTime": "0657", "endTime": "0757", "ITU": "CHN", "station": "CHINA R.INT. (DRM) 3F2 x", "language": "Chi", "location": "Kunming-Ann", "days": "1-7"},
   {"freq": "15720", "startTime": "0757", "endTime": "0857", "ITU": "CHN", "station": "CHINA R.INT. (DRM) 3F2 x", "language": "Chi", "location": "Kunming-Ann", "days": "1-7"},
   {"freq": "15720", "startTime": "1859", "endTime": "2058", "ITU": "NZL", "station": "R.NEW ZEALAND INT.", "language": "Eng", "location": "Rangitaiki", "days": "1-6"},
