@@ -1,4 +1,4 @@
-// B25 Shortwave Frequency List  February 25 2026,  2359 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-02-27 04:41 UTC)
+// B25 Shortwave Frequency List  February 27 2026,  1300 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-02-28 04:11 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -3858,12 +3858,12 @@ var shortWaveSchedule = [
   {"freq": "11600", "startTime": "1500", "endTime": "1600", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Can", "location": "Miaoli", "days": "1-7"},
   {"freq": "11600", "startTime": "2100", "endTime": "1600", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
   {"freq": "11605", "startTime": "1100", "endTime": "1200", "ITU": "TWN", "station": "* R.TAIWAN INT.", "language": "Chi", "location": "Paochung", "days": "1-7"},
-  {"freq": "11610", "startTime": "1300", "endTime": "1400", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Ben", "location": "Kunming-Ann", "days": "1-7"},
-  {"freq": "11610", "startTime": "1400", "endTime": "1457", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Ben", "location": "Kunming-Ann", "days": "1-7"},
-  {"freq": "11610", "startTime": "1100", "endTime": "1200", "ITU": "CHN", "station": "CNR 1 Jamming", "language": "Chi", "location": "Dongfang Ha", "days": "1-7"},
   {"freq": "11610", "startTime": "0000", "endTime": "0600", "ITU": "CHN", "station": "CNR 2-China Business Rad", "language": "Chi", "location": "Beijing 491", "days": "1-7"},
   {"freq": "11610", "startTime": "0600", "endTime": "0900", "ITU": "CHN", "station": "CNR 2-China Business Rad", "language": "Chi", "location": "Beijing 491", "days": "5-3"},
   {"freq": "11610", "startTime": "0900", "endTime": "1100", "ITU": "CHN", "station": "CNR 2-China Business Rad", "language": "Chi", "location": "Beijing 491", "days": "1-7"},
+  {"freq": "11610", "startTime": "1100", "endTime": "1200", "ITU": "CHN", "station": "CNR 1 Jamming", "language": "Chi", "location": "Dongfang Ha", "days": "1-7"},
+  {"freq": "11610", "startTime": "1300", "endTime": "1400", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Ben", "location": "Kunming-Ann", "days": "1-7"},
+  {"freq": "11610", "startTime": "1400", "endTime": "1457", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Ben", "location": "Kunming-Ann", "days": "1-7"},
   {"freq": "11610", "startTime": "1500", "endTime": "1520", "ITU": "J", "station": "NHK WORLD RADIO JAPAN", "language": "Ben", "location": "Ibaragi-Kog", "days": "1-7"},
   {"freq": "11610", "startTime": "1530", "endTime": "1550", "ITU": "J", "station": "NHK WORLD RADIO JAPAN", "language": "Hin", "location": "Ibaragi-Kog", "days": "1-7"},
   {"freq": "11610", "startTime": "2200", "endTime": "2258", "ITU": "MDG", "station": "World Christian Broadc.", "language": "Ara", "location": "Mahajanga 2", "days": "1-7"},
