@@ -1,4 +1,4 @@
-// B25 Shortwave Frequency List  March 17 2026,  0200 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-03-18 04:50 UTC)
+// B25 Shortwave Frequency List  March 18 2026,  2300 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-03-19 04:49 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -2685,9 +2685,10 @@ var shortWaveSchedule = [
   {"freq": "7455", "startTime": "1900", "endTime": "2000", "ITU": "GUM", "station": "KSDA-Adventist World R.G", "language": "Kor", "location": "Agat", "days": "1-7"},
   {"freq": "7455", "startTime": "1800", "endTime": "1900", "ITU": "GUM", "station": "KSDA-Adventist World R.G", "language": "Kor", "location": "Agat", "days": "1-7"},
   {"freq": "7460", "startTime": "2136", "endTime": "1700", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
+  {"freq": "7470", "startTime": "1230", "endTime": "1400", "ITU": "KWT", "station": "RADIO FARDA", "language": "Per", "location": "Kuwait", "days": "1-7"},
   {"freq": "7470", "startTime": "1400", "endTime": "0200", "ITU": "KWT", "station": "RADIO FARDA", "language": "Per", "location": "Kuwait", "days": "1-7"},
   {"freq": "7480", "startTime": "1445", "endTime": "1500", "ITU": "UZB", "station": "Trans World Radio Do You", "language": "Kaz", "location": "Tashkent", "days": "1-7"},
-  {"freq": "7480", "startTime": "1830", "endTime": "1958", "ITU": "UZB", "station": "RADIO FARDA", "language": "Per", "location": "Tashkent", "days": "1-7"},
+  {"freq": "7480", "startTime": "1828", "endTime": "1958", "ITU": "UZB", "station": "RADIO FARDA", "language": "Per", "location": "Tashkent", "days": "1-7"},
   {"freq": "7490", "startTime": "1300", "endTime": "1600", "ITU": "USA", "station": "WWCR NASHVILLE", "language": "Eng", "location": "Nashville", "days": "1-7"},
   {"freq": "7490", "startTime": "2100", "endTime": "2130", "ITU": "USA", "station": "WBCQ World of Radio", "language": "Eng", "location": "Monticello", "days": "4"},
   {"freq": "7490", "startTime": "0000", "endTime": "0100", "ITU": "USA", "station": "WBCQ Voice of Revival", "language": "Eng", "location": "Monticello", "days": "1"},
