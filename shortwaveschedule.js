@@ -1,4 +1,4 @@
-// B25 Shortwave Frequency List  March 22 2026,  1400 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-03-23 04:57 UTC)
+// B25 Shortwave Frequency List  March 23 2026,  1500 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-03-24 04:47 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -2210,7 +2210,7 @@ var shortWaveSchedule = [
   {"freq": "6970", "startTime": "0000", "endTime": "2359", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
   {"freq": "6980", "startTime": "0000", "endTime": "2400", "ITU": "IRL", "station": "Laser Hot Hits", "language": "Eng", "location": "", "days": "1-7"},
   {"freq": "7200", "startTime": "1400", "endTime": "1428", "ITU": "TWN", "station": "New Korean Hope Radio", "language": "Kor", "location": "Tamsui Dist", "days": "357"},
-  {"freq": "7200", "startTime": "1400", "endTime": "1428", "ITU": "TWN", "station": "IBS Radio", "language": "Kor", "location": "Tamsui Dist", "days": "246"},
+  {"freq": "7200", "startTime": "1400", "endTime": "1428", "ITU": "TWN", "station": "RBS Radio", "language": "Kor", "location": "Tamsui Dist", "days": "246"},
   {"freq": "7203", "startTime": "0900", "endTime": "2400", "ITU": "INS", "station": "RRI Pro.3", "language": "Ind", "location": "Kebayoran B", "days": "1-7"},
   {"freq": "7205", "startTime": "1800", "endTime": "2057", "ITU": "ROU", "station": "R.ROMANIA INT.", "language": "Rom", "location": "Galbeni-Bac", "days": "1-7"},
   {"freq": "7205", "startTime": "1400", "endTime": "1430", "ITU": "TKS", "station": "PBS Xinjiang (CNR13)", "language": "Uyg", "location": "Urumqi", "days": "1-7"},
