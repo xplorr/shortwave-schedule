@@ -1,4 +1,4 @@
-// B25 Shortwave Frequency List  March 23 2026,  1500 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-03-26 04:59 UTC)
+// B25 Shortwave Frequency List  March 28 2026,  0500 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-03-27 05:01 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -2057,7 +2057,6 @@ var shortWaveSchedule = [
   {"freq": "6150", "startTime": "1623", "endTime": "1650", "ITU": "IRN", "station": "VO ISLAMIC REP.IRAN", "language": "Ben", "location": "Sirjan", "days": "1-7"},
   {"freq": "6150", "startTime": "1100", "endTime": "1200", "ITU": "TWN", "station": "R.TAIWAN INT.", "language": "Chi", "location": "Kouhu", "days": "1-7"},
   {"freq": "6150", "startTime": "1200", "endTime": "1300", "ITU": "TWN", "station": "R.TAIWAN INT.", "language": "Amo", "location": "Kouhu", "days": "1-7"},
-  {"freq": "6150", "startTime": "0300", "endTime": "0500", "ITU": "F", "station": "NHK WORLD RADIO JAPAN", "language": "Jpn", "location": "Issoudun", "days": "1-7"},
   {"freq": "6150", "startTime": "0700", "endTime": "1700", "ITU": "D", "station": "Europa 24", "language": "Ger", "location": "Datteln", "days": "1-7"},
   {"freq": "6150", "startTime": "1730", "endTime": "1827", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Chi", "location": "Shijiazhuan", "days": "1-7"},
   {"freq": "6150", "startTime": "1830", "endTime": "1900", "ITU": "D", "station": "BIBLE VOICE BCN", "language": "Spa", "location": "Nauen", "days": "1"},
@@ -3611,14 +3610,16 @@ var shortWaveSchedule = [
   {"freq": "9873", "startTime": "1342", "endTime": "1400", "ITU": "UZB", "station": "* VOICE OF TIBET", "language": "Tib", "location": "Tashkent", "days": "1-7"},
   {"freq": "9874", "startTime": "2332", "endTime": "2400", "ITU": "UZB", "station": "* VOICE OF TIBET", "language": "Tib", "location": "Tashkent", "days": "1-7"},
   {"freq": "9874", "startTime": "1334", "endTime": "1340", "ITU": "UZB", "station": "* VOICE OF TIBET", "language": "Tib", "location": "Tashkent", "days": "1-7"},
-  {"freq": "9875", "startTime": "2000", "endTime": "2050", "ITU": "KRE", "station": "Voice of Korea (KCBS)", "language": "Kor", "location": "Kujang", "days": "1-7"},
-  {"freq": "9875", "startTime": "2300", "endTime": "2350", "ITU": "KRE", "station": "Voice of Korea (KCBS)", "language": "Kor", "location": "Kujang", "days": "1-7"},
+  {"freq": "9875", "startTime": "0300", "endTime": "0500", "ITU": "F", "station": "NHK WORLD RADIO JAPAN", "language": "Jpn", "location": "Issoudun", "days": "1-7"},
+  {"freq": "9875", "startTime": "0100", "endTime": "0300", "ITU": "F", "station": "NHK WORLD RADIO JAPAN", "language": "Jpn", "location": "Issoudun", "days": "1-7"},
   {"freq": "9875", "startTime": "0700", "endTime": "0757", "ITU": "KRE", "station": "Voice of Korea", "language": "Rus", "location": "Kujang", "days": "1-7"},
   {"freq": "9875", "startTime": "0800", "endTime": "0857", "ITU": "KRE", "station": "Voice of Korea", "language": "Rus", "location": "Kujang", "days": "1-7"},
   {"freq": "9875", "startTime": "1800", "endTime": "1857", "ITU": "KRE", "station": "Voice of Korea", "language": "Fre", "location": "Kujang", "days": "1-7"},
   {"freq": "9875", "startTime": "1900", "endTime": "1957", "ITU": "KRE", "station": "Voice of Korea", "language": "Eng", "location": "Kujang", "days": "1-7"},
+  {"freq": "9875", "startTime": "2000", "endTime": "2050", "ITU": "KRE", "station": "Voice of Korea (KCBS)", "language": "Kor", "location": "Kujang", "days": "1-7"},
   {"freq": "9875", "startTime": "2100", "endTime": "2157", "ITU": "KRE", "station": "Voice of Korea", "language": "Chi", "location": "Kujang", "days": "1-7"},
   {"freq": "9875", "startTime": "2200", "endTime": "2257", "ITU": "KRE", "station": "Voice of Korea", "language": "Chi", "location": "Kujang", "days": "1-7"},
+  {"freq": "9875", "startTime": "2300", "endTime": "2350", "ITU": "KRE", "station": "Voice of Korea (KCBS)", "language": "Kor", "location": "Kujang", "days": "1-7"},
   {"freq": "9875", "startTime": "2300", "endTime": "2330", "ITU": "PHL", "station": "FEBC RADIO", "language": "Iu", "location": "Bocaue", "days": "1-7"},
   {"freq": "9875", "startTime": "2330", "endTime": "2400", "ITU": "PHL", "station": "FEBC RADIO", "language": "Iu", "location": "Bocaue", "days": "23456"},
   {"freq": "9875", "startTime": "1600", "endTime": "1657", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Eng", "location": "Kashi-Saiba", "days": "1-7"},
