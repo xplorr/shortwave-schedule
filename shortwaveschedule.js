@@ -1,4 +1,4 @@
-// B25 Shortwave Frequency List  March 28 2026,  0500 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-03-27 05:01 UTC)
+// B25 Shortwave Frequency List  March 28 2026,  0530 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-03-28 04:47 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -4991,6 +4991,7 @@ var shortWaveSchedule = [
   {"freq": "15630", "startTime": "1100", "endTime": "1200", "ITU": "UZB", "station": "Trans World Radio", "language": "Kor", "location": "Tashkent", "days": "3456"},
   {"freq": "15640", "startTime": "0200", "endTime": "0330", "ITU": "PHL", "station": "R.PILIPINAS", "language": "Eng", "location": "Tinang", "days": "1-7"},
   {"freq": "15640", "startTime": "0357", "endTime": "0457", "ITU": "CHN", "station": "CHINA R.INT. (DRM) 3F2 x", "language": "Chi", "location": "Kunming-Ann", "days": "1-7"},
+  {"freq": "15640", "startTime": "0500", "endTime": "0530", "ITU": "UZB", "station": "Radio for Peace Internat", "language": "Rus", "location": "Tashkent", "days": "1-7"},
   {"freq": "15665", "startTime": "0400", "endTime": "0600", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Rus", "location": "Kashi-Saiba", "days": "1-7"},
   {"freq": "15665", "startTime": "0800", "endTime": "1000", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Rus", "location": "Kashi-Saiba", "days": "1-7"},
   {"freq": "15680", "startTime": "1300", "endTime": "1330", "ITU": "GUM", "station": "KSDA-Adventist World R.G", "language": "nij", "location": "Agat", "days": "1-7"},
