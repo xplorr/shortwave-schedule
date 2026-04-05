@@ -1,4 +1,4 @@
-// A26 Shortwave Frequency List  April 4  2026,  0100 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-04-04 04:44 UTC)
+// A26 Shortwave Frequency List  April 4  2026,  1500 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-04-05 05:05 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -2653,8 +2653,6 @@ var shortWaveSchedule = [
   {"freq": "9500", "startTime": "0600", "endTime": "0900", "ITU": "CHN", "station": "CNR 1 Voice of China", "language": "Chi", "location": "Shijiazhuan", "days": "124-7"},
   {"freq": "9500", "startTime": "0900", "endTime": "1805", "ITU": "CHN", "station": "CNR 1 Voice of China", "language": "Chi", "location": "Shijiazhuan", "days": "1-7"},
   {"freq": "9500", "startTime": "2025", "endTime": "0600", "ITU": "CHN", "station": "CNR 1 Voice of China", "language": "Chi", "location": "Shijiazhuan", "days": "1-7"},
-  {"freq": "9500", "startTime": "1530", "endTime": "1600", "ITU": "D", "station": "HCJB QUITO", "language": "Rus", "location": "Nauen", "days": "7"},
-  {"freq": "9500", "startTime": "1600", "endTime": "1630", "ITU": "D", "station": "HCJB QUITO", "language": "Che", "location": "Nauen", "days": "7"},
   {"freq": "9500", "startTime": "0300", "endTime": "0700", "ITU": "ALG", "station": "Ifrikya FM", "language": "Ara", "location": "Bechar", "days": "1-7"},
   {"freq": "9500", "startTime": "1800", "endTime": "1957", "ITU": "ROU", "station": "R.ROMANIA INT.", "language": "Rom", "location": "Galbeni-Bac", "days": "1-7"},
   {"freq": "9500", "startTime": "1630", "endTime": "1645", "ITU": "SWZ", "station": "Trans World Radio", "language": "kam", "location": "Manzini", "days": "17"},
@@ -3556,6 +3554,8 @@ var shortWaveSchedule = [
   {"freq": "11695", "startTime": "0000", "endTime": "0600", "ITU": "CHN", "station": "CNR 2-China Business Rad", "language": "Chi", "location": "Xianyang 59", "days": "1-7"},
   {"freq": "11695", "startTime": "0600", "endTime": "0900", "ITU": "CHN", "station": "CNR 2-China Business Rad", "language": "Chi", "location": "Xianyang 59", "days": "5-3"},
   {"freq": "11695", "startTime": "0900", "endTime": "1100", "ITU": "CHN", "station": "CNR 2-China Business Rad", "language": "Chi", "location": "Xianyang 59", "days": "1-7"},
+  {"freq": "11700", "startTime": "1530", "endTime": "1600", "ITU": "D", "station": "HCJB QUITO", "language": "Rus", "location": "Nauen", "days": "7"},
+  {"freq": "11700", "startTime": "1600", "endTime": "1630", "ITU": "D", "station": "HCJB QUITO", "language": "Che", "location": "Nauen", "days": "7"},
   {"freq": "11700", "startTime": "2030", "endTime": "2100", "ITU": "D", "station": "Adventist World Radio", "language": "Nig", "location": "Nauen", "days": "1-7"},
   {"freq": "11700", "startTime": "0400", "endTime": "0500", "ITU": "F", "station": "R.FRANCE INT.", "language": "Fre", "location": "Issoudun", "days": "1-7"},
   {"freq": "11700", "startTime": "0500", "endTime": "0600", "ITU": "F", "station": "R.FRANCE INT.", "language": "Fre", "location": "Issoudun", "days": "1-7"},
@@ -3677,7 +3677,6 @@ var shortWaveSchedule = [
   {"freq": "11800", "startTime": "1555", "endTime": "1800", "ITU": "J", "station": "NHK WORLD RADIO JAPAN", "language": "Jpn", "location": "Ibaragi-Kog", "days": "1-7"},
   {"freq": "11800", "startTime": "0430", "endTime": "0457", "ITU": "ROU", "station": "R.ROMANIA INT.", "language": "Rus", "location": "Tiganesti", "days": "1-7"},
   {"freq": "11800", "startTime": "0000", "endTime": "0057", "ITU": "ROU", "station": "R.ROMANIA INT.", "language": "Rom", "location": "Galbeni-Bac", "days": "1-7"},
-  {"freq": "11805", "startTime": "1530", "endTime": "1600", "ITU": "UZB", "station": "", "language": "Kor", "location": "Tashkent", "days": "1-7"},
   {"freq": "11805", "startTime": "1900", "endTime": "2000", "ITU": "GUM", "station": "KSDA-Adventist World R.G", "language": "Ara", "location": "Agat", "days": "1-7"},
   {"freq": "11810", "startTime": "0100", "endTime": "0200", "ITU": "CHN", "station": "CNR 8", "language": "Chi", "location": "Beijing 491", "days": "1-7"},
   {"freq": "11810", "startTime": "0200", "endTime": "0500", "ITU": "CHN", "station": "CNR 8", "language": "Mon", "location": "Beijing 491", "days": "1-7"},
