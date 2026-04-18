@@ -1,4 +1,4 @@
-// A26 Shortwave Frequency List  April 16  2026,  1500 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-04-17 05:20 UTC)
+// A26 Shortwave Frequency List  April 18  2026,  0300 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-04-18 05:00 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -1275,6 +1275,7 @@ var shortWaveSchedule = [
   {"freq": "4850", "startTime": "2345", "endTime": "0328", "ITU": "TKS", "station": "PBS Xinjiang", "language": "Kaz", "location": "Urumqi", "days": "1-7"},
   {"freq": "4850", "startTime": "1400", "endTime": "1430", "ITU": "TKS", "station": "PBS Xinjiang (CNR17)", "language": "Kaz", "location": "Urumqi", "days": "1-7"},
   {"freq": "4885", "startTime": "0000", "endTime": "2400", "ITU": "B", "station": "R.Clube do Para", "language": "Por", "location": "Belem PA", "days": "1-7"},
+  {"freq": "4890", "startTime": "0800", "endTime": "0149", "ITU": "D", "station": "Mystery21", "language": "Eng", "location": "", "days": "1-7"},
   {"freq": "4900", "startTime": "0840", "endTime": "1135", "ITU": "CHN", "station": "Haixia zhi Sheng(VO Stra", "language": "Chi", "location": "Fuzhou", "days": "1-7"},
   {"freq": "4905", "startTime": "2050", "endTime": "2300", "ITU": "TIB", "station": "PBS Xizang", "language": "Tib", "location": "Lhasa-Baidi", "days": "124-7"},
   {"freq": "4905", "startTime": "2100", "endTime": "2300", "ITU": "TIB", "station": "PBS Xizang", "language": "Tib", "location": "Lhasa-Baidi", "days": "3"},
@@ -3868,7 +3869,6 @@ var shortWaveSchedule = [
   {"freq": "11940", "startTime": "1600", "endTime": "1657", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Eng", "location": "Kashi-Saiba", "days": "1-7"},
   {"freq": "11940", "startTime": "2030", "endTime": "2057", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Bul", "location": "Kunming-Ann", "days": "1-7"},
   {"freq": "11940", "startTime": "0200", "endTime": "0257", "ITU": "ROU", "station": "R.ROMANIA INT.", "language": "Spa", "location": "Tiganesti", "days": "1-7"},
-  {"freq": "11940", "startTime": "1400", "endTime": "1430", "ITU": "TWN", "station": "RADIO NUG", "language": "Bur", "location": "Paochung", "days": "1-7"},
   {"freq": "11945", "startTime": "1330", "endTime": "1430", "ITU": "", "station": "Radio Barandazi", "language": "Per", "location": "", "days": "36"},
   {"freq": "11945", "startTime": "1420", "endTime": "1520", "ITU": "IRN", "station": "VO ISLAMIC REP.IRAN", "language": "Ben", "location": "Sirjan", "days": "1-7"},
   {"freq": "11945", "startTime": "0100", "endTime": "0200", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Amo", "location": "Kunming-Ann", "days": "1-7"},
@@ -4742,7 +4742,7 @@ var shortWaveSchedule = [
   {"freq": "15630", "startTime": "1300", "endTime": "1330", "ITU": "GUM", "station": "KSDA-Adventist World R.G", "language": "nij", "location": "Agat", "days": "1-7"},
   {"freq": "15640", "startTime": "0358", "endTime": "0457", "ITU": "CHN", "station": "CHINA R.INT. (DRM) 3F2 x", "language": "Chi", "location": "Kunming-Ann", "days": "1-7"},
   {"freq": "15640", "startTime": "0200", "endTime": "0330", "ITU": "PHL", "station": "R.PILIPINAS", "language": "Eng", "location": "Tinang", "days": "1-7"},
-  {"freq": "15640", "startTime": "0000", "endTime": "0055", "ITU": "J", "station": "NHK WORLD RADIO JAPAN", "language": "Jpn", "location": "Ibaragi-Kog", "days": "1-7"},
+  {"freq": "15640", "startTime": "0000", "endTime": "0100", "ITU": "J", "station": "NHK WORLD RADIO JAPAN", "language": "Jpn", "location": "Ibaragi-Kog", "days": "1-7"},
   {"freq": "15660", "startTime": "1100", "endTime": "1300", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Eng", "location": "Kashi-Saiba", "days": "1-7"},
   {"freq": "15665", "startTime": "0400", "endTime": "0600", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Rus", "location": "Urumqi Hutu", "days": "1-7"},
   {"freq": "15665", "startTime": "0800", "endTime": "1000", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Rus", "location": "Urumqi Hutu", "days": "1-7"},
@@ -5115,7 +5115,6 @@ var shortWaveSchedule = [
   {"freq": "17790", "startTime": "0300", "endTime": "0357", "ITU": "ROU", "station": "R.ROMANIA INT. DRM xHE E", "language": "Eng", "location": "SNR Tiganes", "days": "1-7"},
   {"freq": "17790", "startTime": "0100", "endTime": "0130", "ITU": "USA", "station": "R.TAIWAN INT.", "language": "Spa", "location": "Okeechobee7", "days": "1-7"},
   {"freq": "17790", "startTime": "2200", "endTime": "2230", "ITU": "USA", "station": "R.TAIWAN INT.", "language": "Spa", "location": "Okeechobee7", "days": "1-7"},
-  {"freq": "17790", "startTime": "0200", "endTime": "0230", "ITU": "TWN", "station": "RADIO NUG", "language": "Bur", "location": "Paochung", "days": "1-7"},
   {"freq": "17790", "startTime": "1530", "endTime": "1600", "ITU": "USA", "station": "WRMI Living the Bible", "language": "Eng", "location": "Okeechobee7", "days": "2"},
   {"freq": "17790", "startTime": "1900", "endTime": "1930", "ITU": "USA", "station": "WRMI Living the Bible", "language": "Eng", "location": "Okeechobee7", "days": "2"},
   {"freq": "17790", "startTime": "1900", "endTime": "1930", "ITU": "USA", "station": "WRMI Living the Bible", "language": "Eng", "location": "Okeechobee7", "days": "1"},
