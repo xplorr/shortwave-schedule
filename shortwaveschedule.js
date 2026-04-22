@@ -1,4 +1,4 @@
-// A26 Shortwave Frequency List  April 21  2026,  0200 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-04-21 05:20 UTC)
+// A26 Shortwave Frequency List  April 22  2026,  0200 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-04-22 05:17 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -2594,7 +2594,7 @@ var shortWaveSchedule = [
   {"freq": "9455", "startTime": "1330", "endTime": "1357", "ITU": "TWN", "station": "Furusato no kaze", "language": "Jpn", "location": "Paochung", "days": "1-7"},
   {"freq": "9455", "startTime": "1300", "endTime": "1328", "ITU": "TWN", "station": "Nippon no Kaze\"il bon ue", "language": "Kor", "location": "Paochung", "days": "1-7"},
   {"freq": "9455", "startTime": "1500", "endTime": "1600", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Chi", "location": "Kunming-Ann", "days": "1-7"},
-  {"freq": "9455", "startTime": "2230", "endTime": "2245", "ITU": "PHL", "station": "RADIO FREE ASIA", "language": "Chi", "location": "Tinang", "days": "1-7"},
+  {"freq": "9455", "startTime": "2230", "endTime": "2245", "ITU": "PHL", "station": "RADIO FREE ASIA", "language": "Chi", "location": "Tinang", "days": "23456"},
   {"freq": "9455", "startTime": "0000", "endTime": "0100", "ITU": "USA", "station": "WRMI RAE Argentina to th", "language": "Jpn", "location": "Okeechobee1", "days": "34567"},
   {"freq": "9455", "startTime": "0100", "endTime": "0200", "ITU": "USA", "station": "WRMI R.Prague", "language": "Eng", "location": "Okeechobee1", "days": "1-7"},
   {"freq": "9455", "startTime": "0100", "endTime": "0200", "ITU": "USA", "station": "WRMI RAE Argentina to th", "language": "Spa", "location": "Okeechobee1", "days": "34567"},
@@ -3208,7 +3208,7 @@ var shortWaveSchedule = [
   {"freq": "9895", "startTime": "2000", "endTime": "2100", "ITU": "GUM", "station": "KSDA-Adventist World R.G", "language": "Kor", "location": "Agat", "days": "1-7"},
   {"freq": "9900", "startTime": "0045", "endTime": "0200", "ITU": "EGY", "station": "R.CAIRO", "language": "Spa", "location": "Abis", "days": "1-7"},
   {"freq": "9900", "startTime": "1330", "endTime": "1345", "ITU": "PHL", "station": "RADIO FREE ASIA", "language": "Kor", "location": "Tinang", "days": "35"},
-  {"freq": "9900", "startTime": "1330", "endTime": "1345", "ITU": "PHL", "station": "RADIO FREE ASIA", "language": "Kor", "location": "Tinang", "days": "12467"},
+  {"freq": "9900", "startTime": "1330", "endTime": "1345", "ITU": "PHL", "station": "RADIO FREE ASIA", "language": "Kor", "location": "Tinang", "days": "246"},
   {"freq": "9900", "startTime": "1500", "endTime": "1600", "ITU": "GUM", "station": "Living Water Ministry", "language": "Kor", "location": "Merizo", "days": "1-7"},
   {"freq": "9900", "startTime": "1700", "endTime": "1900", "ITU": "EGY", "station": "R.CAIRO", "language": "Tur", "location": "Abis", "days": "1-7"},
   {"freq": "9900", "startTime": "2200", "endTime": "2400", "ITU": "CHN", "station": "CNR 1 Jamming", "language": "Chi", "location": "Dongfang Ha", "days": "1-7"},
