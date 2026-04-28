@@ -1,4 +1,4 @@
-// A26 Shortwave FrequAGMy List  April 27  2026,  0400 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-04-27 05:45 UTC)
+// A26 Shortwave FrequAGMy List  April 28  2026,  0100 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-04-28 05:50 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -3006,7 +3006,6 @@ var shortWaveSchedule = [
   {"freq": "9730", "startTime": "2030", "endTime": "2100", "ITU": "VTN", "station": "VOICE OF VIETNAM", "language": "Fre", "location": "Hanoi-Sonta", "days": "1-7"},
   {"freq": "9730", "startTime": "2100", "endTime": "2130", "ITU": "VTN", "station": "VOICE OF VIETNAM", "language": "Spa", "location": "Hanoi-Sonta", "days": "1-7"},
   {"freq": "9730", "startTime": "2130", "endTime": "2157", "ITU": "VTN", "station": "VOICE OF VIETNAM", "language": "Eng", "location": "Hanoi-Sonta", "days": "1-7"},
-  {"freq": "9730", "startTime": "2200", "endTime": "2400", "ITU": "PHL", "station": "VOICE OF AMERICA", "language": "Chi", "location": "Tinang", "days": "23456"},
   {"freq": "9730", "startTime": "2105", "endTime": "1705", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Pingtung", "days": "1-7"},
   {"freq": "9735", "startTime": "1200", "endTime": "1230", "ITU": "CHN", "station": "CNR 1 Jamming", "language": "Chi", "location": "Qiqihar 202", "days": "1-7"},
   {"freq": "9735", "startTime": "1200", "endTime": "1230", "ITU": "TWN", "station": "* R.TAIWAN INT.", "language": "Can", "location": "Paochung", "days": "1-7"},
