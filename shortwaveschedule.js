@@ -1,4 +1,4 @@
-// A26 Shortwave FrequAGMy List  April 28  2026,  0100 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-04-28 05:50 UTC)
+// A26 Shortwave FrequAGMy List  April 28  2026,  1000 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-04-29 05:46 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -1839,6 +1839,8 @@ var shortWaveSchedule = [
   {"freq": "6140", "startTime": "0600", "endTime": "1700", "ITU": "LUX", "station": "Radio Gloria", "language": "Dut", "location": "Junglinster", "days": "1-7"},
   {"freq": "6140", "startTime": "1700", "endTime": "1900", "ITU": "LUX", "station": "Radio Onda", "language": "Dut", "location": "Junglinster", "days": "1-7"},
   {"freq": "6140", "startTime": "1900", "endTime": "2100", "ITU": "LUX", "station": "Radio Augusta Internatio", "language": "Dut", "location": "Junglinster", "days": "1-7"},
+  {"freq": "6145", "startTime": "1100", "endTime": "1300", "ITU": "BOL", "station": "R.Juan XXIII", "language": "Spa", "location": "San Ignacio", "days": "1-7"},
+  {"freq": "6145", "startTime": "2100", "endTime": "2300", "ITU": "BOL", "station": "R.Juan XXIII", "language": "Spa", "location": "San Ignacio", "days": "1-7"},
   {"freq": "6145", "startTime": "1400", "endTime": "1700", "ITU": "CHN", "station": "CNR 1 Jamming", "language": "Chi", "location": "Baoji-Sifan", "days": "1-7"},
   {"freq": "6145", "startTime": "0600", "endTime": "0900", "ITU": "CHN", "station": "PBS Qinghai", "language": "Chi", "location": "Xining", "days": "124-7"},
   {"freq": "6145", "startTime": "0900", "endTime": "1600", "ITU": "CHN", "station": "PBS Qinghai", "language": "Chi", "location": "Xining", "days": "1-7"},
@@ -2957,7 +2959,7 @@ var shortWaveSchedule = [
   {"freq": "9710", "startTime": "1100", "endTime": "1805", "ITU": "CHN", "station": "CNR 1 Voice of China", "language": "Chi", "location": "Shijiazhuan", "days": "1-7"},
   {"freq": "9710", "startTime": "2025", "endTime": "2330", "ITU": "CHN", "station": "CNR 1 Voice of China", "language": "Chi", "location": "Shijiazhuan", "days": "1-7"},
   {"freq": "9710", "startTime": "1100", "endTime": "1300", "ITU": "CUB", "station": "R.HABANA CUBA", "language": "Spa", "location": "Bejucal", "days": "1-7"},
-  {"freq": "9710", "startTime": "2100", "endTime": "0400", "ITU": "CUB", "station": "R.HABANA CUBA", "language": "Spa", "location": "Bejucal", "days": "1-7"},
+  {"freq": "9710", "startTime": "0100", "endTime": "0400", "ITU": "CUB", "station": "R.HABANA CUBA", "language": "Eng", "location": "Bejucal", "days": "1-7"},
   {"freq": "9710", "startTime": "0440", "endTime": "0500", "ITU": "CVA", "station": "VATICAN RADIO", "language": "Ukr", "location": "Santa Maria", "days": "1-7"},
   {"freq": "9710", "startTime": "0500", "endTime": "0520", "ITU": "CVA", "station": "VATICAN RADIO", "language": "Rus", "location": "Santa Maria", "days": "1-7"},
   {"freq": "9710", "startTime": "0605", "endTime": "0700", "ITU": "CVA", "station": "VATICAN RADIO", "language": "Ukr", "location": "Santa Maria", "days": "1"},
@@ -3992,7 +3994,6 @@ var shortWaveSchedule = [
   {"freq": "12065", "startTime": "1030", "endTime": "1100", "ITU": "TWN", "station": "R.TAIWAN INT.", "language": "Hak", "location": "Paochung", "days": "1-7"},
   {"freq": "12070", "startTime": "1130", "endTime": "1157", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Fil", "location": "Nanning 954", "days": "1-7"},
   {"freq": "12070", "startTime": "2300", "endTime": "0100", "ITU": "PHL", "station": "FEBC Radio Liangyou 1", "language": "Chi", "location": "Iba", "days": "1-7"},
-  {"freq": "12070", "startTime": "0600", "endTime": "1300", "ITU": "KWT", "station": "RADIO FARDA", "language": "Per", "location": "Kuwait", "days": "1-7"},
   {"freq": "12070", "startTime": "1430", "endTime": "1700", "ITU": "UAE", "station": "RADIO FARDA", "language": "Per", "location": "Al-Dhabbiya", "days": "1-7"},
   {"freq": "12070", "startTime": "1700", "endTime": "2100", "ITU": "G", "station": "RADIO FARDA", "language": "Per", "location": "Woofferton", "days": "1-7"},
   {"freq": "12075", "startTime": "0700", "endTime": "0900", "ITU": "USA", "station": "WINB DRM", "language": "Eng", "location": "Red Lion", "days": "23456"},
@@ -4028,8 +4029,6 @@ var shortWaveSchedule = [
   {"freq": "12095", "startTime": "1330", "endTime": "1400", "ITU": "PHL", "station": "FEBC RADIO", "language": "Khm", "location": "Bocaue", "days": "1-7"},
   {"freq": "12095", "startTime": "2230", "endTime": "2330", "ITU": "PHL", "station": "FEBC RADIO", "language": "mww", "location": "Bocaue", "days": "23456"},
   {"freq": "12095", "startTime": "2300", "endTime": "2330", "ITU": "PHL", "station": "FEBC RADIO", "language": "hnj", "location": "Bocaue", "days": "17"},
-  {"freq": "12105", "startTime": "1230", "endTime": "1300", "ITU": "UZB", "station": "Trans World Radio (DRM)", "language": "Chi", "location": "Tashkent", "days": "7"},
-  {"freq": "12105", "startTime": "1200", "endTime": "1230", "ITU": "UZB", "station": "Trans World Radio (DRM)W", "language": "Eng", "location": "Tashkent", "days": "7"},
   {"freq": "12105", "startTime": "1400", "endTime": "0600", "ITU": "USA", "station": "WTWW", "language": "Eng", "location": "Lebanon TN", "days": "1-7"},
   {"freq": "12120", "startTime": "1200", "endTime": "1215", "ITU": "PHL", "station": "FEBC RADIO", "language": "Raw", "location": "Bocaue", "days": "1-7"},
   {"freq": "12120", "startTime": "1215", "endTime": "1230", "ITU": "PHL", "station": "FEBC RADIO", "language": "Akh", "location": "Bocaue", "days": "1-7"},
