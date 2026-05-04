@@ -1,12 +1,14 @@
-// A26 Shortwave Frequecy List  May 3  2026,  0600 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-05-03 05:49 UTC)
+// A26 Shortwave Frequecy List  May 3  2026,  0900 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-05-04 05:54 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
   {"freq": "60", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Haganeyama", "days": "1-7"},
   {"freq": "60", "startTime": "0000", "endTime": "2400", "ITU": "USA", "station": "WWVB", "language": "PWM", "location": "Colorado De", "days": "1-7"},
+  {"freq": "69", "startTime": "0000", "endTime": "2400", "ITU": "CHN", "station": "BPC Time Signal", "language": "", "location": "Shanngqiu", "days": "1-7"},
+  {"freq": "78", "startTime": "0000", "endTime": "2400", "ITU": "TWN", "station": "BSF Time signal", "language": "", "location": "Zhongli", "days": "1-7"},
   {"freq": "100", "startTime": "0000", "endTime": "2400", "ITU": "CHN", "station": "BPL Time Signal", "language": "", "location": "Pucheng", "days": "1-7"},
   {"freq": "153", "startTime": "0355", "endTime": "2000", "ITU": "ROU", "station": "Antena Satelor", "language": "Rom", "location": "Brasov/Bod", "days": "1-7"},
-  {"freq": "162", "startTime": "0000", "endTime": "2400", "ITU": "F", "station": "Time Signal", "language": "Fre", "location": "Allouis", "days": "1-7"},
+  {"freq": "162", "startTime": "0000", "endTime": "2400", "ITU": "F", "station": "ALS162 Time Signal", "language": "Fre", "location": "Allouis", "days": "1-7"},
   {"freq": "164", "startTime": "2300", "endTime": "1600", "ITU": "MNG", "station": "Mongolian Radio 1", "language": "Mon", "location": "Ulaanbaatar", "days": "1-7"},
   {"freq": "171", "startTime": "0500", "endTime": "2400", "ITU": "MRC", "station": "Radio Mediterranee Int'l", "language": "Fre", "location": "Nador", "days": "1-7"},
   {"freq": "198", "startTime": "0500", "endTime": "0100", "ITU": "G", "station": "BBC R4", "language": "Eng", "location": "Droitwich", "days": "23456"},
@@ -1307,9 +1309,10 @@ var shortWaveSchedule = [
   {"freq": "4985", "startTime": "0000", "endTime": "2400", "ITU": "B", "station": "R.Brasil Central", "language": "Por", "location": "Goiania GO", "days": "1-7"},
   {"freq": "4990", "startTime": "0900", "endTime": "1700", "ITU": "CHN", "station": "PBS Hunan", "language": "Chi", "location": "Xiangtan", "days": "1-7"},
   {"freq": "4990", "startTime": "2030", "endTime": "0100", "ITU": "CHN", "station": "PBS Hunan", "language": "Chi", "location": "Xiangtan", "days": "1-7"},
+  {"freq": "5000", "startTime": "0000", "endTime": "2400", "ITU": "CHN", "station": "BPM Time Signal", "language": "", "location": "Pucheng", "days": "1-7"},
+  {"freq": "5000", "startTime": "0000", "endTime": "2400", "ITU": "KOR", "station": "HLA Time signal", "language": "Tim", "location": "Daejeon", "days": "1-7"},
   {"freq": "5000", "startTime": "0000", "endTime": "2400", "ITU": "USA", "station": "WWV", "language": "Tim", "location": "Colorado De", "days": "1-7"},
   {"freq": "5000", "startTime": "0000", "endTime": "2400", "ITU": "USA", "station": "WWVH", "language": "Tim", "location": "Hawaii Koko", "days": "1-7"},
-  {"freq": "5005", "startTime": "0500", "endTime": "2300", "ITU": "GNE", "station": "RN Guinea Ecuatorial(R.B", "language": "Spa", "location": "Bata", "days": "1-7"},
   {"freq": "5006", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "HFD Radio Station", "language": "H3A", "location": "Tokyo-Chofu", "days": "1-7"},
   {"freq": "5010", "startTime": "0200", "endTime": "1500", "ITU": "MDG", "station": "R.Madagasikara", "language": "Mal", "location": "Antananariv", "days": "1-7"},
   {"freq": "5010", "startTime": "1200", "endTime": "0500", "ITU": "HND", "station": "R.Misionnes Int.", "language": "Spa", "location": "Comayaguela", "days": "1-7"},
