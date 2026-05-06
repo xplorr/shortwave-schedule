@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  May 4  2026,  2200 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-05-05 05:33 UTC)
+// A26 Shortwave Frequecy List  May 6  2026,  0300 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-05-06 05:48 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -1746,7 +1746,6 @@ var shortWaveSchedule = [
   {"freq": "6080", "startTime": "0933", "endTime": "1200", "ITU": "CHN", "station": "Hulunbei'er Xinwen Zongh", "language": "Mon", "location": "Hailar", "days": "1-7"},
   {"freq": "6080", "startTime": "1300", "endTime": "1600", "ITU": "CHN", "station": "Hulunbei'er Xinwen Zongh", "language": "Mon", "location": "Hailar", "days": "1-7"},
   {"freq": "6080", "startTime": "2150", "endTime": "0530", "ITU": "CHN", "station": "Hulunbei'er Xinwen Zongh", "language": "Mon", "location": "Hailar", "days": "1-7"},
-  {"freq": "6080", "startTime": "1800", "endTime": "2100", "ITU": "UZB", "station": "Norddeutscher Rundfunk", "language": "Ger", "location": "Tashkent", "days": "3"},
   {"freq": "6080", "startTime": "0000", "endTime": "2400", "ITU": "B", "station": "Radio Marumby", "language": "Por", "location": "Curitiba PR", "days": "1-7"},
   {"freq": "6085", "startTime": "1500", "endTime": "1600", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Rus", "location": "Hohhot 694", "days": "1-7"},
   {"freq": "6085", "startTime": "0700", "endTime": "1700", "ITU": "D", "station": "Radio Mi Amigo Internati", "language": "Ger", "location": "Kall-Krekel", "days": "1-7"},
@@ -2335,6 +2334,7 @@ var shortWaveSchedule = [
   {"freq": "7490", "startTime": "0100", "endTime": "0200", "ITU": "USA", "station": "WBCQ Voice of Revival", "language": "Eng", "location": "Monticello", "days": "2"},
   {"freq": "7490", "startTime": "2100", "endTime": "2130", "ITU": "USA", "station": "WBCQ World of Radio", "language": "Eng", "location": "Monticello", "days": "4"},
   {"freq": "7490", "startTime": "1300", "endTime": "1600", "ITU": "USA", "station": "WWCR NASHVILLE", "language": "Eng", "location": "Nashville", "days": "1-7"},
+  {"freq": "7490", "startTime": "1430", "endTime": "2100", "ITU": "UZB", "station": "V RADIO FARDA", "language": "Per", "location": "Tashkent", "days": "1-7"},
   {"freq": "7505", "startTime": "2200", "endTime": "1600", "ITU": "USA", "station": "WRNO", "language": "Eng", "location": "New Orleans", "days": "1-7"},
   {"freq": "7510", "startTime": "1900", "endTime": "1930", "ITU": "MDA", "station": "Voice of Spring(Sedoye B", "language": "Per", "location": "Grigoriopol", "days": "56"},
   {"freq": "7520", "startTime": "0000", "endTime": "0300", "ITU": "USA", "station": "WWCR NASHVILLE", "language": "Eng", "location": "Nashville", "days": "1-7"},
@@ -4006,6 +4006,7 @@ var shortWaveSchedule = [
   {"freq": "12065", "startTime": "1030", "endTime": "1100", "ITU": "TWN", "station": "R.TAIWAN INT.", "language": "Hak", "location": "Paochung", "days": "1-7"},
   {"freq": "12070", "startTime": "1130", "endTime": "1157", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Fil", "location": "Nanning 954", "days": "1-7"},
   {"freq": "12070", "startTime": "2300", "endTime": "0100", "ITU": "PHL", "station": "FEBC Radio Liangyou 1", "language": "Chi", "location": "Iba", "days": "1-7"},
+  {"freq": "12070", "startTime": "0600", "endTime": "1300", "ITU": "KWT", "station": "RADIO FARDA", "language": "Per", "location": "Kuwait", "days": "1-7"},
   {"freq": "12070", "startTime": "1430", "endTime": "1700", "ITU": "UAE", "station": "RADIO FARDA", "language": "Per", "location": "Al-Dhabbiya", "days": "1-7"},
   {"freq": "12070", "startTime": "1700", "endTime": "2100", "ITU": "G", "station": "RADIO FARDA", "language": "Per", "location": "Woofferton", "days": "1-7"},
   {"freq": "12075", "startTime": "0700", "endTime": "0900", "ITU": "USA", "station": "WINB DRM", "language": "Eng", "location": "Red Lion", "days": "23456"},
