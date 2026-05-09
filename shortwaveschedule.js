@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  May 6  2026,  0800 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-05-08 05:22 UTC)
+// A26 Shortwave Frequecy List  May 8  2026,  1500 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-05-09 05:39 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -2793,9 +2793,7 @@ var shortWaveSchedule = [
   {"freq": "9590", "startTime": "0530", "endTime": "0630", "ITU": "MMR", "station": "Thazin Radio", "language": "Kac", "location": "Naypyidaw", "days": "1-7"},
   {"freq": "9590", "startTime": "0630", "endTime": "0730", "ITU": "MMR", "station": "Thazin Radio", "language": "Wa", "location": "Naypyidaw", "days": "1-7"},
   {"freq": "9590", "startTime": "0730", "endTime": "0830", "ITU": "MMR", "station": "Thazin Radio", "language": "Pao", "location": "Naypyidaw", "days": "1-7"},
-  {"freq": "9590", "startTime": "0000", "endTime": "0200", "ITU": "UZB", "station": "BBC", "language": "Eng", "location": "Tashkent", "days": "1234"},
-  {"freq": "9590", "startTime": "0000", "endTime": "0100", "ITU": "UZB", "station": "BBC", "language": "Eng", "location": "Tashkent", "days": "567"},
-  {"freq": "9590", "startTime": "0100", "endTime": "0200", "ITU": "UZB", "station": "BBC", "language": "Eng", "location": "Tashkent", "days": "167"},
+  {"freq": "9590", "startTime": "0000", "endTime": "0200", "ITU": "UZB", "station": "BBC", "language": "Eng", "location": "Tashkent", "days": "1-7"},
   {"freq": "9595", "startTime": "0900", "endTime": "1100", "ITU": "TWN", "station": "* R.TAIWAN INT.", "language": "Chi", "location": "Paochung", "days": "1-7"},
   {"freq": "9600", "startTime": "1200", "endTime": "1300", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Eng", "location": "Kunming-Ann", "days": "1-7"},
   {"freq": "9600", "startTime": "1300", "endTime": "1357", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Ben", "location": "Baoji-Xinji", "days": "1-7"},
@@ -3612,6 +3610,7 @@ var shortWaveSchedule = [
   {"freq": "11730", "startTime": "0230", "endTime": "0330", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Nep", "location": "Kunming-Ann", "days": "1-7"},
   {"freq": "11730", "startTime": "2300", "endTime": "2357", "ITU": "ROU", "station": "R.ROMANIA INT.", "language": "Spa", "location": "Galbeni-Bac", "days": "1-7"},
   {"freq": "11730", "startTime": "1400", "endTime": "1457", "ITU": "ROU", "station": "R.ROMANIA INT.", "language": "Ger", "location": "Tiganesti", "days": "1-7"},
+  {"freq": "11730", "startTime": "0000", "endTime": "0200", "ITU": "OMA", "station": "BBC", "language": "Eng", "location": "Al Seela", "days": "1-7"},
   {"freq": "11735", "startTime": "0300", "endTime": "0357", "ITU": "KRE", "station": "Voice of Korea", "language": "Spa", "location": "Kujang", "days": "1-7"},
   {"freq": "11735", "startTime": "0400", "endTime": "0457", "ITU": "KRE", "station": "Voice of Korea", "language": "Eng", "location": "Kujang", "days": "1-7"},
   {"freq": "11735", "startTime": "0500", "endTime": "0557", "ITU": "KRE", "station": "Voice of Korea", "language": "Spa", "location": "Kujang", "days": "1-7"},
