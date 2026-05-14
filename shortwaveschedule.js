@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  May 12  2026,  0600 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-05-13 06:18 UTC)
+// A26 Shortwave Frequecy List  May 13  2026,  0801 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-05-14 06:16 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -3758,6 +3758,8 @@ var shortWaveSchedule = [
   {"freq": "11860", "startTime": "1400", "endTime": "0100", "ITU": "USA", "station": "R.MARTI", "language": "Spa", "location": "Greenville", "days": "1-7"},
   {"freq": "11860", "startTime": "1600", "endTime": "1657", "ITU": "ROU", "station": "R.ROMANIA INT.", "language": "Heb", "location": "Tiganesti", "days": "1"},
   {"freq": "11860", "startTime": "1600", "endTime": "1657", "ITU": "ROU", "station": "R.ROMANIA INT.", "language": "Rom", "location": "Tiganesti", "days": "2-7"},
+  {"freq": "11860", "startTime": "1430", "endTime": "1500", "ITU": "UZB", "station": "BBC", "language": "Kor", "location": "Tashkent", "days": "23456"},
+  {"freq": "11860", "startTime": "1530", "endTime": "1600", "ITU": "UZB", "station": "BBC", "language": "Kor", "location": "Tashkent", "days": "23456"},
   {"freq": "11865", "startTime": "0900", "endTime": "1030", "ITU": "IND", "station": "ALL INDIA RADIO", "language": "Nep", "location": "Delhi (King", "days": "1-7"},
   {"freq": "11865", "startTime": "1045", "endTime": "1215", "ITU": "IND", "station": "ALL INDIA RADIO", "language": "Tib", "location": "Delhi (King", "days": "1-7"},
   {"freq": "11865", "startTime": "1045", "endTime": "1215", "ITU": "IND", "station": "ALL INDIA RADIO", "language": "Tib", "location": "Delhi (King", "days": "1-7"},
@@ -3943,8 +3945,6 @@ var shortWaveSchedule = [
   {"freq": "11995", "startTime": "2000", "endTime": "2100", "ITU": "F", "station": "R.FRANCE INT.", "language": "Fre", "location": "Issoudun", "days": "1-7"},
   {"freq": "11995", "startTime": "2100", "endTime": "2200", "ITU": "F", "station": "R.FRANCE INT.", "language": "Fre", "location": "Issoudun", "days": "1-7"},
   {"freq": "12000", "startTime": "0300", "endTime": "0357", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Eng", "location": "Kashi-Saiba", "days": "1-7"},
-  {"freq": "12005", "startTime": "1430", "endTime": "1500", "ITU": "UZB", "station": "BBC", "language": "Kor", "location": "Tashkent", "days": "23456"},
-  {"freq": "12005", "startTime": "1530", "endTime": "1600", "ITU": "UZB", "station": "BBC", "language": "Kor", "location": "Tashkent", "days": "23456"},
   {"freq": "12005", "startTime": "0900", "endTime": "1000", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Chi", "location": "Kunming-Ann", "days": "1-7"},
   {"freq": "12005", "startTime": "1000", "endTime": "1100", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Can", "location": "Kunming-Ann", "days": "1-7"},
   {"freq": "12010", "startTime": "1400", "endTime": "1457", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Vie", "location": "Baoji-Xinji", "days": "1-7"},
@@ -4801,7 +4801,6 @@ var shortWaveSchedule = [
   {"freq": "15730", "startTime": "2144", "endTime": "1530", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
   {"freq": "15735", "startTime": "1400", "endTime": "1500", "ITU": "USA", "station": "WINB DRM", "language": "Eng", "location": "Red Lion", "days": "23456"},
   {"freq": "15740", "startTime": "2144", "endTime": "1530", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
-  {"freq": "15750", "startTime": "0400", "endTime": "1900", "ITU": "BUL", "station": "Iran International TV", "language": "Per", "location": "Kostinbrod(", "days": "1-7"},
   {"freq": "15750", "startTime": "0900", "endTime": "1000", "ITU": "USA", "station": "WINB DRM", "language": "Eng", "location": "Red Lion", "days": "7"},
   {"freq": "15750", "startTime": "1500", "endTime": "2000", "ITU": "USA", "station": "WINB DRM", "language": "Eng", "location": "Red Lion", "days": "23456"},
   {"freq": "15760", "startTime": "2130", "endTime": "1500", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
@@ -4822,6 +4821,7 @@ var shortWaveSchedule = [
   {"freq": "15760", "startTime": "1403", "endTime": "1500", "ITU": "CHN", "station": "CNR 1 Jamming", "language": "Chi", "location": "Qiqihar 202", "days": "1-7"},
   {"freq": "15760", "startTime": "2200", "endTime": "2300", "ITU": "CHN", "station": "CNR 1 Jamming", "language": "Chi", "location": "Qiqihar 202", "days": "1-7"},
   {"freq": "15760", "startTime": "2303", "endTime": "0000", "ITU": "CHN", "station": "CNR 1 Jamming", "language": "Chi", "location": "Qiqihar 202", "days": "1-7"},
+  {"freq": "15765", "startTime": "0400", "endTime": "1900", "ITU": "BUL", "station": "Iran International TV", "language": "Per", "location": "Kostinbrod(", "days": "1-7"},
   {"freq": "15770", "startTime": "0000", "endTime": "0030", "ITU": "USA", "station": "WRMI R.Slovakia Int.", "language": "Slo", "location": "Okeechobee9", "days": "1-7"},
   {"freq": "15770", "startTime": "0030", "endTime": "0100", "ITU": "USA", "station": "WRMI R.Slovakia Int.", "language": "Eng", "location": "Okeechobee9", "days": "1-7"},
   {"freq": "15770", "startTime": "0100", "endTime": "0400", "ITU": "USA", "station": "WRMI Supreme Master TV", "language": "Eng", "location": "Okeechobee9", "days": "1-7"},
@@ -5182,7 +5182,7 @@ var shortWaveSchedule = [
   {"freq": "17820", "startTime": "2300", "endTime": "0500", "ITU": "CHN", "station": "CNR 11", "language": "Tib", "location": "Dongfang Ha", "days": "1-7"},
   {"freq": "17820", "startTime": "0500", "endTime": "0700", "ITU": "CHN", "station": "CNR 11", "language": "Tib", "location": "Dongfang Ha", "days": "124-7"},
   {"freq": "17820", "startTime": "0700", "endTime": "0800", "ITU": "CHN", "station": "CNR 11", "language": "Chi", "location": "Dongfang Ha", "days": "124-7"},
-  {"freq": "17820", "startTime": "0800", "endTime": "0900", "ITU": "CHN", "station": "CNR 11", "language": "Tib", "location": "Dongfang Ha", "days": "1-7"},
+  {"freq": "17820", "startTime": "0800", "endTime": "0900", "ITU": "CHN", "station": "CNR 13", "language": "Uyg", "location": "Dongfang Ha", "days": "124-7"},
   {"freq": "17820", "startTime": "0900", "endTime": "1000", "ITU": "CHN", "station": "CNR 13", "language": "Chi", "location": "Dongfang Ha", "days": "1-7"},
   {"freq": "17820", "startTime": "1000", "endTime": "1500", "ITU": "CHN", "station": "CNR 13", "language": "Uyg", "location": "Dongfang Ha", "days": "1-7"},
   {"freq": "17820", "startTime": "1500", "endTime": "1600", "ITU": "CHN", "station": "CNR 13", "language": "Chi", "location": "Dongfang Ha", "days": "1-7"},
