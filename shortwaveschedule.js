@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  May 13  2026,  0801 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-05-14 06:16 UTC)
+// A26 Shortwave Frequecy List  May 14  2026,  1300 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-05-15 06:24 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -4468,8 +4468,10 @@ var shortWaveSchedule = [
   {"freq": "15280", "startTime": "1530", "endTime": "1557", "ITU": "ROU", "station": "R.ROMANIA INT.", "language": "Ara", "location": "Galbeni-Bac", "days": "1-7"},
   {"freq": "15280", "startTime": "1500", "endTime": "1530", "ITU": "MDG", "station": "BBC", "language": "Ara", "location": "Talata-Volo", "days": "12345"},
   {"freq": "15280", "startTime": "0655", "endTime": "0950", "ITU": "J", "station": "NHK WORLD RADIO JAPAN", "language": "Jpn", "location": "Ibaragi-Kog", "days": "1-7"},
+  {"freq": "15280", "startTime": "2100", "endTime": "1700", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
   {"freq": "15295", "startTime": "1200", "endTime": "1400", "ITU": "OMA", "station": "BBC", "language": "Eng", "location": "Al Seela", "days": "1-7"},
   {"freq": "15295", "startTime": "0000", "endTime": "2400", "ITU": "MLA", "station": "RTM Nasional FM", "language": "Mal", "location": "Kajang", "days": "1-7"},
+  {"freq": "15295", "startTime": "2300", "endTime": "1700", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
   {"freq": "15300", "startTime": "1430", "endTime": "1500", "ITU": "D", "station": "BIBLE VOICE BCN", "language": "Nue", "location": "Nauen", "days": "1-7"},
   {"freq": "15300", "startTime": "0400", "endTime": "0500", "ITU": "F", "station": "R.FRANCE INT.", "language": "Fre", "location": "Issoudun", "days": "1-7"},
   {"freq": "15300", "startTime": "0500", "endTime": "0600", "ITU": "F", "station": "R.FRANCE INT.", "language": "Fre", "location": "Issoudun", "days": "1-7"},
