@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  May 15  2026,  1300 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-05-18 06:46 UTC)
+// A26 Shortwave Frequecy List  May 18 2026,  1000 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-05-19 06:40 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -3970,6 +3970,8 @@ var shortWaveSchedule = [
   {"freq": "12025", "startTime": "1258", "endTime": "1357", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Kor", "location": "Xianyang 59", "days": "1-7"},
   {"freq": "12025", "startTime": "1400", "endTime": "1500", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Chi", "location": "Urumqi Hutu", "days": "1-7"},
   {"freq": "12030", "startTime": "0000", "endTime": "1200", "ITU": "HOL", "station": "Radio Delta Internationa", "language": "Dut", "location": "Elburg", "days": "1-7"},
+  {"freq": "12040", "startTime": "1430", "endTime": "1700", "ITU": "UAE", "station": "RADIO FARDA", "language": "Per", "location": "Al-Dhabbiya", "days": "1-7"},
+  {"freq": "12040", "startTime": "1700", "endTime": "2100", "ITU": "G", "station": "RADIO FARDA", "language": "Per", "location": "Woofferton", "days": "1-7"},
   {"freq": "12045", "startTime": "0600", "endTime": "0900", "ITU": "CHN", "station": "CNR 1 Voice of China", "language": "Chi", "location": "Beijing 572", "days": "124-7"},
   {"freq": "12045", "startTime": "0900", "endTime": "1200", "ITU": "CHN", "station": "CNR 1 Voice of China", "language": "Chi", "location": "Beijing 572", "days": "1-7"},
   {"freq": "12045", "startTime": "2300", "endTime": "0600", "ITU": "CHN", "station": "CNR 1 Voice of China", "language": "Chi", "location": "Beijing 572", "days": "1-7"},
@@ -3995,8 +3997,6 @@ var shortWaveSchedule = [
   {"freq": "12070", "startTime": "1130", "endTime": "1157", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Fil", "location": "Nanning 954", "days": "1-7"},
   {"freq": "12070", "startTime": "2300", "endTime": "0100", "ITU": "PHL", "station": "FEBC Radio Liangyou 1", "language": "Chi", "location": "Iba", "days": "1-7"},
   {"freq": "12070", "startTime": "0600", "endTime": "1300", "ITU": "KWT", "station": "RADIO FARDA", "language": "Per", "location": "Kuwait", "days": "1-7"},
-  {"freq": "12070", "startTime": "1430", "endTime": "1700", "ITU": "UAE", "station": "RADIO FARDA", "language": "Per", "location": "Al-Dhabbiya", "days": "1-7"},
-  {"freq": "12070", "startTime": "1700", "endTime": "2100", "ITU": "G", "station": "RADIO FARDA", "language": "Per", "location": "Woofferton", "days": "1-7"},
   {"freq": "12075", "startTime": "0700", "endTime": "0900", "ITU": "USA", "station": "WINB DRM", "language": "Eng", "location": "Red Lion", "days": "23456"},
   {"freq": "12075", "startTime": "0700", "endTime": "1000", "ITU": "USA", "station": "WINB DRM", "language": "Eng", "location": "Red Lion", "days": "1"},
   {"freq": "12080", "startTime": "0000", "endTime": "0600", "ITU": "CHN", "station": "CNR 2-China Business Rad", "language": "Chi", "location": "Baoji-Sifan", "days": "1-7"},
