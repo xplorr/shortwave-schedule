@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  May 22 2026,  2300 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-05-23 05:59 UTC)
+// A26 Shortwave Frequecy List  May 23  2026,  1100 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-05-24 06:28 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -2311,7 +2311,7 @@ var shortWaveSchedule = [
   {"freq": "7490", "startTime": "0100", "endTime": "0200", "ITU": "USA", "station": "WBCQ Voice of Revival", "language": "Eng", "location": "Monticello", "days": "2"},
   {"freq": "7490", "startTime": "2100", "endTime": "2130", "ITU": "USA", "station": "WBCQ World of Radio", "language": "Eng", "location": "Monticello", "days": "4"},
   {"freq": "7490", "startTime": "1300", "endTime": "1600", "ITU": "USA", "station": "WWCR NASHVILLE", "language": "Eng", "location": "Nashville", "days": "1-7"},
-  {"freq": "7490", "startTime": "1430", "endTime": "2100", "ITU": "UZB", "station": "V RADIO FARDA", "language": "Per", "location": "Tashkent", "days": "1-7"},
+  {"freq": "7490", "startTime": "1430", "endTime": "2100", "ITU": "UZB", "station": "} RADIO FARDA", "language": "Per", "location": "Tashkent", "days": "1-7"},
   {"freq": "7505", "startTime": "2200", "endTime": "1600", "ITU": "USA", "station": "WRNO", "language": "Eng", "location": "New Orleans", "days": "1-7"},
   {"freq": "7510", "startTime": "1900", "endTime": "1930", "ITU": "MDA", "station": "Voice of Spring(Sedoye B", "language": "Per", "location": "Grigoriopol", "days": "56"},
   {"freq": "7520", "startTime": "0000", "endTime": "0300", "ITU": "USA", "station": "WWCR NASHVILLE", "language": "Eng", "location": "Nashville", "days": "1-7"},
