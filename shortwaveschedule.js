@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  May 29  2026, 1400 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-05-31 06:50 UTC)
+// A26 Shortwave Frequecy List  May 31  2026, 1400 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-06-01 08:25 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -2448,10 +2448,6 @@ var shortWaveSchedule = [
   {"freq": "9276", "startTime": "0300", "endTime": "0400", "ITU": "TWN", "station": "XingXing guangbo diantai", "language": "Chi", "location": "Kuanyin", "days": "1-7"},
   {"freq": "9280", "startTime": "0000", "endTime": "2400", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
   {"freq": "9300", "startTime": "2130", "endTime": "1630", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
-  {"freq": "9310", "startTime": "1530", "endTime": "1600", "ITU": "PHL", "station": "VOICE OF AMERICA", "language": "Kor", "location": "Tinang", "days": "23456"},
-  {"freq": "9310", "startTime": "1600", "endTime": "1830", "ITU": "PHL", "station": "VOICE OF AMERICA", "language": "Kor", "location": "Tinang", "days": "23456"},
-  {"freq": "9310", "startTime": "1830", "endTime": "2030", "ITU": "PHL", "station": "VOICE OF AMERICA", "language": "Kor", "location": "Tinang", "days": "23456"},
-  {"freq": "9310", "startTime": "2030", "endTime": "2130", "ITU": "PHL", "station": "VOICE OF AMERICA", "language": "Kor", "location": "Tinang", "days": "23456"},
   {"freq": "9320", "startTime": "1900", "endTime": "2000", "ITU": "TJK", "station": "Trans World Radio", "language": "Kor", "location": "Dushanbe-Or", "days": "1-7"},
   {"freq": "9320", "startTime": "1400", "endTime": "1500", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Can", "location": "Pingtung", "days": "1-7"},
   {"freq": "9320", "startTime": "2357", "endTime": "1646", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Pingtung", "days": "1-7"},
@@ -3253,7 +3249,8 @@ var shortWaveSchedule = [
   {"freq": "9930", "startTime": "1000", "endTime": "1015", "ITU": "PLW", "station": "Hope Radio Truth Talks", "language": "Eng", "location": "Palau Medor", "days": "6"},
   {"freq": "9930", "startTime": "1115", "endTime": "1130", "ITU": "PLW", "station": "Hope Radio Truth Talks", "language": "Eng", "location": "Palau Medor", "days": "2"},
   {"freq": "9930", "startTime": "1300", "endTime": "0130", "ITU": "USA", "station": "WTWW", "language": "Eng", "location": "Lebanon TN", "days": "1-7"},
-  {"freq": "9940", "startTime": "1530", "endTime": "2130", "ITU": "PHL", "station": "VOICE OF AMERICA", "language": "Kor", "location": "Tinang", "days": "1-7"},
+  {"freq": "9940", "startTime": "1530", "endTime": "2130", "ITU": "PHL", "station": "VOICE OF AMERICA", "language": "Kor", "location": "Tinang", "days": "23456"},
+  {"freq": "9940", "startTime": "2130", "endTime": "2330", "ITU": "PHL", "station": "VOICE OF AMERICA", "language": "Kor", "location": "Tinang", "days": "23456"},
   {"freq": "9940", "startTime": "1300", "endTime": "1328", "ITU": "TWN", "station": "Nippon no Kaze\"il bon ue", "language": "Kor", "location": "Paochung", "days": "1-7"},
   {"freq": "9955", "startTime": "0000", "endTime": "0015", "ITU": "USA", "station": "WRMI Maravillosas Palabr", "language": "Spa", "location": "Okeechobee3", "days": "2"},
   {"freq": "9955", "startTime": "0000", "endTime": "0015", "ITU": "USA", "station": "WRMI Todays Word Is", "language": "Eng", "location": "Okeechobee3", "days": "6"},
