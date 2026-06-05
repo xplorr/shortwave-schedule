@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  May 31  2026, 1400 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-06-04 07:15 UTC)
+// A26 Shortwave Frequecy List  June 4  2026,  2200 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-06-05 06:58 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -2314,10 +2314,10 @@ var shortWaveSchedule = [
   {"freq": "7490", "startTime": "1430", "endTime": "2100", "ITU": "UZB", "station": "} RADIO FARDA", "language": "Per", "location": "Tashkent", "days": "1-7"},
   {"freq": "7505", "startTime": "2200", "endTime": "1600", "ITU": "USA", "station": "WRNO", "language": "Eng", "location": "New Orleans", "days": "1-7"},
   {"freq": "7510", "startTime": "1900", "endTime": "1930", "ITU": "MDA", "station": "Voice of Spring(Sedoye B", "language": "Per", "location": "Grigoriopol", "days": "56"},
+  {"freq": "7515", "startTime": "1530", "endTime": "1600", "ITU": "UZB", "station": "Voice of Martyrs", "language": "Kor", "location": "Tashkent", "days": "1-7"},
+  {"freq": "7515", "startTime": "2100", "endTime": "2130", "ITU": "UZB", "station": "Voice of Martyrs", "language": "Kor", "location": "Tashkent", "days": "1-7"},
   {"freq": "7520", "startTime": "0000", "endTime": "0300", "ITU": "USA", "station": "WWCR NASHVILLE", "language": "Eng", "location": "Nashville", "days": "1-7"},
-  {"freq": "7530", "startTime": "1530", "endTime": "1600", "ITU": "UZB", "station": "Voice of Martyrs", "language": "Kor", "location": "Tashkent", "days": "1-7"},
   {"freq": "7530", "startTime": "1930", "endTime": "2000", "ITU": "UZB", "station": "Voice of Martyrs", "language": "Kor", "location": "Tashkent", "days": "1-7"},
-  {"freq": "7530", "startTime": "2100", "endTime": "2130", "ITU": "UZB", "station": "Voice of Martyrs", "language": "Kor", "location": "Tashkent", "days": "1-7"},
   {"freq": "7553", "startTime": "0830", "endTime": "0945", "ITU": "CHN", "station": "Numbers Station 2", "language": "Chi", "location": "", "days": "1-7"},
   {"freq": "7570", "startTime": "0000", "endTime": "0100", "ITU": "USA", "station": "WRMI VORW Radio Internat", "language": "Eng", "location": "Okeechobee5", "days": "7"},
   {"freq": "7570", "startTime": "0100", "endTime": "0130", "ITU": "USA", "station": "WRMI RAE Argentina to th", "language": "Spa", "location": "Okeechobee5", "days": "12"},
@@ -4283,6 +4283,7 @@ var shortWaveSchedule = [
   {"freq": "13850", "startTime": "0900", "endTime": "1057", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Chi", "location": "Beijing 572", "days": "1-7"},
   {"freq": "13855", "startTime": "0000", "endTime": "0100", "ITU": "ALG", "station": "Ifrikya FM", "language": "Ara", "location": "Ourgla", "days": "1-7"},
   {"freq": "13855", "startTime": "1900", "endTime": "2359", "ITU": "ALG", "station": "Ifrikya FM", "language": "Ara", "location": "Ourgla", "days": "1-7"},
+  {"freq": "13860", "startTime": "2100", "endTime": "1100", "ITU": "CHN", "station": "Audio (DRM) 1 xHE AAC", "language": "Chi", "location": "Beijing 572", "days": "1-7"},
   {"freq": "13860", "startTime": "1100", "endTime": "1157", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Rus", "location": "Beijing 572", "days": "1-7"},
   {"freq": "13860", "startTime": "1500", "endTime": "1600", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Rus", "location": "Shijiazhuan", "days": "1-7"},
   {"freq": "13860", "startTime": "1200", "endTime": "1255", "ITU": "J", "station": "NHK WORLD RADIO JAPAN", "language": "Jpn", "location": "Ibaragi-Kog", "days": "1-7"},
