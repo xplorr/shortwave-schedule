@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  June 9  2026,  0100 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-06-10 06:59 UTC)
+// A26 Shortwave Frequecy List  June 11  2026,  0200 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-06-11 07:22 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -4398,7 +4398,7 @@ var shortWaveSchedule = [
   {"freq": "15185", "startTime": "0430", "endTime": "0600", "ITU": "IND", "station": "ALL INDIA RADIO", "language": "Pas", "location": "Bengaluru", "days": "1-7"},
   {"freq": "15190", "startTime": "1730", "endTime": "2030", "ITU": "PHL", "station": "R.PILIPINAS", "language": "Fil", "location": "Tinang", "days": "1-7"},
   {"freq": "15190", "startTime": "0000", "endTime": "2400", "ITU": "B", "station": "R.Inconfidencia", "language": "Por", "location": "Belo Horizo", "days": "1-7"},
-  {"freq": "15195", "startTime": "0155", "endTime": "0450", "ITU": "J", "station": "NHK WORLD RADIO JAPAN", "language": "Jpn", "location": "Ibaragi-Kog", "days": "1-7"},
+  {"freq": "15195", "startTime": "0200", "endTime": "0450", "ITU": "J", "station": "NHK WORLD RADIO JAPAN", "language": "Jpn", "location": "Ibaragi-Kog", "days": "1-7"},
   {"freq": "15195", "startTime": "0510", "endTime": "0530", "ITU": "J", "station": "NHK WORLD RADIO JAPAN", "language": "Kor", "location": "Ibaragi-Kog", "days": "1-7"},
   {"freq": "15195", "startTime": "0610", "endTime": "0630", "ITU": "J", "station": "NHK WORLD RADIO JAPAN", "language": "Chi", "location": "Ibaragi-Kog", "days": "1-7"},
   {"freq": "15195", "startTime": "0630", "endTime": "0650", "ITU": "J", "station": "NHK WORLD RADIO JAPAN", "language": "Kor", "location": "Ibaragi-Kog", "days": "1-7"},
@@ -5187,7 +5187,7 @@ var shortWaveSchedule = [
   {"freq": "17810", "startTime": "0930", "endTime": "1030", "ITU": "OMA", "station": "BBC", "language": "Pas", "location": "Al Seela", "days": "1-7"},
   {"freq": "17810", "startTime": "1030", "endTime": "1100", "ITU": "OMA", "station": "BBC", "language": "Dar", "location": "Al Seela", "days": "1-7"},
   {"freq": "17810", "startTime": "1100", "endTime": "1130", "ITU": "OMA", "station": "BBC", "language": "Pas", "location": "Al Seela", "days": "1-7"},
-  {"freq": "17810", "startTime": "0155", "endTime": "0500", "ITU": "J", "station": "NHK WORLD RADIO JAPAN", "language": "Jpn", "location": "Ibaragi-Kog", "days": "1-7"},
+  {"freq": "17810", "startTime": "0200", "endTime": "0500", "ITU": "J", "station": "NHK WORLD RADIO JAPAN", "language": "Jpn", "location": "Ibaragi-Kog", "days": "1-7"},
   {"freq": "17810", "startTime": "1530", "endTime": "1630", "ITU": "F", "station": "VORW Radio International", "language": "Eng", "location": "Issoudun", "days": "2"},
   {"freq": "17815", "startTime": "1630", "endTime": "1700", "ITU": "F", "station": "PABC Tony Alamo Ministri", "language": "Amh", "location": "Issoudun", "days": "1"},
   {"freq": "17815", "startTime": "0559", "endTime": "0700", "ITU": "OMA", "station": "BBC DRM 11", "language": "Eng", "location": "Al Seela", "days": "1-7"},
@@ -5272,7 +5272,7 @@ var shortWaveSchedule = [
   {"freq": "21490", "startTime": "1402", "endTime": "1500", "ITU": "CHN", "station": "CNR 1 Jamming", "language": "Chi", "location": "Dongfang Ha", "days": "1-7"},
   {"freq": "21490", "startTime": "1502", "endTime": "1600", "ITU": "CHN", "station": "CNR 1 Jamming", "language": "Chi", "location": "Dongfang Ha", "days": "1-7"},
   {"freq": "21490", "startTime": "1526", "endTime": "1500", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
-  {"freq": "21500", "startTime": "0155", "endTime": "0400", "ITU": "J", "station": "NHK WORLD RADIO JAPAN", "language": "Jpn", "location": "Ibaragi-Kog", "days": "1-7"},
+  {"freq": "21500", "startTime": "0200", "endTime": "0400", "ITU": "J", "station": "NHK WORLD RADIO JAPAN", "language": "Jpn", "location": "Ibaragi-Kog", "days": "1-7"},
   {"freq": "21500", "startTime": "0500", "endTime": "0520", "ITU": "J", "station": "NHK WORLD RADIO JAPAN", "language": "Fre", "location": "Ibaragi-Kog", "days": "1-7"},
   {"freq": "21500", "startTime": "0655", "endTime": "0900", "ITU": "J", "station": "NHK WORLD RADIO JAPAN", "language": "Jpn", "location": "Ibaragi-Kog", "days": "1-7"},
   {"freq": "21510", "startTime": "1100", "endTime": "1157", "ITU": "ROU", "station": "R.ROMANIA INT.", "language": "Eng", "location": "Galbeni-Bac", "days": "1-7"},
