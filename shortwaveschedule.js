@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  June 11  2026,  0200 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-06-14 07:16 UTC)
+// A26 Shortwave Frequecy List  June 14  2026,  1500 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-06-15 08:48 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -3197,9 +3197,6 @@ var shortWaveSchedule = [
   {"freq": "9900", "startTime": "0045", "endTime": "0200", "ITU": "EGY", "station": "R.CAIRO", "language": "Spa", "location": "Abis", "days": "1-7"},
   {"freq": "9900", "startTime": "1700", "endTime": "1900", "ITU": "EGY", "station": "R.CAIRO", "language": "Tur", "location": "Abis", "days": "1-7"},
   {"freq": "9900", "startTime": "1300", "endTime": "1327", "ITU": "TWN", "station": "Living Water Ministry", "language": "Kor", "location": "Paochung", "days": "1-7"},
-  {"freq": "9900", "startTime": "1330", "endTime": "1345", "ITU": "TWN", "station": "RADIO FREE ASIA", "language": "Kor", "location": "Paochung", "days": "35"},
-  {"freq": "9900", "startTime": "1330", "endTime": "1345", "ITU": "TWN", "station": "RADIO FREE ASIA", "language": "Kor", "location": "Paochung", "days": "246"},
-  {"freq": "9900", "startTime": "1330", "endTime": "1345", "ITU": "TWN", "station": "RADIO FREE ASIA", "language": "Kor", "location": "Paochung", "days": "17"},
   {"freq": "9900", "startTime": "1500", "endTime": "1600", "ITU": "TWN", "station": "Living Water Ministry", "language": "Kor", "location": "Paochung", "days": "1-7"},
   {"freq": "9900", "startTime": "2200", "endTime": "2400", "ITU": "TWN", "station": "* R.TAIWAN INT.", "language": "Chi", "location": "Tamsui Dist", "days": "1-7"},
   {"freq": "9915", "startTime": "0600", "endTime": "0700", "ITU": "ASC", "station": "BBC", "language": "Eng", "location": "Ascension", "days": "1-7"},
