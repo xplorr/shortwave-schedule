@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  June 14  2026,  1500 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-06-16 08:38 UTC)
+// A26 Shortwave Frequecy List  June 16  2026,  1400 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-06-17 08:21 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -2315,13 +2315,12 @@ var shortWaveSchedule = [
   {"freq": "7490", "startTime": "0100", "endTime": "0200", "ITU": "USA", "station": "WBCQ Voice of Revival", "language": "Eng", "location": "Monticello", "days": "2"},
   {"freq": "7490", "startTime": "2100", "endTime": "2130", "ITU": "USA", "station": "WBCQ World of Radio", "language": "Eng", "location": "Monticello", "days": "4"},
   {"freq": "7490", "startTime": "1300", "endTime": "1600", "ITU": "USA", "station": "WWCR NASHVILLE", "language": "Eng", "location": "Nashville", "days": "1-7"},
-  {"freq": "7490", "startTime": "1430", "endTime": "2100", "ITU": "UZB", "station": "} RADIO FARDA", "language": "Per", "location": "Tashkent", "days": "1-7"},
   {"freq": "7505", "startTime": "2200", "endTime": "1600", "ITU": "USA", "station": "WRNO", "language": "Eng", "location": "New Orleans", "days": "1-7"},
-  {"freq": "7510", "startTime": "1900", "endTime": "1930", "ITU": "MDA", "station": "Voice of Spring(Sedoye B", "language": "Per", "location": "Grigoriopol", "days": "56"},
+  {"freq": "7510", "startTime": "1430", "endTime": "2100", "ITU": "UZB", "station": "} RADIO FARDA", "language": "Per", "location": "Tashkent", "days": "1-7"},
   {"freq": "7515", "startTime": "1530", "endTime": "1600", "ITU": "UZB", "station": "Voice of Martyrs", "language": "Kor", "location": "Tashkent", "days": "1-7"},
   {"freq": "7515", "startTime": "2100", "endTime": "2130", "ITU": "UZB", "station": "Voice of Martyrs", "language": "Kor", "location": "Tashkent", "days": "1-7"},
   {"freq": "7520", "startTime": "0000", "endTime": "0300", "ITU": "USA", "station": "WWCR NASHVILLE", "language": "Eng", "location": "Nashville", "days": "1-7"},
-  {"freq": "7530", "startTime": "1930", "endTime": "2000", "ITU": "UZB", "station": "Voice of Martyrs", "language": "Kor", "location": "Tashkent", "days": "1-7"},
+  {"freq": "7540", "startTime": "1930", "endTime": "2000", "ITU": "UZB", "station": "Voice of Martyrs", "language": "Kor", "location": "Tashkent", "days": "1-7"},
   {"freq": "7553", "startTime": "0830", "endTime": "0945", "ITU": "CHN", "station": "Numbers Station 2", "language": "Chi", "location": "", "days": "1-7"},
   {"freq": "7570", "startTime": "0000", "endTime": "0100", "ITU": "USA", "station": "WRMI VORW Radio Internat", "language": "Eng", "location": "Okeechobee5", "days": "7"},
   {"freq": "7570", "startTime": "0100", "endTime": "0130", "ITU": "USA", "station": "WRMI RAE Argentina to th", "language": "Spa", "location": "Okeechobee5", "days": "12"},
@@ -4683,6 +4682,7 @@ var shortWaveSchedule = [
   {"freq": "15520", "startTime": "2200", "endTime": "2230", "ITU": "E", "station": "R.EXTERIOR DE ESPANA", "language": "Por", "location": "Noblejas", "days": "5"},
   {"freq": "15520", "startTime": "2200", "endTime": "2230", "ITU": "E", "station": "R.EXTERIOR DE ESPANA", "language": "Eng", "location": "Noblejas", "days": "4"},
   {"freq": "15520", "startTime": "2230", "endTime": "2300", "ITU": "E", "station": "R.EXTERIOR DE ESPANA", "language": "Fre", "location": "Noblejas", "days": "3"},
+  {"freq": "15520", "startTime": "0800", "endTime": "0857", "ITU": "ROU", "station": "R.ROMANIA INT.", "language": "Rom", "location": "Tiganesti", "days": "1"},
   {"freq": "15525", "startTime": "0900", "endTime": "1057", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Chi", "location": "Urumqi Hutu", "days": "1-7"},
   {"freq": "15530", "startTime": "1130", "endTime": "1200", "ITU": "GUM", "station": "KSDA-Adventist World R.G", "language": "Shn", "location": "Agat", "days": "1-7"},
   {"freq": "15530", "startTime": "1200", "endTime": "1230", "ITU": "GUM", "station": "KSDA-Adventist World R.G", "language": "Amo", "location": "Agat", "days": "12345"},
