@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  June 18  2026,  1500 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-06-19 08:25 UTC)
+// A26 Shortwave Frequecy List  June 19  2026,  1500 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-06-20 06:54 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -2316,7 +2316,7 @@ var shortWaveSchedule = [
   {"freq": "7490", "startTime": "2100", "endTime": "2130", "ITU": "USA", "station": "WBCQ World of Radio", "language": "Eng", "location": "Monticello", "days": "4"},
   {"freq": "7490", "startTime": "1300", "endTime": "1600", "ITU": "USA", "station": "WWCR NASHVILLE", "language": "Eng", "location": "Nashville", "days": "1-7"},
   {"freq": "7505", "startTime": "2200", "endTime": "1600", "ITU": "USA", "station": "WRNO", "language": "Eng", "location": "New Orleans", "days": "1-7"},
-  {"freq": "7510", "startTime": "1430", "endTime": "2100", "ITU": "UZB", "station": "x RADIO FARDA", "language": "Per", "location": "Tashkent", "days": "1-7"},
+  {"freq": "7510", "startTime": "1430", "endTime": "2100", "ITU": "UZB", "station": "}x RADIO FARDA", "language": "Per", "location": "Tashkent", "days": "1-7"},
   {"freq": "7515", "startTime": "1530", "endTime": "1600", "ITU": "UZB", "station": "Voice of Martyrs", "language": "Kor", "location": "Tashkent", "days": "1-7"},
   {"freq": "7515", "startTime": "2100", "endTime": "2130", "ITU": "UZB", "station": "Voice of Martyrs", "language": "Kor", "location": "Tashkent", "days": "1-7"},
   {"freq": "7520", "startTime": "0000", "endTime": "0300", "ITU": "USA", "station": "WWCR NASHVILLE", "language": "Eng", "location": "Nashville", "days": "1-7"},
