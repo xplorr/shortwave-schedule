@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  July 1  2026,  2300 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-07-02 06:30 UTC)
+// A26 Shortwave Frequecy List  July 2  2026,  0100 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-07-03 06:21 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -128,7 +128,6 @@ var shortWaveSchedule = [
   {"freq": "666", "startTime": "2255", "endTime": "1500", "ITU": "CHN", "station": "Haixia zhi Sheng(VO Stra", "language": "Chi", "location": "Fuzhou/Song", "days": "1-7"},
   {"freq": "666", "startTime": "0000", "endTime": "2400", "ITU": "IRN", "station": "IRIB Radio Fars", "language": "Per", "location": "Shiraz Dehn", "days": "1-7"},
   {"freq": "666", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "NHK AM Osaka", "language": "Jpn", "location": "Osaka", "days": "1-7"},
-  {"freq": "666", "startTime": "1555", "endTime": "2205", "ITU": "LTU", "station": "Radio Signal", "language": "Rus", "location": "Kaunas/Sitk", "days": "1-7"},
   {"freq": "675", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "NHK AM Hakodate", "language": "Jpn", "location": "Hakodate", "days": "1-7"},
   {"freq": "675", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "NHK AM Yamaguchi", "language": "Jpn", "location": "Yamaguchi-H", "days": "1-7"},
   {"freq": "675", "startTime": "0000", "endTime": "2400", "ITU": "QAT", "station": "Qtar RTC", "language": "Ara", "location": "Al-Arish", "days": "1-7"},
