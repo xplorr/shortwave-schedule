@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  July 14  2026,  1500 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-07-22 05:39 UTC)
+// A26 Shortwave Frequecy List  July 22  2026,  1200 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-07-23 05:44 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -1534,7 +1534,6 @@ var shortWaveSchedule = [
   {"freq": "5985", "startTime": "0930", "endTime": "1530", "ITU": "MMR", "station": "Myanmar Radio", "language": "Bur", "location": "Yangon", "days": "1-7"},
   {"freq": "5985", "startTime": "1600", "endTime": "1700", "ITU": "MMR", "station": "Myanmar Radio", "language": "Eng", "location": "Yangon", "days": "1-7"},
   {"freq": "5985", "startTime": "2300", "endTime": "0130", "ITU": "MMR", "station": "Myanmar Radio", "language": "Bur", "location": "Yangon", "days": "1-7"},
-  {"freq": "5985", "startTime": "1540", "endTime": "1600", "ITU": "MMR", "station": "Myanmar Radio (NHK)", "language": "Eng", "location": "Yangon", "days": "56"},
   {"freq": "5985", "startTime": "1530", "endTime": "1600", "ITU": "MMR", "station": "Myanmar Radio (VOA)", "language": "Eng", "location": "Yangon", "days": "4"},
   {"freq": "5990", "startTime": "1820", "endTime": "1920", "ITU": "IRN", "station": "VO ISLAMIC REP.IRAN", "language": "Alb", "location": "Sirjan", "days": "1-7"},
   {"freq": "5990", "startTime": "0000", "endTime": "0100", "ITU": "CUB", "station": "CHINA RADIO INTERNATIONA", "language": "Spa", "location": "Quivican", "days": "1-7"},
