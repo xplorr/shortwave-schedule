@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  July 22  2026,  1200 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-07-26 05:50 UTC)
+// A26 Shortwave Frequecy List  July 22  2026,  1200 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-07-27 06:17 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
