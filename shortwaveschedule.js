@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  July 22  2026,  1200 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-07-27 06:17 UTC)
+// A26 Shortwave Frequecy List  July 28  2026,  0100 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-07-28 05:38 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -3244,7 +3244,7 @@ var shortWaveSchedule = [
   {"freq": "9930", "startTime": "1115", "endTime": "1130", "ITU": "PLW", "station": "Hope Radio Truth Talks", "language": "Eng", "location": "Palau Medor", "days": "2"},
   {"freq": "9930", "startTime": "1300", "endTime": "0130", "ITU": "USA", "station": "WTWW", "language": "Eng", "location": "Lebanon TN", "days": "1-7"},
   {"freq": "9940", "startTime": "1300", "endTime": "1328", "ITU": "TWN", "station": "Nippon no Kaze\"il bon ue", "language": "Kor", "location": "Paochung", "days": "1-7"},
-  {"freq": "9950", "startTime": "1530", "endTime": "2130", "ITU": "PHL", "station": "VOICE OF AMERICA", "language": "Kor", "location": "Tinang", "days": "23456"},
+  {"freq": "9950", "startTime": "1500", "endTime": "2200", "ITU": "PHL", "station": "VOICE OF AMERICA", "language": "Kor", "location": "Tinang", "days": "23456"},
   {"freq": "9950", "startTime": "1445", "endTime": "1500", "ITU": "UZB", "station": "Trans World Radio Do You", "language": "Kaz", "location": "Tashkent", "days": "1-7"},
   {"freq": "9955", "startTime": "0000", "endTime": "0015", "ITU": "USA", "station": "WRMI Maravillosas Palabr", "language": "Spa", "location": "Okeechobee3", "days": "2"},
   {"freq": "9955", "startTime": "0000", "endTime": "0015", "ITU": "USA", "station": "WRMI Todays Word Is", "language": "Eng", "location": "Okeechobee3", "days": "6"},
@@ -4032,8 +4032,7 @@ var shortWaveSchedule = [
   {"freq": "12120", "startTime": "1300", "endTime": "1330", "ITU": "PHL", "station": "FEBC Radio Liangyou", "language": "Lis", "location": "Bocaue", "days": "1-7"},
   {"freq": "12120", "startTime": "1730", "endTime": "2030", "ITU": "PHL", "station": "R.PILIPINAS", "language": "Fil", "location": "Tinang", "days": "1-7"},
   {"freq": "12120", "startTime": "0030", "endTime": "0102", "ITU": "PHL", "station": "Trans World Radio", "language": "Eng", "location": "Bocaue", "days": "23456"},
-  {"freq": "12140", "startTime": "0930", "endTime": "1530", "ITU": "PHL", "station": "VOICE OF AMERICA", "language": "Kor", "location": "Tinang", "days": "23456"},
-  {"freq": "12140", "startTime": "2130", "endTime": "0330", "ITU": "PHL", "station": "VOICE OF AMERICA", "language": "Kor", "location": "Tinang", "days": "23456"},
+  {"freq": "12140", "startTime": "0500", "endTime": "1500", "ITU": "PHL", "station": "VOICE OF AMERICA", "language": "Kor", "location": "Tinang", "days": "23456"},
   {"freq": "12150", "startTime": "2130", "endTime": "1700", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
   {"freq": "12160", "startTime": "2050", "endTime": "1600", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
   {"freq": "12160", "startTime": "0900", "endTime": "0930", "ITU": "PHL", "station": "Trans World Radio Do You", "language": "Hak", "location": "Bocaue", "days": "23456"},
@@ -4332,7 +4331,6 @@ var shortWaveSchedule = [
   {"freq": "15110", "startTime": "0400", "endTime": "0600", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Chi", "location": "Kashi-Saiba", "days": "1-7"},
   {"freq": "15110", "startTime": "1100", "endTime": "1157", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Esp", "location": "Urumqi Hutu", "days": "1-7"},
   {"freq": "15110", "startTime": "1200", "endTime": "1257", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Chi", "location": "Urumqi Hutu", "days": "1-7"},
-  {"freq": "15120", "startTime": "0330", "endTime": "0930", "ITU": "PHL", "station": "VOICE OF AMERICA", "language": "Kor", "location": "Tinang", "days": "23456"},
   {"freq": "15120", "startTime": "1900", "endTime": "1957", "ITU": "ROU", "station": "R.ROMANIA INT.", "language": "Spa", "location": "Tiganesti", "days": "1-7"},
   {"freq": "15120", "startTime": "1030", "endTime": "1045", "ITU": "UZB", "station": "Trans World Radio Do You", "language": "Mon", "location": "Tashkent", "days": "2-7"},
   {"freq": "15120", "startTime": "1045", "endTime": "1100", "ITU": "UZB", "station": "Trans World Radio Do You", "language": "Mon", "location": "Tashkent", "days": "1-7"},
@@ -4349,6 +4347,7 @@ var shortWaveSchedule = [
   {"freq": "15135", "startTime": "0830", "endTime": "0927", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Ind", "location": "Kunming-Ann", "days": "1-7"},
   {"freq": "15135", "startTime": "0930", "endTime": "1027", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Mal", "location": "Kunming-Ann", "days": "1-7"},
   {"freq": "15135", "startTime": "1030", "endTime": "1127", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Ind", "location": "Kunming-Ann", "days": "1-7"},
+  {"freq": "15140", "startTime": "2200", "endTime": "0500", "ITU": "PHL", "station": "VOICE OF AMERICA", "language": "Kor", "location": "Tinang", "days": "23456"},
   {"freq": "15140", "startTime": "0700", "endTime": "1900", "ITU": "ALG", "station": "Ifrikya FM", "language": "Ara", "location": "Ourgla", "days": "1-7"},
   {"freq": "15140", "startTime": "1300", "endTime": "1500", "ITU": "CUB", "station": "R.HABANA CUBA", "language": "Spa", "location": "Bauta", "days": "1-7"},
   {"freq": "15140", "startTime": "1500", "endTime": "1530", "ITU": "CUB", "station": "R.HABANA CUBA", "language": "Esp", "location": "Bauta", "days": "1"},
