@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  August 2  2026,  0300 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-08-03 06:10 UTC)
+// A26 Shortwave Frequecy List  August 3 2026,  1200 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-08-04 05:39 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -2461,11 +2461,11 @@ var shortWaveSchedule = [
   {"freq": "9330", "startTime": "1700", "endTime": "2200", "ITU": "USA", "station": "WBCQ World's Last Chance", "language": "Eng", "location": "Monticello", "days": "1-7"},
   {"freq": "9330", "startTime": "2200", "endTime": "0500", "ITU": "USA", "station": "WBCQ World's Last Chance", "language": "Por", "location": "Monticello", "days": "1-7"},
   {"freq": "9335", "startTime": "1400", "endTime": "1530", "ITU": "UZB", "station": "Voice of Wilderness", "language": "Kor", "location": "Tashkent", "days": "1-7"},
-  {"freq": "9345", "startTime": "1300", "endTime": "1315", "ITU": "UZB", "station": "BVBN Christ Gospel Broad", "language": "Eng", "location": "Tashkent", "days": "2"},
-  {"freq": "9345", "startTime": "1300", "endTime": "1330", "ITU": "UZB", "station": "BVBN His Prayer for You", "language": "Kor", "location": "Tashkent", "days": "7"},
-  {"freq": "9345", "startTime": "1315", "endTime": "1330", "ITU": "UZB", "station": "BVBN Hope for Today", "language": "Kor", "location": "Tashkent", "days": "16"},
-  {"freq": "9345", "startTime": "1300", "endTime": "1315", "ITU": "UZB", "station": "BVBN Vision for Christ", "language": "Kor", "location": "Tashkent", "days": "1"},
-  {"freq": "9345", "startTime": "1315", "endTime": "1330", "ITU": "UZB", "station": "BVBN Voice of Truth", "language": "Eng", "location": "Tashkent", "days": "2"},
+  {"freq": "9340", "startTime": "1300", "endTime": "1315", "ITU": "UZB", "station": "BVBN Christ Gospel Broad", "language": "Eng", "location": "Tashkent", "days": "2"},
+  {"freq": "9340", "startTime": "1300", "endTime": "1315", "ITU": "UZB", "station": "BVBN Vision for Christ", "language": "Kor", "location": "Tashkent", "days": "1"},
+  {"freq": "9340", "startTime": "1300", "endTime": "1330", "ITU": "UZB", "station": "BVBN His Prayer for You", "language": "Kor", "location": "Tashkent", "days": "7"},
+  {"freq": "9340", "startTime": "1315", "endTime": "1330", "ITU": "UZB", "station": "BVBN Hope for Today", "language": "Kor", "location": "Tashkent", "days": "16"},
+  {"freq": "9340", "startTime": "1315", "endTime": "1330", "ITU": "UZB", "station": "BVBN Voice of Truth", "language": "Eng", "location": "Tashkent", "days": "2"},
   {"freq": "9350", "startTime": "1900", "endTime": "2400", "ITU": "USA", "station": "WWCR NASHVILLE", "language": "Eng", "location": "Nashville", "days": "1-7"},
   {"freq": "9360", "startTime": "1400", "endTime": "2400", "ITU": "KWT", "station": "RADIO FARDA", "language": "Per", "location": "Kuwait", "days": "1-7"},
   {"freq": "9360", "startTime": "0000", "endTime": "1400", "ITU": "KWT", "station": "RADIO FARDA", "language": "Per", "location": "Kuwait", "days": "1-7"},
