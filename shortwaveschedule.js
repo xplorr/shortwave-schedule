@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  August 3 2026,  1200 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-08-08 04:04 UTC)
+// A26 Shortwave Frequecy List  August 8 2026,  0800 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-08-09 04:10 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -1518,8 +1518,6 @@ var shortWaveSchedule = [
   {"freq": "5970", "startTime": "1600", "endTime": "1630", "ITU": "OMA", "station": "BBC", "language": "Dar", "location": "Al Seela", "days": "1-7"},
   {"freq": "5970", "startTime": "1630", "endTime": "1700", "ITU": "OMA", "station": "BBC", "language": "Pas", "location": "Al Seela", "days": "23456"},
   {"freq": "5970", "startTime": "1630", "endTime": "1700", "ITU": "OMA", "station": "BBC", "language": "Dar", "location": "Al Seela", "days": "17"},
-  {"freq": "5970", "startTime": "1800", "endTime": "1830", "ITU": "OMA", "station": "BBC", "language": "Per", "location": "Al Seela", "days": "1-7"},
-  {"freq": "5970", "startTime": "1830", "endTime": "1930", "ITU": "OMA", "station": "BBC", "language": "Per", "location": "Al Seela", "days": "1-7"},
   {"freq": "5970", "startTime": "1020", "endTime": "1230", "ITU": "CHN", "station": "PBS Gannan", "language": "Tib", "location": "Hezuo", "days": "1-7"},
   {"freq": "5970", "startTime": "1230", "endTime": "1410", "ITU": "CHN", "station": "PBS Gannan", "language": "Chi", "location": "Hezuo", "days": "1-7"},
   {"freq": "5970", "startTime": "2250", "endTime": "2300", "ITU": "CHN", "station": "PBS Gannan", "language": "Tib", "location": "Hezuo", "days": "1-7"},
@@ -2019,7 +2017,6 @@ var shortWaveSchedule = [
   {"freq": "7240", "startTime": "2300", "endTime": "0258", "ITU": "TIB", "station": "PBS Xizang", "language": "Chi", "location": "Lhasa", "days": "1-7"},
   {"freq": "7240", "startTime": "1030", "endTime": "1100", "ITU": "TIB", "station": "PBS Xizang (CNR1)", "language": "Chi", "location": "Lhasa", "days": "1-7"},
   {"freq": "7240", "startTime": "2230", "endTime": "2300", "ITU": "TIB", "station": "PBS Xizang (CNR1)", "language": "Chi", "location": "Lhasa", "days": "1-7"},
-  {"freq": "7245", "startTime": "1800", "endTime": "1830", "ITU": "OMA", "station": "BBC", "language": "Per", "location": "Al Seela", "days": "1-7"},
   {"freq": "7245", "startTime": "1600", "endTime": "1657", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Swa", "location": "Xianyang 59", "days": "1-7"},
   {"freq": "7245", "startTime": "1900", "endTime": "2057", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Rus", "location": "Baoji-Xinji", "days": "1-7"},
   {"freq": "7245", "startTime": "1300", "endTime": "1605", "ITU": "CHN", "station": "CNR 2-China Business Rad", "language": "Chi", "location": "Beijing 491", "days": "1-7"},
@@ -2705,7 +2702,6 @@ var shortWaveSchedule = [
   {"freq": "9545", "startTime": "2200", "endTime": "0500", "ITU": "SLM", "station": "Solomon Islands BC", "language": "Eng", "location": "Honiara", "days": "1-7"},
   {"freq": "9545", "startTime": "0900", "endTime": "1000", "ITU": "ALS", "station": "World Christian Broadc.K", "language": "Rus", "location": "Anchor Poin", "days": "1-7"},
   {"freq": "9550", "startTime": "1800", "endTime": "1900", "ITU": "GUM", "station": "KSDA-Adventist World R.G", "language": "Kor", "location": "Agat", "days": "1-7"},
-  {"freq": "9550", "startTime": "0330", "endTime": "0430", "ITU": "OMA", "station": "BBC", "language": "Per", "location": "Al Seela", "days": "1-7"},
   {"freq": "9550", "startTime": "0000", "endTime": "0057", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Hak", "location": "Kunming-Ann", "days": "1-7"},
   {"freq": "9550", "startTime": "0100", "endTime": "0157", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Amo", "location": "Kunming-Ann", "days": "1-7"},
   {"freq": "9550", "startTime": "1100", "endTime": "1657", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Vie", "location": "Beijing 572", "days": "1-7"},
@@ -3150,7 +3146,6 @@ var shortWaveSchedule = [
   {"freq": "9870", "startTime": "0000", "endTime": "0100", "ITU": "TUR", "station": "VOICE OF TURKEY", "language": "Por", "location": "Emirler", "days": "1-7"},
   {"freq": "9870", "startTime": "0100", "endTime": "0155", "ITU": "TUR", "station": "VOICE OF TURKEY", "language": "Spa", "location": "Emirler", "days": "1-7"},
   {"freq": "9874", "startTime": "1304", "endTime": "1309", "ITU": "UZB", "station": "* VOICE OF TIBET", "language": "Tib", "location": "Tashkent", "days": "1-7"},
-  {"freq": "9875", "startTime": "0330", "endTime": "0430", "ITU": "OMA", "station": "BBC", "language": "Per", "location": "Al Seela", "days": "1-7"},
   {"freq": "9875", "startTime": "2300", "endTime": "2330", "ITU": "PHL", "station": "FEBC RADIO", "language": "Iu", "location": "Bocaue", "days": "1-7"},
   {"freq": "9875", "startTime": "2330", "endTime": "2400", "ITU": "PHL", "station": "FEBC RADIO", "language": "Iu", "location": "Bocaue", "days": "23456"},
   {"freq": "9875", "startTime": "0700", "endTime": "0757", "ITU": "KRE", "station": "Voice of Korea", "language": "Rus", "location": "Kujang", "days": "1-7"},
