@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  August 12  2026,  0200 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-08-14 04:41 UTC)
+// A26 Shortwave Frequecy List  August 14 2026,  1000 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-08-15 03:31 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -2591,7 +2591,7 @@ var shortWaveSchedule = [
   {"freq": "9450", "startTime": "1300", "endTime": "1357", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Hin", "location": "Kashi-Saiba", "days": "1-7"},
   {"freq": "9455", "startTime": "1330", "endTime": "1357", "ITU": "TWN", "station": "Furusato no kaze", "language": "Jpn", "location": "Paochung", "days": "1-7"},
   {"freq": "9455", "startTime": "1300", "endTime": "1328", "ITU": "TWN", "station": "Nippon no Kaze\"il bon ue", "language": "Kor", "location": "Paochung", "days": "1-7"},
-  {"freq": "9455", "startTime": "2230", "endTime": "2245", "ITU": "TJK", "station": "RADIO FREE ASIA", "language": "Chi", "location": "Dushanbe-Or", "days": "23456"},
+  {"freq": "9455", "startTime": "2230", "endTime": "2256", "ITU": "TJK", "station": "* RADIO FREE ASIA", "language": "Chi", "location": "Dushanbe-Or", "days": "23456"},
   {"freq": "9455", "startTime": "1500", "endTime": "1600", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Chi", "location": "Kunming-Ann", "days": "1-7"},
   {"freq": "9455", "startTime": "0000", "endTime": "0100", "ITU": "USA", "station": "WRMI E Bible Fellowship", "language": "Eng", "location": "Okeechobee1", "days": "34567"},
   {"freq": "9455", "startTime": "0100", "endTime": "0200", "ITU": "USA", "station": "WRMI R.Prague", "language": "Eng", "location": "Okeechobee1", "days": "1-7"},
@@ -2626,7 +2626,7 @@ var shortWaveSchedule = [
   {"freq": "9470", "startTime": "0500", "endTime": "0600", "ITU": "TKS", "station": "PBS Xinjiang", "language": "Chi", "location": "Urumqi", "days": "1-7"},
   {"freq": "9470", "startTime": "0600", "endTime": "0800", "ITU": "TKS", "station": "PBS Xinjiang", "language": "Kaz", "location": "Urumqi", "days": "1-7"},
   {"freq": "9470", "startTime": "0800", "endTime": "1100", "ITU": "TKS", "station": "PBS Xinjiang", "language": "Kaz", "location": "Urumqi", "days": "124-7"},
-  {"freq": "9470", "startTime": "1100", "endTime": "1152", "ITU": "TKS", "station": "PBS Xinjiang", "language": "Kaz", "location": "Urumqi", "days": "1-7"},
+  {"freq": "9470", "startTime": "1100", "endTime": "1153", "ITU": "TKS", "station": "PBS Xinjiang", "language": "Kaz", "location": "Urumqi", "days": "1-7"},
   {"freq": "9475", "startTime": "1400", "endTime": "2400", "ITU": "USA", "station": "WTWW", "language": "Eng", "location": "Lebanon TN", "days": "1-7"},
   {"freq": "9480", "startTime": "1800", "endTime": "1957", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Fre", "location": "Xianyang 59", "days": "1-7"},
   {"freq": "9480", "startTime": "1100", "endTime": "1400", "ITU": "CHN", "station": "CNR 11", "language": "Tib", "location": "Dongfang Ha", "days": "1-7"},
@@ -3979,6 +3979,7 @@ var shortWaveSchedule = [
   {"freq": "12025", "startTime": "1258", "endTime": "1357", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Kor", "location": "Xianyang 59", "days": "1-7"},
   {"freq": "12025", "startTime": "1400", "endTime": "1500", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Chi", "location": "Urumqi Hutu", "days": "1-7"},
   {"freq": "12030", "startTime": "0000", "endTime": "1200", "ITU": "HOL", "station": "Radio Delta Internationa", "language": "Dut", "location": "Elburg", "days": "1-7"},
+  {"freq": "12035", "startTime": "2200", "endTime": "2400", "ITU": "OMA", "station": "BBC", "language": "Eng", "location": "Al Seela", "days": "1-7"},
   {"freq": "12040", "startTime": "1430", "endTime": "1700", "ITU": "UAE", "station": "RADIO FARDA", "language": "Per", "location": "Al-Dhabbiya", "days": "1-7"},
   {"freq": "12040", "startTime": "1700", "endTime": "2100", "ITU": "G", "station": "RADIO FARDA", "language": "Per", "location": "Woofferton", "days": "1-7"},
   {"freq": "12045", "startTime": "0600", "endTime": "0900", "ITU": "CHN", "station": "CNR 1 Voice of China", "language": "Chi", "location": "Beijing 572", "days": "124-7"},
