@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  August 14 2026,  1000 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-08-20 03:38 UTC)
+// A26 Shortwave Frequecy List  August 20 2026,  0800 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-08-21 03:41 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -3174,6 +3174,7 @@ var shortWaveSchedule = [
   {"freq": "9875", "startTime": "2000", "endTime": "2050", "ITU": "KRE", "station": "Voice of Korea (KCBS)", "language": "Kor", "location": "Kujang", "days": "1-7"},
   {"freq": "9875", "startTime": "2300", "endTime": "2350", "ITU": "KRE", "station": "Voice of Korea (KCBS)", "language": "Kor", "location": "Kujang", "days": "1-7"},
   {"freq": "9875", "startTime": "2030", "endTime": "2125", "ITU": "TUR", "station": "VOICE OF TURKEY", "language": "Eng", "location": "Emirler", "days": "1-7"},
+  {"freq": "9875", "startTime": "2330", "endTime": "2400", "ITU": "PHL", "station": "FEBC RADIO", "language": "Rki", "location": "Bocaue", "days": "167"},
   {"freq": "9880", "startTime": "0000", "endTime": "0057", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Chi", "location": "Kunming-Ann", "days": "1-7"},
   {"freq": "9880", "startTime": "0800", "endTime": "1057", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Chi", "location": "Beijing 572", "days": "1-7"},
   {"freq": "9880", "startTime": "0900", "endTime": "1000", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Chi", "location": "Nanning 954", "days": "1-7"},
@@ -4302,6 +4303,7 @@ var shortWaveSchedule = [
   {"freq": "13870", "startTime": "1000", "endTime": "1030", "ITU": "PHL", "station": "FEBC RADIO", "language": "Sha", "location": "Bocaue", "days": "23456"},
   {"freq": "13870", "startTime": "1030", "endTime": "1100", "ITU": "PHL", "station": "FEBC RADIO", "language": "Iu", "location": "Bocaue", "days": "23456"},
   {"freq": "13870", "startTime": "1100", "endTime": "1300", "ITU": "PHL", "station": "FEBC RADIO", "language": "Khm", "location": "Bocaue", "days": "1-7"},
+  {"freq": "13870", "startTime": "1030", "endTime": "1100", "ITU": "PHL", "station": "FEBC RADIO", "language": "Rki", "location": "Bocaue", "days": "167"},
   {"freq": "13890", "startTime": "2200", "endTime": "1700", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
   {"freq": "13920", "startTime": "2213", "endTime": "1420", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
   {"freq": "13960", "startTime": "2130", "endTime": "1500", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
@@ -4660,8 +4662,6 @@ var shortWaveSchedule = [
   {"freq": "15440", "startTime": "1830", "endTime": "1900", "ITU": "D", "station": "Adventist World Radio", "language": "Amh", "location": "Nauen", "days": "1-7"},
   {"freq": "15445", "startTime": "0400", "endTime": "0600", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Rus", "location": "Kashi-Saiba", "days": "1-7"},
   {"freq": "15450", "startTime": "0030", "endTime": "0045", "ITU": "PHL", "station": "FEBC RADIO", "language": "Chi", "location": "Bocaue", "days": "167"},
-  {"freq": "15450", "startTime": "0045", "endTime": "0100", "ITU": "PHL", "station": "FEBC RADIO", "language": "Rak", "location": "Bocaue", "days": "167"},
-  {"freq": "15450", "startTime": "1100", "endTime": "1115", "ITU": "PHL", "station": "FEBC RADIO", "language": "Rak", "location": "Bocaue", "days": "167"},
   {"freq": "15450", "startTime": "1400", "endTime": "1430", "ITU": "PHL", "station": "FEBC RADIO", "language": "ksw", "location": "Bocaue", "days": "23456"},
   {"freq": "15450", "startTime": "2300", "endTime": "0030", "ITU": "PHL", "station": "FEBC RADIO", "language": "Bur", "location": "Bocaue", "days": "1-7"},
   {"freq": "15450", "startTime": "0900", "endTime": "0930", "ITU": "PHL", "station": "FEBC Radio Liangyou", "language": "khb", "location": "Bocaue", "days": "1-7"},
