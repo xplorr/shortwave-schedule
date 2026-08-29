@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  August 26  2026,  1200 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-08-28 14:43 UTC)
+// A26 Shortwave Frequecy List  August 29  2026,  0900 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-08-29 09:34 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -2227,6 +2227,7 @@ var shortWaveSchedule = [
   {"freq": "7375", "startTime": "1200", "endTime": "1605", "ITU": "CHN", "station": "CNR 2-China Business Rad", "language": "Chi", "location": "Beijing 491", "days": "1-7"},
   {"freq": "7375", "startTime": "1655", "endTime": "1900", "ITU": "J", "station": "NHK WORLD RADIO JAPAN", "language": "Jpn", "location": "Ibaragi-Kog", "days": "1-7"},
   {"freq": "7375", "startTime": "1900", "endTime": "2000", "ITU": "GUM", "station": "KSDA-Adventist World R.G", "language": "Kor", "location": "Agat", "days": "1-7"},
+  {"freq": "7375", "startTime": "0300", "endTime": "1400", "ITU": "KWT", "station": "RADIO FARDA", "language": "Per", "location": "Kuwait", "days": "1-7"},
   {"freq": "7380", "startTime": "2000", "endTime": "2028", "ITU": "G", "station": "Follow The Bible Ministr", "language": "Ara", "location": "Woofferton", "days": "1"},
   {"freq": "7385", "startTime": "1900", "endTime": "1957", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Alb", "location": "Kashi-Saiba", "days": "1-7"},
   {"freq": "7385", "startTime": "0900", "endTime": "1705", "ITU": "CHN", "station": "CNR 5", "language": "Chi", "location": "Beijing 491", "days": "1-7"},
@@ -2286,6 +2287,7 @@ var shortWaveSchedule = [
   {"freq": "7435", "startTime": "1930", "endTime": "2000", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Rom", "location": "Xianyang 59", "days": "1-7"},
   {"freq": "7435", "startTime": "0100", "endTime": "1000", "ITU": "USA", "station": "R.MARTI", "language": "Spa", "location": "Greenville", "days": "1-7"},
   {"freq": "7435", "startTime": "2145", "endTime": "1600", "ITU": "VTN", "station": "Voice of Vietnam 1", "language": "Vie", "location": "Hanoi-Sonta", "days": "1-7"},
+  {"freq": "7435", "startTime": "1100", "endTime": "1400", "ITU": "KWT", "station": "RADIO FARDA", "language": "Per", "location": "Kuwait", "days": "1-7"},
   {"freq": "7440", "startTime": "1359", "endTime": "1650", "ITU": "NZL", "station": "R.NEW ZEALAND INT.", "language": "Eng", "location": "Rangitaiki", "days": "1-7"},
   {"freq": "7440", "startTime": "1200", "endTime": "1400", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Chi", "location": "Nanning 954", "days": "1-7"},
   {"freq": "7445", "startTime": "0029", "endTime": "0100", "ITU": "CVA", "station": "BBC", "language": "Dar", "location": "Santa Maria", "days": "1-7"},
@@ -2331,7 +2333,6 @@ var shortWaveSchedule = [
   {"freq": "7490", "startTime": "2100", "endTime": "2130", "ITU": "USA", "station": "WBCQ World of Radio", "language": "Eng", "location": "Monticello", "days": "4"},
   {"freq": "7490", "startTime": "1300", "endTime": "1600", "ITU": "USA", "station": "WWCR NASHVILLE", "language": "Eng", "location": "Nashville", "days": "1-7"},
   {"freq": "7505", "startTime": "2200", "endTime": "1600", "ITU": "USA", "station": "WRNO", "language": "Eng", "location": "New Orleans", "days": "1-7"},
-  {"freq": "7510", "startTime": "1430", "endTime": "2100", "ITU": "UZB", "station": "}x RADIO FARDA", "language": "Per", "location": "Tashkent", "days": "1-7"},
   {"freq": "7515", "startTime": "1530", "endTime": "1600", "ITU": "UZB", "station": "Voice of Martyrs", "language": "Kor", "location": "Tashkent", "days": "1-7"},
   {"freq": "7520", "startTime": "0000", "endTime": "0300", "ITU": "USA", "station": "WWCR NASHVILLE", "language": "Eng", "location": "Nashville", "days": "1-7"},
   {"freq": "7530", "startTime": "2100", "endTime": "2130", "ITU": "UZB", "station": "Voice of Martyrs", "language": "Kor", "location": "Tashkent", "days": "1-7"},
@@ -2547,6 +2548,7 @@ var shortWaveSchedule = [
   {"freq": "9410", "startTime": "0600", "endTime": "1100", "ITU": "TWN", "station": "Fu Hsing BS", "language": "Chi", "location": "Kuanyin", "days": "23456"},
   {"freq": "9410", "startTime": "1900", "endTime": "2000", "ITU": "EGY", "station": "R.CAIRO", "language": "Ger", "location": "Abis", "days": "1-7"},
   {"freq": "9410", "startTime": "1100", "endTime": "1500", "ITU": "USA", "station": "R.MARTI", "language": "Spa", "location": "Greenville", "days": "1-7"},
+  {"freq": "9410", "startTime": "1400", "endTime": "1600", "ITU": "KWT", "station": "RADIO FARDA", "language": "Per", "location": "Kuwait", "days": "1-7"},
   {"freq": "9420", "startTime": "1058", "endTime": "1500", "ITU": "CHN", "station": "CNR 13", "language": "Uyg", "location": "Lingshi 725", "days": "1-7"},
   {"freq": "9420", "startTime": "1500", "endTime": "1600", "ITU": "CHN", "station": "CNR 13", "language": "Chi", "location": "Lingshi 725", "days": "1-7"},
   {"freq": "9420", "startTime": "1600", "endTime": "1805", "ITU": "CHN", "station": "CNR 13", "language": "Uyg", "location": "Lingshi 725", "days": "1-7"},
@@ -3428,6 +3430,7 @@ var shortWaveSchedule = [
   {"freq": "11530", "startTime": "2255", "endTime": "2350", "ITU": "CUB", "station": "Cuban Spy Numers", "language": "Spa", "location": "Bejucal", "days": "1246"},
   {"freq": "11530", "startTime": "0430", "endTime": "1000", "ITU": "UZB", "station": "Radyo Denge Gel", "language": "Kur", "location": "Tashkent", "days": "1-7"},
   {"freq": "11535", "startTime": "2000", "endTime": "1600", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
+  {"freq": "11540", "startTime": "0500", "endTime": "1400", "ITU": "KWT", "station": "RADIO FARDA", "language": "Per", "location": "Kuwait", "days": "1-7"},
   {"freq": "11550", "startTime": "2100", "endTime": "1500", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
   {"freq": "11550", "startTime": "1000", "endTime": "2200", "ITU": "UZB", "station": "Radyo Denge Gel", "language": "Kur", "location": "Tashkent", "days": "1-7"},
   {"freq": "11550", "startTime": "1330", "endTime": "1415", "ITU": "PHL", "station": "Trans World Radio", "language": "Vie", "location": "Iba", "days": "7"},
