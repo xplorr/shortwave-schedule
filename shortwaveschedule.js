@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  August 29  2026,  1100 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-09-03 07:30 UTC)
+// A26 Shortwave Frequecy List  September 3  2026,  1100 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-09-04 07:32 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -2154,7 +2154,7 @@ var shortWaveSchedule = [
   {"freq": "7315", "startTime": "1600", "endTime": "1657", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Vie", "location": "Kunming-Ann", "days": "1-7"},
   {"freq": "7315", "startTime": "1100", "endTime": "1605", "ITU": "CHN", "station": "CNR 2-China Business Rad", "language": "Chi", "location": "Xianyang 59", "days": "1-7"},
   {"freq": "7315", "startTime": "2055", "endTime": "0100", "ITU": "CHN", "station": "CNR 2-China Business Rad", "language": "Chi", "location": "Xianyang 59", "days": "1-7"},
-  {"freq": "7315", "startTime": "0330", "endTime": "0400", "ITU": "MDG", "station": "JRC Radio Dabanga", "language": "Dar", "location": "Talata-Volo", "days": "3456"},
+  {"freq": "7315", "startTime": "0400", "endTime": "0430", "ITU": "CVA", "station": "JRC Radio Dabanga", "language": "Jub", "location": "Santa Maria", "days": "3456"},
   {"freq": "7320", "startTime": "0200", "endTime": "0215", "ITU": "UAE", "station": "FEBA Radio Pakistan", "language": "Urd", "location": "Al-Dhabbiya", "days": "1-7"},
   {"freq": "7320", "startTime": "0215", "endTime": "0230", "ITU": "UAE", "station": "FEBA Radio Pakistan", "language": "Bal", "location": "Al-Dhabbiya", "days": "234"},
   {"freq": "7320", "startTime": "0215", "endTime": "0230", "ITU": "UAE", "station": "FEBA Radio Pakistan", "language": "Sin", "location": "Al-Dhabbiya", "days": "567"},
@@ -3462,6 +3462,8 @@ var shortWaveSchedule = [
   {"freq": "11615", "startTime": "1100", "endTime": "1200", "ITU": "CHN", "station": "CNR 1 Jamming", "language": "Chi", "location": "Dongfang Ha", "days": "1-7"},
   {"freq": "11615", "startTime": "1100", "endTime": "1200", "ITU": "TWN", "station": "* R.TAIWAN INT.", "language": "Chi", "location": "Paochung", "days": "1-7"},
   {"freq": "11615", "startTime": "2000", "endTime": "2100", "ITU": "D", "station": "Music 4 Joy DRM", "language": "Mus", "location": "Nauen", "days": "35"},
+  {"freq": "11615", "startTime": "0400", "endTime": "0430", "ITU": "CVA", "station": "JRC Radio Tamazui", "language": "Jub", "location": "Santa Maria", "days": "3456"},
+  {"freq": "11615", "startTime": "1600", "endTime": "1630", "ITU": "MDG", "station": "JRC Radio Tamazui", "language": "Jub", "location": "Talata-Volo", "days": "23456"},
   {"freq": "11620", "startTime": "1000", "endTime": "1257", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Jpn", "location": "Xianyang 59", "days": "1-7"},
   {"freq": "11620", "startTime": "2257", "endTime": "2357", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Vie", "location": "Beijing 572", "days": "1-7"},
   {"freq": "11620", "startTime": "0000", "endTime": "0600", "ITU": "CHN", "station": "CNR 5", "language": "Chi", "location": "Beijing 491", "days": "1-7"},
@@ -4747,6 +4749,7 @@ var shortWaveSchedule = [
   {"freq": "15550", "startTime": "0000", "endTime": "0600", "ITU": "CHN", "station": "CNR 7 Radio The Great Ba", "language": "Can", "location": "Huhhot 694", "days": "1-7"},
   {"freq": "15550", "startTime": "0600", "endTime": "0900", "ITU": "CHN", "station": "CNR 7 Radio The Great Ba", "language": "Can", "location": "Huhhot 694", "days": "124-7"},
   {"freq": "15550", "startTime": "0900", "endTime": "1100", "ITU": "CHN", "station": "CNR 7 Radio The Great Ba", "language": "Can", "location": "Huhhot 694", "days": "124-7"},
+  {"freq": "15550", "startTime": "1630", "endTime": "1700", "ITU": "MDG", "station": "JRC Radio Dabanga", "language": "Dar", "location": "Talata-Volo", "days": "17"},
   {"freq": "15550", "startTime": "1700", "endTime": "1800", "ITU": "CVA", "station": "JRC Radio Dabanga", "language": "Dar", "location": "Santa Maria", "days": "1-7"},
   {"freq": "15550", "startTime": "1330", "endTime": "1400", "ITU": "GUM", "station": "KSDA-Adventist World R.G", "language": "Ass", "location": "Agat", "days": "14"},
   {"freq": "15555", "startTime": "1200", "endTime": "1257", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Eng", "location": "Xianyang 59", "days": "1-7"},
