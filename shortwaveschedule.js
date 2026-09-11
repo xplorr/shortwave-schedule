@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  September 6  2026,  0800 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-09-10 07:39 UTC)
+// A26 Shortwave Frequecy List  September 11  2026,  0300 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-09-11 07:35 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -3266,6 +3266,7 @@ var shortWaveSchedule = [
   {"freq": "9930", "startTime": "1300", "endTime": "0130", "ITU": "USA", "station": "WTWW", "language": "Eng", "location": "Lebanon TN", "days": "1-7"},
   {"freq": "9940", "startTime": "1300", "endTime": "1328", "ITU": "TWN", "station": "Nippon no Kaze\"il bon ue", "language": "Kor", "location": "Paochung", "days": "1-7"},
   {"freq": "9950", "startTime": "1500", "endTime": "2200", "ITU": "PHL", "station": "VOICE OF AMERICA", "language": "Kor", "location": "Tinang", "days": "23456"},
+  {"freq": "9950", "startTime": "2200", "endTime": "2400", "ITU": "PHL", "station": "VOICE OF AMERICA", "language": "Kor", "location": "Tinang", "days": "23456"},
   {"freq": "9950", "startTime": "1445", "endTime": "1500", "ITU": "UZB", "station": "Trans World Radio Do You", "language": "Kaz", "location": "Tashkent", "days": "1-7"},
   {"freq": "9955", "startTime": "0000", "endTime": "0015", "ITU": "USA", "station": "WRMI Maravillosas Palabr", "language": "Spa", "location": "Okeechobee3", "days": "2"},
   {"freq": "9955", "startTime": "0000", "endTime": "0015", "ITU": "USA", "station": "WRMI Todays Word Is", "language": "Eng", "location": "Okeechobee3", "days": "6"},
@@ -5241,6 +5242,7 @@ var shortWaveSchedule = [
   {"freq": "17850", "startTime": "1900", "endTime": "2000", "ITU": "F", "station": "R.FRANCE INT.", "language": "Fre", "location": "Issoudun", "days": "1-7"},
   {"freq": "17855", "startTime": "0357", "endTime": "0557", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Eng", "location": "Beijing 572", "days": "1-7"},
   {"freq": "17860", "startTime": "1100", "endTime": "1157", "ITU": "ROU", "station": "R.ROMANIA INT.", "language": "Eng", "location": "Galbeni-Bac", "days": "1-7"},
+  {"freq": "17865", "startTime": "0000", "endTime": "0500", "ITU": "PHL", "station": "VOICE OF AMERICA", "language": "Kor", "location": "Tinang", "days": "23456"},
   {"freq": "17865", "startTime": "0600", "endTime": "0800", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Fre", "location": "Kashi-Saiba", "days": "1-7"},
   {"freq": "17865", "startTime": "0830", "endTime": "1030", "ITU": "UAE", "station": "IBRA MEDIA/R.Sadaye Zind", "language": "Dar", "location": "Al-Dhabbiya", "days": "1-7"},
   {"freq": "17880", "startTime": "0600", "endTime": "0910", "ITU": "CHN", "station": "CUC-ECDAV 5B1 DRM test", "language": "Chi", "location": "Kunming-Ann", "days": "1-7"},
