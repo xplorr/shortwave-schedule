@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  September 11  2026,  0300 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-09-14 08:18 UTC)
+// A26 Shortwave Frequecy List  September 14  2026,  1300 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-09-15 08:11 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -4303,7 +4303,6 @@ var shortWaveSchedule = [
   {"freq": "13850", "startTime": "0900", "endTime": "1057", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Chi", "location": "Beijing 572", "days": "1-7"},
   {"freq": "13855", "startTime": "0000", "endTime": "0100", "ITU": "ALG", "station": "Ifrikya FM", "language": "Ara", "location": "Ourgla", "days": "1-7"},
   {"freq": "13855", "startTime": "1900", "endTime": "2359", "ITU": "ALG", "station": "Ifrikya FM", "language": "Ara", "location": "Ourgla", "days": "1-7"},
-  {"freq": "13860", "startTime": "2100", "endTime": "1100", "ITU": "CHN", "station": "x Audio (DRM) 1 xHE AAC", "language": "Chi", "location": "Beijing 572", "days": "1-7"},
   {"freq": "13860", "startTime": "1100", "endTime": "1157", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Rus", "location": "Beijing 572", "days": "1-7"},
   {"freq": "13860", "startTime": "1500", "endTime": "1600", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Rus", "location": "Shijiazhuan", "days": "1-7"},
   {"freq": "13870", "startTime": "2130", "endTime": "1500", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
@@ -5099,6 +5098,7 @@ var shortWaveSchedule = [
   {"freq": "17680", "startTime": "0530", "endTime": "0557", "ITU": "ROU", "station": "R.ROMANIA INT. DRM E1001", "language": "Eng", "location": "SNR Tiganes", "days": "1-7"},
   {"freq": "17690", "startTime": "0000", "endTime": "0157", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Chi", "location": "Xianyang 59", "days": "1-7"},
   {"freq": "17690", "startTime": "0800", "endTime": "0857", "ITU": "ROU", "station": "R.ROMANIA INT.", "language": "Rom", "location": "Tiganesti", "days": "1"},
+  {"freq": "17695", "startTime": "0800", "endTime": "1200", "ITU": "CHN", "station": "Audio (DRM) 1 xHE AAC", "language": "Chi", "location": "Beijing 572", "days": "1-7"},
   {"freq": "17700", "startTime": "0100", "endTime": "0900", "ITU": "CHN", "station": "Audio (DRM) 1 xHE AAC", "language": "Chi", "location": "Qiqihar 202", "days": "1-7"},
   {"freq": "17700", "startTime": "1600", "endTime": "1900", "ITU": "ASC", "station": "BBC", "language": "Hau", "location": "Ascension", "days": "7"},
   {"freq": "17700", "startTime": "1400", "endTime": "1415", "ITU": "MDG", "station": "Trans World Radio", "language": "Bun", "location": "Talata-Volo", "days": "7"},
@@ -5132,6 +5132,7 @@ var shortWaveSchedule = [
   {"freq": "17715", "startTime": "2230", "endTime": "2300", "ITU": "E", "station": "R.EXTERIOR DE ESPANA", "language": "Fre", "location": "Noblejas", "days": "3"},
   {"freq": "17715", "startTime": "2300", "endTime": "0200", "ITU": "E", "station": "R.EXTERIOR DE ESPANA", "language": "Spa", "location": "Noblejas", "days": "34567"},
   {"freq": "17715", "startTime": "0700", "endTime": "0930", "ITU": "CVA", "station": "VATICAN RADIO", "language": "Ara", "location": "Santa Maria", "days": "1-7"},
+  {"freq": "17720", "startTime": "0800", "endTime": "1200", "ITU": "CHN", "station": "Audio (DRM) 1 xHE AAC", "language": "Chi", "location": "Beijing 572", "days": "1-7"},
   {"freq": "17720", "startTime": "0500", "endTime": "0657", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Ger", "location": "Kashi-Saiba", "days": "1-7"},
   {"freq": "17720", "startTime": "0200", "endTime": "0257", "ITU": "ROU", "station": "R.ROMANIA INT.", "language": "Spa", "location": "Tiganesti", "days": "1-7"},
   {"freq": "17720", "startTime": "1300", "endTime": "1350", "ITU": "UAE", "station": "Shan News Radio", "language": "Sha", "location": "Al-Dhabbiya", "days": "23456"},
