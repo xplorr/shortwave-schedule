@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  September 17  2026,  2200 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-09-18 07:46 UTC)
+// A26 Shortwave Frequecy List  September 18  2026,  1200 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-09-19 07:39 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -3464,7 +3464,7 @@ var shortWaveSchedule = [
   {"freq": "11615", "startTime": "2000", "endTime": "2100", "ITU": "D", "station": "Music 4 Joy DRM", "language": "Mus", "location": "Nauen", "days": "35"},
   {"freq": "11615", "startTime": "0400", "endTime": "0430", "ITU": "CVA", "station": "JRC Radio Tamazui", "language": "Jub", "location": "Santa Maria", "days": "3456"},
   {"freq": "11615", "startTime": "1600", "endTime": "1630", "ITU": "MDG", "station": "JRC Radio Tamazui", "language": "Jub", "location": "Talata-Volo", "days": "23456"},
-  {"freq": "11620", "startTime": "1000", "endTime": "1257", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Jpn", "location": "Xianyang 59", "days": "1-7"},
+  {"freq": "11620", "startTime": "0958", "endTime": "1257", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Jpn", "location": "Xianyang 59", "days": "1-7"},
   {"freq": "11620", "startTime": "2257", "endTime": "2357", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Vie", "location": "Beijing 572", "days": "1-7"},
   {"freq": "11620", "startTime": "0000", "endTime": "0600", "ITU": "CHN", "station": "CNR 5", "language": "Chi", "location": "Beijing 491", "days": "1-7"},
   {"freq": "11620", "startTime": "0600", "endTime": "0900", "ITU": "CHN", "station": "CNR 5", "language": "Chi", "location": "Beijing 491", "days": "5-3"},
@@ -3480,7 +3480,7 @@ var shortWaveSchedule = [
   {"freq": "11630", "startTime": "1400", "endTime": "1805", "ITU": "CHN", "station": "CNR 17", "language": "Kaz", "location": "Lingshi 725", "days": "1-7"},
   {"freq": "11630", "startTime": "2355", "endTime": "0600", "ITU": "CHN", "station": "CNR 17", "language": "Kaz", "location": "Lingshi 725", "days": "1-7"},
   {"freq": "11630", "startTime": "1400", "endTime": "1430", "ITU": "UAE", "station": "IBRA MEDIA/Radio Ibrahim", "language": "Tig", "location": "Al-Dhabbiya", "days": "1-7"},
-  {"freq": "11635", "startTime": "1000", "endTime": "1057", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Eng", "location": "Beijing 572", "days": "1-7"},
+  {"freq": "11635", "startTime": "0958", "endTime": "1057", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Eng", "location": "Beijing 572", "days": "1-7"},
   {"freq": "11635", "startTime": "1755", "endTime": "1850", "ITU": "CUB", "station": "Cuban Spy Numers", "language": "Spa", "location": "Bejucal", "days": "1-7"},
   {"freq": "11635", "startTime": "2055", "endTime": "2150", "ITU": "CUB", "station": "Cuban Spy Numers", "language": "Spa", "location": "Bejucal", "days": "1246"},
   {"freq": "11635", "startTime": "1800", "endTime": "1857", "ITU": "KRE", "station": "Voice of Korea", "language": "Fre", "location": "Kujang", "days": "1-7"},
