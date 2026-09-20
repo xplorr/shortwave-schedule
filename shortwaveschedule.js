@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  September 18  2026,  1200 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-09-19 07:39 UTC)
+// A26 Shortwave Frequecy List  September 20  2026,  0300 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-09-20 08:04 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -778,7 +778,7 @@ var shortWaveSchedule = [
   {"freq": "1332", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "x Tokai Radio Hoso", "language": "Jpn", "location": "Aichi-Shins", "days": "1-7"},
   {"freq": "1332", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Tokai Radio Hoso", "language": "Jpn", "location": "Nagoya", "days": "1-7"},
   {"freq": "1340", "startTime": "0000", "endTime": "2400", "ITU": "USA", "station": "WCHB", "language": "Eng", "location": "Royal Oak,", "days": "1-7"},
-  {"freq": "1341", "startTime": "0000", "endTime": "2400", "ITU": "G", "station": "BBC Radio Ulster/Radio 5", "language": "Eng", "location": "Lisnagarvey", "days": "1-7"},
+  {"freq": "1341", "startTime": "0000", "endTime": "2400", "ITU": "KWT", "station": "R.KUWAIT", "language": "Ara", "location": "Al-Maqwa", "days": "1-7"},
   {"freq": "1341", "startTime": "1130", "endTime": "1200", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Fil", "location": "Huadu-Guang", "days": "1-7"},
   {"freq": "1341", "startTime": "1200", "endTime": "1400", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Eng", "location": "Huadu-Guang", "days": "1-7"},
   {"freq": "1341", "startTime": "1430", "endTime": "1500", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Fil", "location": "Huadu-Guang", "days": "1-7"},
@@ -4853,6 +4853,7 @@ var shortWaveSchedule = [
   {"freq": "15730", "startTime": "0400", "endTime": "1900", "ITU": "BUL", "station": "Iran International TV", "language": "Per", "location": "Kostinbrod(", "days": "1-7"},
   {"freq": "15735", "startTime": "1400", "endTime": "1500", "ITU": "USA", "station": "WINB DRM", "language": "Eng", "location": "Red Lion", "days": "23456"},
   {"freq": "15740", "startTime": "2144", "endTime": "1530", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
+  {"freq": "15745", "startTime": "1100", "endTime": "1200", "ITU": "CHN", "station": "CNR", "language": "Chi", "location": "Lingshi 725", "days": "1-7"},
   {"freq": "15750", "startTime": "0900", "endTime": "1000", "ITU": "USA", "station": "WINB DRM", "language": "Eng", "location": "Red Lion", "days": "7"},
   {"freq": "15750", "startTime": "1500", "endTime": "2000", "ITU": "USA", "station": "WINB DRM", "language": "Eng", "location": "Red Lion", "days": "23456"},
   {"freq": "15760", "startTime": "2130", "endTime": "1500", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
@@ -5080,6 +5081,7 @@ var shortWaveSchedule = [
   {"freq": "17660", "startTime": "0800", "endTime": "0900", "ITU": "F", "station": "R.FRANCE INT.", "language": "Fre", "location": "Issoudun", "days": "1-7"},
   {"freq": "17660", "startTime": "0900", "endTime": "1000", "ITU": "F", "station": "R.FRANCE INT.", "language": "Fre", "location": "Issoudun", "days": "1-7"},
   {"freq": "17660", "startTime": "1300", "endTime": "1330", "ITU": "F", "station": "R.FRANCE INT.", "language": "Ful", "location": "Issoudun", "days": "1-7"},
+  {"freq": "17665", "startTime": "0030", "endTime": "0130", "ITU": "", "station": "Voice of Independent Mya", "language": "Bur", "location": "", "days": "1"},
   {"freq": "17665", "startTime": "0100", "endTime": "0200", "ITU": "TKS", "station": "CNR 8", "language": "Chi", "location": "Urumqi Hutu", "days": "1-7"},
   {"freq": "17665", "startTime": "0200", "endTime": "0500", "ITU": "TKS", "station": "CNR 8", "language": "Mon", "location": "Urumqi Hutu", "days": "1-7"},
   {"freq": "17665", "startTime": "0500", "endTime": "0600", "ITU": "TKS", "station": "CNR 8", "language": "Chi", "location": "Urumqi Hutu", "days": "1-7"},
