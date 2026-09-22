@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  September 20  2026,  0300 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-09-21 08:22 UTC)
+// A26 Shortwave Frequecy List  September 22 2026,  0400 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-09-22 08:04 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -2331,6 +2331,7 @@ var shortWaveSchedule = [
   {"freq": "7490", "startTime": "0100", "endTime": "0200", "ITU": "USA", "station": "WBCQ Voice of Revival", "language": "Eng", "location": "Monticello", "days": "2"},
   {"freq": "7490", "startTime": "2100", "endTime": "2130", "ITU": "USA", "station": "WBCQ World of Radio", "language": "Eng", "location": "Monticello", "days": "4"},
   {"freq": "7490", "startTime": "1300", "endTime": "1600", "ITU": "USA", "station": "WWCR NASHVILLE", "language": "Eng", "location": "Nashville", "days": "1-7"},
+  {"freq": "7500", "startTime": "1500", "endTime": "2200", "ITU": "PHL", "station": "VOICE OF AMERICA", "language": "Kor", "location": "Tinang", "days": "17"},
   {"freq": "7500", "startTime": "1500", "endTime": "2200", "ITU": "PHL", "station": "VOICE OF AMERICA", "language": "Kor", "location": "Tinang", "days": "23456"},
   {"freq": "7505", "startTime": "2200", "endTime": "1600", "ITU": "USA", "station": "WRNO", "language": "Eng", "location": "New Orleans", "days": "1-7"},
   {"freq": "7515", "startTime": "1530", "endTime": "1600", "ITU": "UZB", "station": "Voice of Martyrs", "language": "Kor", "location": "Tashkent", "days": "1-7"},
@@ -3264,6 +3265,7 @@ var shortWaveSchedule = [
   {"freq": "9930", "startTime": "1115", "endTime": "1130", "ITU": "PLW", "station": "Hope Radio Truth Talks", "language": "Eng", "location": "Palau Medor", "days": "2"},
   {"freq": "9930", "startTime": "1300", "endTime": "0130", "ITU": "USA", "station": "WTWW", "language": "Eng", "location": "Lebanon TN", "days": "1-7"},
   {"freq": "9940", "startTime": "1300", "endTime": "1328", "ITU": "TWN", "station": "Nippon no Kaze\"il bon ue", "language": "Kor", "location": "Paochung", "days": "1-7"},
+  {"freq": "9950", "startTime": "1500", "endTime": "2200", "ITU": "PHL", "station": "VOICE OF AMERICA", "language": "Kor", "location": "Tinang", "days": "17"},
   {"freq": "9950", "startTime": "1500", "endTime": "2200", "ITU": "PHL", "station": "VOICE OF AMERICA", "language": "Kor", "location": "Tinang", "days": "23456"},
   {"freq": "9950", "startTime": "2200", "endTime": "2400", "ITU": "PHL", "station": "VOICE OF AMERICA", "language": "Kor", "location": "Tinang", "days": "23456"},
   {"freq": "9950", "startTime": "1445", "endTime": "1500", "ITU": "UZB", "station": "Trans World Radio Do You", "language": "Kaz", "location": "Tashkent", "days": "1-7"},
