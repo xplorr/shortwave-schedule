@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  October 8 2026,  0100 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-10-11 09:29 UTC)
+// A26 Shortwave Frequecy List  October 11  2026,  1400 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-10-12 09:59 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -2485,11 +2485,12 @@ var shortWaveSchedule = [
   {"freq": "9350", "startTime": "1900", "endTime": "2400", "ITU": "USA", "station": "WWCR NASHVILLE", "language": "Eng", "location": "Nashville", "days": "1-7"},
   {"freq": "9360", "startTime": "1400", "endTime": "2400", "ITU": "KWT", "station": "RADIO FARDA", "language": "Per", "location": "Kuwait", "days": "1-7"},
   {"freq": "9360", "startTime": "0000", "endTime": "1400", "ITU": "KWT", "station": "RADIO FARDA", "language": "Per", "location": "Kuwait", "days": "1-7"},
-  {"freq": "9375", "startTime": "0300", "endTime": "1400", "ITU": "KWT", "station": "RADIO FARDA", "language": "Per", "location": "Kuwait", "days": "1-7"},
   {"freq": "9375", "startTime": "2100", "endTime": "2400", "ITU": "TJK", "station": "VOICE OF AMERICA", "language": "Chi", "location": "Dushanbe-Or", "days": "34567"},
+  {"freq": "9375", "startTime": "0300", "endTime": "1400", "ITU": "KWT", "station": "RADIO FARDA", "language": "Per", "location": "Kuwait", "days": "1-7"},
   {"freq": "9380", "startTime": "1630", "endTime": "1645", "ITU": "KWT", "station": "VOA Ashna Radio", "language": "Dar", "location": "Kuwait", "days": "1-7"},
   {"freq": "9380", "startTime": "1700", "endTime": "1715", "ITU": "KWT", "station": "VOA Ashna Radio", "language": "Pas", "location": "Kuwait", "days": "1-7"},
   {"freq": "9380", "startTime": "1744", "endTime": "1759", "ITU": "SWZ", "station": "Trans World Radio", "language": "Tur", "location": "Manzini", "days": "7"},
+  {"freq": "9390", "startTime": "0300", "endTime": "1400", "ITU": "KWT", "station": "RADIO FARDA", "language": "Per", "location": "Kuwait", "days": "1-7"},
   {"freq": "9390", "startTime": "1430", "endTime": "1500", "ITU": "TJK", "station": "BBC", "language": "Kor", "location": "Dushanbe-Or", "days": "23456"},
   {"freq": "9390", "startTime": "1530", "endTime": "1600", "ITU": "TJK", "station": "BBC", "language": "Kor", "location": "Dushanbe-Or", "days": "23456"},
   {"freq": "9390", "startTime": "1630", "endTime": "1700", "ITU": "TJK", "station": "BBC", "language": "Kor", "location": "Dushanbe-Or", "days": "23456"},
