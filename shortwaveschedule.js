@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  October 12  2026,  1000 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-10-13 09:53 UTC)
+// A26 Shortwave Frequecy List  October 13  2026,  1000 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-10-14 08:12 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -3220,7 +3220,6 @@ var shortWaveSchedule = [
   {"freq": "9900", "startTime": "1300", "endTime": "1327", "ITU": "TWN", "station": "Living Water Ministry", "language": "Kor", "location": "Paochung", "days": "1-7"},
   {"freq": "9900", "startTime": "1500", "endTime": "1600", "ITU": "TWN", "station": "Living Water Ministry", "language": "Kor", "location": "Paochung", "days": "1-7"},
   {"freq": "9900", "startTime": "2200", "endTime": "2400", "ITU": "TWN", "station": "* R.TAIWAN INT.", "language": "Chi", "location": "Tamsui Dist", "days": "1-7"},
-  {"freq": "9910", "startTime": "1100", "endTime": "1500", "ITU": "PHL", "station": "VOICE OF AMERICA", "language": "Kor", "location": "Tinang", "days": "1-7"},
   {"freq": "9915", "startTime": "0600", "endTime": "0700", "ITU": "ASC", "station": "BBC", "language": "Eng", "location": "Ascension", "days": "1-7"},
   {"freq": "9920", "startTime": "2105", "endTime": "1700", "ITU": "TWN", "station": "* SOH Xi Wang Zhi Sheng", "language": "Chi", "location": "Miaoli", "days": "1-7"},
   {"freq": "9920", "startTime": "1730", "endTime": "2030", "ITU": "PHL", "station": "R.PILIPINAS", "language": "Fil", "location": "Tinang", "days": "1-7"},
