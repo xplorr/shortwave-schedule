@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  October 13  2026,  1000 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-10-18 07:33 UTC)
+// A26 Shortwave Frequecy List  October 18  2026,  1400 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-10-19 08:17 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -4433,6 +4433,7 @@ var shortWaveSchedule = [
   {"freq": "15200", "startTime": "1700", "endTime": "1757", "ITU": "ROU", "station": "R.ROMANIA INT.", "language": "Rom", "location": "Galbeni-Bac", "days": "1-7"},
   {"freq": "15205", "startTime": "1200", "endTime": "1400", "ITU": "UZB", "station": "Radio 60!", "language": "Eng", "location": "Tashkent", "days": "7"},
   {"freq": "15210", "startTime": "0000", "endTime": "0015", "ITU": "TWN", "station": "RADIO FREE ASIA", "language": "Lao", "location": "Paochung", "days": "1-7"},
+  {"freq": "15210", "startTime": "1300", "endTime": "1357", "ITU": "ROU", "station": "R.ROMANIA INT.", "language": "Rus", "location": "Tiganesti", "days": "1-7"},
   {"freq": "15215", "startTime": "1200", "endTime": "1230", "ITU": "UAE", "station": "FEBA Radio", "language": "Tib", "location": "Al-Dhabbiya", "days": "123"},
   {"freq": "15215", "startTime": "1500", "endTime": "1530", "ITU": "GUM", "station": "KSDA-Adventist World R.G", "language": "Kan", "location": "Agat", "days": "1-7"},
   {"freq": "15215", "startTime": "1530", "endTime": "1558", "ITU": "GUM", "station": "KSDA-Adventist World R.G", "language": "Hin", "location": "Agat", "days": "1-7"},
@@ -4745,7 +4746,6 @@ var shortWaveSchedule = [
   {"freq": "15530", "startTime": "1400", "endTime": "1430", "ITU": "GUM", "station": "KSDA-Adventist World R.G", "language": "kxf", "location": "Agat", "days": "1-7"},
   {"freq": "15530", "startTime": "1430", "endTime": "1500", "ITU": "GUM", "station": "KSDA-Adventist World R.G", "language": "kxf", "location": "Agat", "days": "1-7"},
   {"freq": "15530", "startTime": "1500", "endTime": "1530", "ITU": "GUM", "station": "KSDA-Adventist World R.G", "language": "Tam", "location": "Agat", "days": "1-7"},
-  {"freq": "15530", "startTime": "1300", "endTime": "1357", "ITU": "ROU", "station": "R.ROMANIA INT.", "language": "Rus", "location": "Tiganesti", "days": "1-7"},
   {"freq": "15540", "startTime": "0100", "endTime": "0600", "ITU": "CHN", "station": "CNR 2-China Business Rad", "language": "Chi", "location": "Lingshi 725", "days": "1-7"},
   {"freq": "15540", "startTime": "0600", "endTime": "0855", "ITU": "CHN", "station": "CNR 2-China Business Rad", "language": "Chi", "location": "Lingshi 725", "days": "124-7"},
   {"freq": "15540", "startTime": "0855", "endTime": "1100", "ITU": "CHN", "station": "CNR 2-China Business Rad", "language": "Chi", "location": "Lingshi 725", "days": "1-7"},
