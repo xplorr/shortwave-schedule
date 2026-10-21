@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  October 18  2026,  1400 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-10-20 08:02 UTC)
+// A26 Shortwave Frequecy List  October 21  2026,  0001 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-10-21 08:07 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -4183,7 +4183,7 @@ var shortWaveSchedule = [
   {"freq": "13670", "startTime": "0900", "endTime": "1000", "ITU": "CHN", "station": "CNR 6", "language": "Hak", "location": "Nanning 954", "days": "1-7"},
   {"freq": "13670", "startTime": "1900", "endTime": "2000", "ITU": "MDG", "station": "World Christian Broadc.", "language": "Ara", "location": "Mahajanga 3", "days": "1-7"},
   {"freq": "13670", "startTime": "1800", "endTime": "1900", "ITU": "MDG", "station": "World Christian Broadc.A", "language": "Eng", "location": "Mahajanga 3", "days": "1-7"},
-  {"freq": "13670", "startTime": "0200", "endTime": "0600", "ITU": "TKS", "station": "PBS Xinjiang", "language": "Uyg", "location": "Urumqi", "days": "1-7"},
+  {"freq": "13670", "startTime": "0135", "endTime": "0600", "ITU": "TKS", "station": "PBS Xinjiang", "language": "Uyg", "location": "Urumqi", "days": "1-7"},
   {"freq": "13670", "startTime": "0600", "endTime": "0700", "ITU": "TKS", "station": "PBS Xinjiang (CNR13)", "language": "Uyg", "location": "Urumqi", "days": "1-7"},
   {"freq": "13670", "startTime": "0700", "endTime": "0800", "ITU": "TKS", "station": "PBS Xinjiang", "language": "Uyg", "location": "Urumqi", "days": "1-7"},
   {"freq": "13670", "startTime": "0800", "endTime": "0900", "ITU": "TKS", "station": "PBS Xinjiang", "language": "Chi", "location": "Urumqi", "days": "124-7"},
