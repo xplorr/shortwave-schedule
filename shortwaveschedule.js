@@ -1,4 +1,4 @@
-// A26 Shortwave Frequecy List  October 22  2026,  1000 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-10-23 08:05 UTC)
+// A26 Shortwave Frequecy List  October 23 2026,  1000 UTC   Day 1 = Sunday (AOKI Database converted by XPloRR at 2026-10-24 07:45 UTC)
 
 var shortWaveSchedule = [
   {"freq": "40", "startTime": "0000", "endTime": "2400", "ITU": "J", "station": "Time Signal", "language": "A1B", "location": "Otakadoyama", "days": "1-7"},
@@ -2792,6 +2792,7 @@ var shortWaveSchedule = [
   {"freq": "9590", "startTime": "0730", "endTime": "0830", "ITU": "MMR", "station": "Thazin Radio", "language": "Pao", "location": "Naypyidaw", "days": "1-7"},
   {"freq": "9590", "startTime": "0000", "endTime": "0200", "ITU": "UZB", "station": "BBC", "language": "Eng", "location": "Tashkent", "days": "1-7"},
   {"freq": "9595", "startTime": "0900", "endTime": "1100", "ITU": "TWN", "station": "* R.TAIWAN INT.", "language": "Chi", "location": "Paochung", "days": "1-7"},
+  {"freq": "9595", "startTime": "1000", "endTime": "1100", "ITU": "CHN", "station": "CNR 1 Jamming", "language": "Chi", "location": "Kunming-Ann", "days": "1-7"},
   {"freq": "9600", "startTime": "1200", "endTime": "1300", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Eng", "location": "Kunming-Ann", "days": "1-7"},
   {"freq": "9600", "startTime": "1300", "endTime": "1357", "ITU": "CHN", "station": "CHINA RADIO INTERNATIONA", "language": "Ben", "location": "Baoji-Xinji", "days": "1-7"},
   {"freq": "9600", "startTime": "1500", "endTime": "1527", "ITU": "TKS", "station": "CHINA RADIO INTERNATIONA", "language": "Per", "location": "Kashi-Saiba", "days": "1-7"},
@@ -4286,7 +4287,7 @@ var shortWaveSchedule = [
   {"freq": "13825", "startTime": "1200", "endTime": "1300", "ITU": "UZB", "station": "Mizzima Radio", "language": "Bur", "location": "Tashkent", "days": "1-7"},
   {"freq": "13825", "startTime": "2200", "endTime": "2400", "ITU": "OMA", "station": "BBC", "language": "Eng", "location": "Al Seela", "days": "1-7"},
   {"freq": "13825", "startTime": "0053", "endTime": "0900", "ITU": "CHN", "station": "Audio (DRM) 1 xHE AAC", "language": "Chi", "location": "Beijing 572", "days": "1-7"},
-  {"freq": "13825", "startTime": "1000", "endTime": "1030", "ITU": "URU", "station": "CNR 1 Jamming", "language": "Chi", "location": "", "days": "1-7"},
+  {"freq": "13825", "startTime": "1000", "endTime": "1030", "ITU": "TKS", "station": "CNR 1 Jamming", "language": "Chi", "location": "Kashi-Saiba", "days": "1-7"},
   {"freq": "13825", "startTime": "1000", "endTime": "1030", "ITU": "TWN", "station": "* R.TAIWAN INT.", "language": "Can", "location": "Paochung", "days": "1-7"},
   {"freq": "13825", "startTime": "1030", "endTime": "1100", "ITU": "TWN", "station": "R.TAIWAN INT.", "language": "Hak", "location": "Paochung", "days": "1-7"},
   {"freq": "13830", "startTime": "1800", "endTime": "2100", "ITU": "D", "station": "Norddeutscher Rundfunk", "language": "Ger", "location": "Nauen", "days": "3"},
@@ -4538,7 +4539,7 @@ var shortWaveSchedule = [
   {"freq": "15310", "startTime": "1300", "endTime": "1330", "ITU": "TJK", "station": "Trans World Radio", "language": "Chi", "location": "Dushanbe-Or", "days": "1"},
   {"freq": "15310", "startTime": "1300", "endTime": "1340", "ITU": "TJK", "station": "Trans World Radio", "language": "Chi", "location": "Dushanbe-Or", "days": "23456"},
   {"freq": "15310", "startTime": "1300", "endTime": "1345", "ITU": "TJK", "station": "Trans World Radio Women", "language": "Chi", "location": "Dushanbe-Or", "days": "7"},
-  {"freq": "15320", "startTime": "0400", "endTime": "0430", "ITU": "URU", "station": "CNR 1 Jamming", "language": "Chi", "location": "", "days": "1-7"},
+  {"freq": "15320", "startTime": "0400", "endTime": "0430", "ITU": "TKS", "station": "CNR 1 Jamming", "language": "Chi", "location": "Kashi-Saiba", "days": "1-7"},
   {"freq": "15320", "startTime": "1100", "endTime": "1157", "ITU": "ROU", "station": "R.ROMANIA INT.", "language": "Eng", "location": "Tiganesti", "days": "1-7"},
   {"freq": "15320", "startTime": "1200", "endTime": "1227", "ITU": "ROU", "station": "R.ROMANIA INT.", "language": "Ara", "location": "Galbeni-Bac", "days": "1-7"},
   {"freq": "15320", "startTime": "0400", "endTime": "0430", "ITU": "TWN", "station": "* R.TAIWAN INT.", "language": "Can", "location": "Paochung", "days": "1-6"},
