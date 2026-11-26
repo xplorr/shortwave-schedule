@@ -2,6 +2,7 @@ import requests
 import json
 from datetime import datetime
 
+# Change this URL depending on summer/winter schedule. The link can be found at: https://www1.s2.starcat.ne.jp/ndxc/
 AOKI_URL = "https://www1.m2.mediacat.ne.jp/binews/ut/xt/userlist1.txt"
 AOKI_OUTPUT_FILE = "shortwaveschedule.js"
 
